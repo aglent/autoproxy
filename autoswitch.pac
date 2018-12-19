@@ -1,6 +1,7 @@
 vimeocdn.com
 github.com
 raw.githubusercontent.com
+google.com
 |http://85.17.73.31/
 ||agnesb.fr
 ||akiba-web.com
