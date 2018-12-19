@@ -15,6 +15,14 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+!-----User rules-----
+.vimeocdn.com
+||vimeocdn.com
+.github.com
+||github.com
+.raw.githubusercontent.com
+||raw.githubusercontent.com
+
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
