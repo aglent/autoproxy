@@ -1,4 +1,7 @@
-﻿|http://85.17.73.31/
+vimeocdn.com
+github.com
+raw.githubusercontent.com
+|http://85.17.73.31/
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
@@ -6470,7 +6473,6 @@ videopediaworld.com
 vietdaikynguyen.com
 .vijayatemple.org
 vimeo.com
-vimeocdn.com
 ||vimeo.com
 ||vimperator.org
 ||vincnd.com
