@@ -22,6 +22,7 @@
 ||github.com
 .raw.githubusercontent.com
 ||raw.githubusercontent.com
+|https://toutyrater.github.io
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
