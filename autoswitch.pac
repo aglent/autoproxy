@@ -24,7 +24,7 @@
 ||raw.githubusercontent.com
 |https://v2ray.com/
 |https://toutyrater.github.io
-|https://itunes.apple.com/us
+||itunes.apple.com/us
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
