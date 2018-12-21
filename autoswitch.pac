@@ -22,7 +22,7 @@
 ||github.com
 .raw.githubusercontent.com
 ||raw.githubusercontent.com
-|https://v2ray.com/
+||https://v2ray.com/
 |https://toutyrater.github.io
 itunes.apple.com/us
 
