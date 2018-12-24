@@ -1,4 +1,5 @@
 ! Regex
+(?i)^https?://(?:\w+\.)*?(\w*\.(?:com\.cn|cn|com|net))[\\\/]*
 /.+\.com\.cn/
 /.+ac.cn/
 /.+acs.cn/
