@@ -1,6 +1,6 @@
 ! Regex
-(http|https)://(www.)?(\w+(\.)?)*(cn)(\/.*)?$ 
 /.+\.com\.cn/
+/.cn/
 /.+ac.cn/
 /.+acs.cn/
 /.+edu.cn/
