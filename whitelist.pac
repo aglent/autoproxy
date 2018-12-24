@@ -1,5 +1,5 @@
 ! Regex
-^(http:\/\/| https:\/\ /)?(\w*\.)*(cn)(\/.*)?$ 
+^(http:https?:\/\ /)?(\w*\.)*(cn)(\/.*)?$ 
 /.+\.com\.cn/
 /.+ac.cn/
 /.+acs.cn/
