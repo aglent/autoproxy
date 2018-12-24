@@ -217,6 +217,7 @@
 ||doubleclick.net
 ||douyu.com
 ||douyucdn.cn
+||downg.com
 ||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
