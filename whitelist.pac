@@ -313,6 +313,7 @@
 ||ip-api.com
 ||ipip.net
 ||iplaysoft.com
+||ipqi.co
 ||iqing.in
 ||iqiyi.com
 ||it168.com
