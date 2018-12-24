@@ -310,6 +310,7 @@
 ||imququ.com
 ||installbi.me
 ||ip-api.com
+||ip111.cn
 ||ipip.net
 ||iplaysoft.com
 ||ipqi.co
