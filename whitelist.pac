@@ -1,5 +1,6 @@
 ! Regex
 
+! 中国国内域名
 /.+\.com\.cn/
 /.cn/
 /.+ac.cn/
@@ -9,6 +10,8 @@
 /.+net.cn/
 /.+org.cn/
 
+! 如果google搜索字符中包含了中国国内域名 因上面的规则不会走代理 特排除
+! 添加youtube域名是为了解决无法登录google账户的问题
 @@||google.com
 @@||youtube.com
 @@|https://www.paypal.com/us/
@@ -24,6 +27,185 @@
 |https://ipv6.google.com
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
+
+! 中国CDN白名单 来源https://github.com/mawenjian/china-cdn-domain-whitelist/blob/master/china-cdn-domain-whitelist.txt
+! 蓝汛
+||gslbsvc.net.cn
+||chinacache.com.cn
+||ccgslb.net
+||gslbsvc.com.cn
+||cdnsvc.cn
+||ccgslb.cn
+||cdn2cdn.net
+||blueit.org.cn
+||cc-1.com
+||cdnsvc.net
+||ccgslb.com.cn
+||lxsvc.net
+||lxsvc.cn 
+||chinacache.org
+||gslbsvc.com
+||ccgslb.com
+||gslbsvc.cn
+||chinacache.com
+||igslb.net
+||chinacache.net
+||cdnsvc.net.cn
+||ccgslb.net.cn
+||hd-cdn.com
+||cdnsvc.com.cn
+||cdnsvc.com
+||speedupchina.net
+||b2r.com.cn
+||blueit.com
+||lxsvc.cn
+||gslbsvc.net
+||speedupchina.com
+||cc-cps.com
+||cc-cps.com.cn
+||cc-cps.net
+||cc-cps.mobi
+||cc-cps.cn
+||ccb.com
+||ccbench.com
+||webluker.com
+||ccindex.cn
+||ccindex.com.cn
+||ccmplus.com.cn
+||ccmplus.net
+||ccmplus.cn
+
+! Webluker
+||xgslb.net
+
+! 网宿
+||wscdns.com
+||ourglb0.com
+||wsngb.com
+||lxdns.com
+||lxdns.net
+||51cdn.com
+||chinanetcenter.com
+||netcenter.com.cn
+||wangsu.com
+||ourwebat.com
+||ourwebcdn.com
+
+! 快网
+||fastweb.com.cn
+||fwdns.net
+||hadns.net
+||cachecn.net
+||sz-dns.net
+||cachecn.com
+||cloudcdn.cn
+||1test.cn
+||5test.cn
+||fsspace.com
+||fsspace.com.cn
+||fsspace.cn
+||cloudcdn.net
+||fastwebcdn.com
+||hacdn.com
+||fwcdn.com
+||fwcdn.net
+||hacdn.net
+||cloudglb.com
+||cloudxns.net
+||cloudglb.net
+||cloudxns.com
+||cloudtcp.net
+||myxns.cn
+||newdefend.cn
+||myxns.net.cn
+||myxns.com.cn
+||myxns.org
+||newdefend.net
+||newdefend.org
+||newdefend.net.cn
+||newdefend.com.cn
+||newdefend.org.cn
+||newdefend.com
+||ffdns.net
+||fwmob.com
+||tlgslb.com 
+||fastcdn.com 
+
+! 阿里云CDN
+||kunlunea.com
+||kunlunso.com
+||kunlunwe.com
+||kunlunno.com
+||kunlunaq.com
+||kunlunpi.com
+||kunlunra.com
+||kunlungr.com
+||kunlunhuf.com
+||kunlunsl.com
+||kunlunar.com
+||kunlunta.com
+||kunlungem.com
+||kunluncan.com
+||kunlunle.com
+||kunlunvi.com
+||kunlunli.com
+||kunlunsc.com
+||kunlunsa.com
+||kunlunca.com
+||alikunlun.net
+||alikunlun.com
+
+！腾讯CDN
+||qcloud.com
+||myqcloud.com
+||tcdn.qq.com
+||cdntip.com
+
+! 百度云CDN
+||bdydns.net
+||bcedns.net
+||bcedns.com
+||bcedns.cn
+||bdydns.com
+||baiduyundns.net
+||bdydns.cn
+||baiduyundns.com
+||baiduyundns.cn
+
+! 百度云加速
+||yunjiasu-cdn.net
+
+! 七牛
+||qiniudn.com
+||qbox.me
+||clouddn.com
+||qiniudns.com
+
+! 又拍云
+||aicdn.com
+
+! 360网站卫士
+||dnspao.com
+||360wzb.cn
+
+! 同兴万点CDN
+||cdngc.net
+||cdnetworks.net
+||gccdn.net
+
+! CDN联盟
+||cdnudns.com
+
+! 白山云 
+||qingcdn.com
+
+! 未知
+||hdslb.com
+||hdslb.net
+
+!-------------------------------------
+
+! 国内常用域名
 
 ! 0
 ||0o0.ooo
@@ -51,6 +233,7 @@
 
 ! 2
 ||2345.com
+||21cn.com
 ||2cto.com
 
 ! 3
@@ -185,6 +368,7 @@
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
+||cmbchina.com
 ||cnbeta.com
 ||cnblogs.com
 ||cnki.net
@@ -319,6 +503,7 @@
 ||i21st.cn
 ||iapps.im
 ||iaweg.com
+||ibm.com
 ||ibruce.info
 ||iciba.com
 ||ieee.org
@@ -433,6 +618,7 @@
 ||mengniang.org
 ||mi.com
 ||miaopai.com
+||microsoft.com
 ||mikanani.me
 ||mindstore.io
 ||mingdao.com
