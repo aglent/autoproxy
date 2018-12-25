@@ -582,6 +582,7 @@
 ||sspai.com
 ||stargame.com
 ||steamcn.com
+||sui.com
 ||suning.com
 ||swapteam.cn
 ||sznews.com
