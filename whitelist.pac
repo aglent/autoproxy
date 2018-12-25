@@ -10,6 +10,7 @@
 /.+org.cn/
 
 @@||google.com
+@@||youtube.com
 @@|https://www.paypal.com/us/
 
 /10\.\d+\.\d+\.\d+/
