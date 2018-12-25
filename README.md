@@ -7,6 +7,12 @@
 <p>
 <p> 
 使用方法：
-<p>SwitchyOmega扩展里新建auto switch模式 规则列表地址填入
-<p>![image](https://github.com/aglent/autoproxy/blob/master/gfwlist.png)
+1.黑名单模式
+<p>SwitchyOmega扩展里新建switch profile模式
+<p>规则列表地址填入 https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.pac 格式选择 autoproxy
+<p>![image](https://github.com/aglent/autoproxy/blob/master/autoproxy/gfwlist.png)
+<p>2.白名单模式
+<p>SwitchyOmega扩展里新建switch profile模式 
+<p>规则列表地址填入 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
 
+      
