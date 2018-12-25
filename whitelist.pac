@@ -1,11 +1,13 @@
 ! Regex
-/.+\.com\.cn/
-/.cn/
-/.+ac.cn/
-/.+acs.cn/
-/.+edu.cn/
-/.+gov.cn/
-/.+net.cn/
+(?i)^https?://(?:\w+\.)*?(\w*\.(?:com\.cn|cn|edu\.cn|gov\.cn|net\.cn))[\\\/]*
+
+! /.+\.com\.cn/
+! /.cn/
+! /.+ac.cn/
+! /.+acs.cn/
+! /.+edu.cn/
+! /.+gov.cn/
+! /.+net.cn/
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
