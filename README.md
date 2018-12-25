@@ -4,7 +4,7 @@
 <p>黑名单gfwlist.pac来源  https://github.com/gfwlist/gfwlist
 <p>白名单whitelist.pac来源 https://github.com/neko-dev/gfw_whitelist
 <p>本人在他们的基础上修改、新增了一些规则
-<br/>
+<br>
 <p>使用方法：
 <p>1.黑名单模式
 <p>SwitchyOmega扩展里新建switch profile模式
