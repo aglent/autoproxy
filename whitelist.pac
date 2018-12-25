@@ -10,7 +10,7 @@
 /.+org.cn/
 
 @@||google.com
-@@||paypal.com/us
+@@|paypal.com/us/
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
