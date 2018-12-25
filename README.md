@@ -3,7 +3,7 @@
 <P>这是自用的自动代理规则列表
 <p>黑名单gfwlist.pac来源  https://github.com/gfwlist/gfwlist
 <p>白名单whitelist.pac来源 https://github.com/neko-dev/gfw_whitelist
-<p>本人在他们的基础上修改了一部分规则 增加了国内CDN域名和常用域名
+<p>本人在黑名单基础上增加了一部分规则 在白名单的基础上增加了国内CDN域名和常用域名
 <p></p>
 <p>使用方法：
 <p>1.黑名单模式
