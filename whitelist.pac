@@ -1,5 +1,12 @@
 ! Regex
+/.+\.com\.cn/
 /.cn/
+/.+ac.cn/
+/.+acs.cn/
+/.+edu.cn/
+/.+gov.cn/
+/.+net.cn/
+/.+org.cn/
 @@||google.com
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
