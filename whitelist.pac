@@ -215,12 +215,14 @@
 ||10086.cn
 ||114la.com
 ||115.com
+||123cha.com
 ||126.com
 ||126.net
 ||127.net
 ||163.com
 ||1688.com
 ||17173.com
+||1717388.com
 ||178.com
 ||17ce.com
 ||17k.com
@@ -254,6 +256,7 @@
 ||51.la
 ||51cto.com
 ||51job.com
+||51jobcdn.com
 ||51fund.com
 ||52asus.com
 ||52pojie.cn
@@ -265,6 +268,7 @@
 ||6.cn
 
 ! 7
+||766.com
 ||7k7k.com
 ||7to.cn
 
@@ -276,6 +280,7 @@
 ||99fund.com
 
 ! A
+||a963.com
 ||acfun.cn
 ||acfun.tv
 ||acg.tv
@@ -303,6 +308,7 @@
 ||amazon.cn
 ||anjuke.com
 ||anquan.org
+||anquanbao.com
 ||anzhi.com
 ||appcgn.com
 ||appgame.com
@@ -359,6 +365,7 @@
 ||cee.network
 ||china.com
 ||chinadsl.net
+||chinaso.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
@@ -371,9 +378,11 @@
 ||cmbchina.com
 ||cnbeta.com
 ||cnblogs.com
+||cnepub.com
 ||cnki.net
 ||cnr.cn
 ||cntv.cn
+||cnwest.com
 ||cnzz.com
 ||cnzz.net
 ||coderstory.cn
@@ -434,6 +443,7 @@
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
+||ele.me
 ||erji.net
 ||etao.com
 ||eudic.net
@@ -456,6 +466,7 @@
 ||geetest.com
 ||getfedora.org
 ||getui.com
+||gewara.com
 ||gfan.com
 ||gitee.com
 ||gmw.cn
@@ -488,6 +499,7 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huazhu.com
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -502,6 +514,7 @@
 ||i-meto.com
 ||i21st.cn
 ||iapps.im
+||iask.com
 ||iaweg.com
 ||ibm.com
 ||ibruce.info
@@ -548,6 +561,7 @@
 ||jianshu.io
 ||jiathis.com
 ||jiemian.com
+||jiepang.com
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
@@ -679,6 +693,7 @@
 ||playubuntu.cn
 ||plu.cn
 ||portablesoft.org
+||pplive.com
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -840,6 +855,7 @@
 ||w3school.com.cn
 ||waerfa.com
 ||wandoujia.com
+||wangyin.com
 ||wanmei.com
 ||webofknowledge.com
 ||weibo.com
@@ -907,6 +923,7 @@
 ||zhiziyun.com
 ||zhongkao.com
 ||zhujike.com
+||ziroom.com
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
