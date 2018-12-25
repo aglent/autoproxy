@@ -10,6 +10,7 @@
 /.+org.cn/
 
 @@||google.com
+@@||paypal.com/us
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
@@ -480,6 +481,7 @@
 ||paipai.com
 ||panda.tv
 ||panduoduo.net
+||paypal.com
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
