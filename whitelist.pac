@@ -1,4 +1,5 @@
 ! Regex
+
 /.+\.com\.cn/
 /.cn/
 /.+ac.cn/
@@ -7,13 +8,14 @@
 /.+gov.cn/
 /.+net.cn/
 /.+org.cn/
+
 @@||google.com
-/113\.55\.\d+\.\d+/
-/120\.77\.\d+\.\d+/
+
+/10\.\d+\.\d+\.\d+/
+/127\.0\.0\.1/
 /172\.16\.\d+\.\d+/
-/183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
-/210\.34\.4\.28/
+
 
 ! Subdomain
 |https://az764295.vo.msecnd.net
@@ -67,6 +69,8 @@
 ||51.la
 ||51cto.com
 ||51job.com
+||51fund.com
+||52asus.com
 ||52pojie.cn
 ||56.com
 ||58.com
@@ -84,6 +88,7 @@
 
 ! 9
 ||91.com
+||99fund.com
 
 ! A
 ||acfun.cn
@@ -114,6 +119,7 @@
 ||anjuke.com
 ||anquan.org
 ||anzhi.com
+||appcgn.com
 ||appgame.com
 ||appinn.com
 ||aps.org
@@ -151,6 +157,7 @@
 ||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
+||byfunds.com
 
 ! C
 ||cachemoment.com
@@ -166,6 +173,7 @@
 ||ceair.com
 ||cee.network
 ||china.com
+||chinadsl.net
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
@@ -188,6 +196,7 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||cqvip.com
 ||csair.com
 ||csdn.net
 ||csdnimg.cn
@@ -231,11 +240,15 @@
 
 ! E
 ||eastmoney.com
+||eccn.com
 ||eeboard.com
+||edingyue.com
+||elecfans.com
 ||elemecdn.com
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
+||erji.net
 ||etao.com
 ||eudic.net
 
@@ -244,11 +257,13 @@
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
+||fengqu.com
 ||fir.im
 ||flow.ci
 ||freebuf.com
 
 ! G
+||gaokao.com
 ||gamersky.com
 ||ganji.com
 ||gank.io
@@ -259,7 +274,9 @@
 ||gitee.com
 ||gmw.cn
 ||golaravel.com
+||gotoread.com
 ||gtimg.cn
+||guahao.com
 ||guancha.cn
 ||guokr.com
 
@@ -267,8 +284,10 @@
 ||h-ui.net
 ||h2os.com
 ||hacpai.com
+||haiyinhui.com
 ||halyul.cc
 ||hao123.com
+||haodf.com
 ||hdslb.com
 ||hdslb.net
 ||hejie.me
@@ -309,6 +328,7 @@
 ||iguxuan.com
 ||iknoworld.net
 ||im9.com
+||imaschina.com
 ||imiku.me
 ||imjad.cn
 ||imooc.com
@@ -325,6 +345,7 @@
 ||itellyou.cn
 ||iteye.com
 ||ithome.com
+||itpub.net
 
 ! J
 ||j.cn
@@ -345,12 +366,15 @@
 ||jisuanke.com
 ||jomodns.com
 ||joyyang.com
+||jzb.com
 
 ! K
 ||kafan.cn
 ||kan300.com
 ||kancloud.cn
 ||kankan.com
+||kaola.com
+||kaoqin.com
 ||kekenet.com
 ||kf5.com
 ||kmf.com
@@ -364,6 +388,7 @@
 ||lackar.com
 ||lany.me
 ||lanyus.com
+||laomoit.com
 ||laravel-china.org
 ||lbesec.com
 ||le.com
@@ -382,6 +407,7 @@
 ||lofter.com
 ||lolinet.com
 ||longzhu.com
+||lu.com
 ||lucifr.com
 ||luojuly.cn
 ||luoo.net
@@ -390,6 +416,7 @@
 
 ! M
 ||mail4geek.com
+||mangocity.com
 ||maoyan.com
 ||masadora.net
 ||materializecss.cn
@@ -424,6 +451,7 @@
 
 ! N
 ||nature.com
+||ncfwx.com
 ||nekonazo.com
 ||netease.com
 ||netease.im
@@ -451,6 +479,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||panduoduo.net
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
@@ -460,6 +489,7 @@
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
+||portablesoft.org
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -487,9 +517,12 @@
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
+||qx121.com
 ||qunar.com
+||qyer.com
 
 ! R
+||repaik.com
 ||renren.com
 ||researchgate.net
 ||right.com.cn
@@ -516,6 +549,7 @@
 ||segmentfault.com
 ||sensorsdata.cn
 ||sf-express.com
+||sfbest.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
@@ -555,17 +589,21 @@
 ||taobao.com
 ||taobaocdn.com
 ||tbcdn.cn
+||tech-ex.com
 ||tencent.com
 ||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
 ||tgbus.com
+||themex.net
 ||thepaper.cn
 ||thinkphp.cn
 ||thomsonreuters.com
+||thunderex.com
 ||tianya.cn
 ||tietuku.com
 ||tigerlust.com
+||tingall.com
 ||tingyun.com
 ||tmall.com
 ||tool.lu
@@ -622,8 +660,10 @@
 ||wiley.com
 ||wisenjoy.com
 ||wiz.cn
+||wjasset.com
 ||wodemo.com
 ||woyoo.com
+||wstx.com
 
 ! X
 ||xcar.com.cn
@@ -633,6 +673,7 @@
 ||xiami.com
 ||xiaomi.com
 ||xinhuanet.com
+||xitek.com
 ||xitu.io
 ||xldns.net
 ||xs8.cn
@@ -674,6 +715,7 @@
 ||zhihu.com
 ||zhimg.com
 ||zhiziyun.com
+||zhongkao.com
 ||zhujike.com
 ||zimuzu.tv
 ||znyj365.com
