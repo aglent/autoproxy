@@ -13,6 +13,6 @@
 <p>2.白名单模式
 <p>SwitchyOmega扩展里新建switch profile模式 
 <p>规则列表地址填入 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
-<p>图示 <a href="https://github.com/aglent/autoproxy/blob/master/whitelist.png]whitelist.png</a>
+<p>图示 <a href="https://github.com/aglent/autoproxy/blob/master/whitelist.png">whitelist.png</a>
 
 
