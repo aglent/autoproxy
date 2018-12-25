@@ -9,5 +9,5 @@
 使用方法：
 <p>SwitchyOmega扩展里新建auto switch模式 规则列表地址填入
 <p>https://raw.githubusercontent.com/aglent/autoproxy/master/autoswitch.pac
-[gfwlist.png](https://github.com/aglent/autoproxy/blob/master/gfwlist.png)
+![](https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.png)
 
