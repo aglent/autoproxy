@@ -481,7 +481,7 @@
 ||paipai.com
 ||panda.tv
 ||panduoduo.net
-||paypal.com
+|https://www.paypal.com/c2/
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
