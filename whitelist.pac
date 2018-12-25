@@ -1,5 +1,5 @@
 ! Regex
-@"(?i)http://(\w+\.){1,3}((com|net)(\.cn)?|cn)\b")
+(?i)http://(\w+\.){1,3}((com|net)(\.cn)?|cn)\b
 
 ! /.+\.com\.cn/
 ! /.cn/
