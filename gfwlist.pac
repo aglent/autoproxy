@@ -26,6 +26,7 @@
 ||v2ray.com
 |https://toutyrater.github.io
 itunes.apple.com/us
+||ikafan.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
