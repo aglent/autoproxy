@@ -14,6 +14,7 @@
 ! 添加youtube域名是为了解决无法登录google账户的问题
 @@||google.com
 @@||youtube.com
+@@||appspot.com
 @@|https://www.paypal.com/us/
 
 /10\.\d+\.\d+\.\d+/
