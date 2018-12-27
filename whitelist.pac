@@ -15,6 +15,7 @@
 @@||google.com
 @@||youtube.com
 @@||appspot.com
+@@||v2ray.com
 @@|https://www.paypal.com/us/
 
 /10\.\d+\.\d+\.\d+/
@@ -22,7 +23,6 @@
 /172\.16\.\d+\.\d+/
 /192\.168\.\d+\.\d+/
 
-||loli.net
 ! Subdomain
 |https://az764295.vo.msecnd.net
 |https://ipv6.google.com
