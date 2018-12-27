@@ -723,7 +723,7 @@
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
-qx121.com
+.qx121.com
 ||qunar.com
 ||qyer.com
 
