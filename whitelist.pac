@@ -22,7 +22,7 @@
 /172\.16\.\d+\.\d+/
 /192\.168\.\d+\.\d+/
 
-
+||loli.net
 ! Subdomain
 |https://az764295.vo.msecnd.net
 |https://ipv6.google.com
