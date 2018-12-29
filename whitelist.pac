@@ -542,6 +542,7 @@
 ||ipqi.co
 ||iqing.in
 ||iqiyi.com
+||iqiyipic.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
