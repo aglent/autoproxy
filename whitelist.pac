@@ -9,7 +9,6 @@
 /.+gov.cn/
 /.+net.cn/
 /.+org.cn/
-|https://images.ifanr.cn/*.svg
 
 ! 如果google搜索字符中包含了中国国内域名 因上面的规则不会走代理 特排除
 ! 添加youtube域名是为了解决无法登录google账户的问题
