@@ -324,6 +324,7 @@
 ! B
 ||baidu.com
 ||baiducontent.com
+||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
 ||bankcomm.com
