@@ -592,6 +592,7 @@
 ||lackar.com
 ||lany.me
 ||lanyus.com
+||lanzous.com
 ||laomoit.com
 ||laravel-china.org
 ||lbesec.com
