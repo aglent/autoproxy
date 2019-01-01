@@ -528,6 +528,7 @@
 ||ifeng.com
 ||ifengimg.com
 ||iguxuan.com
+||ikafan.com
 ||iknoworld.net
 ||im9.com
 ||imaschina.com
