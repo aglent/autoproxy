@@ -590,6 +590,7 @@
 ||kuaizhan.com
 
 ! L
+||labi.com
 ||lackar.com
 ||lany.me
 ||lanyus.com
