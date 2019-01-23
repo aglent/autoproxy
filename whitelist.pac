@@ -259,6 +259,7 @@
 ||51job.com
 ||51jobcdn.com
 ||51fund.com
+||51talk.com
 ||52asus.com
 ||52pojie.cn
 ||56.com
