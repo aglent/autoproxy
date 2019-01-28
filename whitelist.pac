@@ -299,6 +299,7 @@
 ||akarin.me
 ||akarin.top
 ||alibaba.com
+||alibabacloud.com
 ||alicdn.com
 ||alimama.com
 ||alipay.com
