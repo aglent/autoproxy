@@ -25,6 +25,7 @@
 ||v2ray.com
 itunes.apple.com/us
 ||ikafan.com
+||myjs.tw
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
