@@ -26,6 +26,8 @@
 itunes.apple.com/us
 ||ikafan.com
 ||myjs.tw
+||shadowsocks.com
+||cordcloud.cc
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
