@@ -17,6 +17,7 @@
 @@||appspot.com
 @@||v2ray.com
 @@|https://www.paypal.com/us/
+@@||nexitally.com
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
