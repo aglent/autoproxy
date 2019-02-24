@@ -421,6 +421,7 @@
 ||dingtalk.com
 ||diybeta.com
 ||diyvm.com
+||dlercloud.net
 ||dm5.com
 ||dmzj.com
 ||dnspod.cn
