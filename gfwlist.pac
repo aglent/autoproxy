@@ -28,6 +28,8 @@ itunes.apple.com/us
 ||myjs.tw
 ||shadowsocks.com
 ||cordcloud.cc
+||nexitally.com
+
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
