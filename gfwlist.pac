@@ -29,6 +29,7 @@ itunes.apple.com/us
 ||shadowsocks.com
 ||cordcloud.cc
 ||nexitally.com
+||dlercloud.com
 
 
 !---------403/451/520 & URL Redirects---------
