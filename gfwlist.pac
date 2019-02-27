@@ -26,6 +26,7 @@
 itunes.apple.com/us
 ||ikafan.com
 ||myjs.tw
+||maying.co
 ||shadowsocks.com
 ||cordcloud.cc
 ||nexitally.com
