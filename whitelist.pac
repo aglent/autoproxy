@@ -18,8 +18,6 @@
 @@||v2ray.com
 @@|https://www.paypal.com/us/
 @@||nexitally.com
-! 解决Firefox不能正常加载Youtube视频
-@@||googlevideo.com
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
