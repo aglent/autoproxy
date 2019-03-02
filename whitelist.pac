@@ -503,6 +503,7 @@
 ||hitokoto.cn
 ||hiwifi.com
 ||hostker.com
+||hotmail.com
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
@@ -614,6 +615,7 @@
 ||liaoxuefeng.com
 ||linuxidc.com
 ||liyin.date
+||live.com
 ||lizhi.io
 ||lncld.net
 ||locvps.com
@@ -688,6 +690,7 @@
 ||oschina.io
 ||oschina.net
 ||ourdvsss.com
+||outlook.com
 ||overwatchleague.cn
 
 ! P
