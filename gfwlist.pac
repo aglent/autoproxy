@@ -31,6 +31,7 @@ itunes.apple.com/us
 ||cordcloud.cc
 ||nexitally.com
 ||dlercloud.com
+||steemit.com
 
 
 !---------403/451/520 & URL Redirects---------
