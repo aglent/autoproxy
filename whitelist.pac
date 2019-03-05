@@ -20,7 +20,7 @@
 @@|https://www.paypal.com/us/
 @@||nexitally.com
 @@||googlevideo.com
-@@||steemit.com/cn
+@@||steemit.com
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
