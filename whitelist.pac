@@ -799,7 +799,7 @@
 ||sspai.com
 ||stargame.com
 ||steamcn.com
-||https://steemit.com/cn/
+||steemit.com/cn
 ||sui.com
 ||suning.com
 ||swapteam.cn
