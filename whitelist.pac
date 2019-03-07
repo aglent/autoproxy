@@ -355,7 +355,7 @@
 ||bt0.com
 ||bumimi.com
 ||buu.edu.cn
-||bwh8.net
+||bwh88.net
 ||bybbs.org
 ||byfunds.com
 
