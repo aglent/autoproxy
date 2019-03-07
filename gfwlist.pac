@@ -32,6 +32,7 @@ itunes.apple.com/us
 ||nexitally.com
 ||dlercloud.com
 ||steemit.com
+||bwh8.net
 
 
 !---------403/451/520 & URL Redirects---------
