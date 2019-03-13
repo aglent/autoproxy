@@ -417,6 +417,7 @@
 ||ddos.cc
 ||deepin.com
 ||deepin.org
+||dgtle.com
 ||dianping.com
 ||dict.cn
 ||dilidili.com
@@ -438,6 +439,7 @@
 ||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
+||duitang.com
 ||duoshuo.com
 ||duowan.com
 ||dwstatic.com
@@ -465,6 +467,7 @@
 ||fengniao.com
 ||fengqu.com
 ||fir.im
+||fliggy.com
 ||flow.ci
 ||freebuf.com
 
@@ -596,11 +599,13 @@
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
+||kuaidi100.com
 ||kuaizhan.com
 
 ! L
 ||labi.com
 ||lackar.com
+||lagou.com
 ||lany.me
 ||lanyus.com
 ||lanzous.com
@@ -731,6 +736,7 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiushibaike.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -919,6 +925,7 @@
 ||yesky.com
 ||yiche.com
 ||yiclear.com
+||yingjiesheng.com
 ||yinxiang.com
 ||ykimg.com
 ||ylmf.net
