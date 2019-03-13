@@ -324,6 +324,7 @@
 ||anquan.org
 ||anquanbao.com
 ||anzhi.com
+||aoshu.com
 ||appcgn.com
 ||appgame.com
 ||appinn.com
