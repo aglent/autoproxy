@@ -218,8 +218,10 @@
 ! 1
 ||10010.com
 ||10086.cn
+||114best.com
 ||114la.com
 ||115.com
+||120ask.com
 ||123cha.com
 ||126.com
 ||126.net
@@ -252,6 +254,7 @@
 ||360buyimg.com
 ||360doc.com
 ||36kr.com
+||39.net
 ||3dmgame.com
 
 ! 4
@@ -263,7 +266,10 @@
 ||51job.com
 ||51jobcdn.com
 ||51fund.com
+||51mokao.com
 ||51talk.com
+||51test.net
+||51voa.com
 ||52asus.com
 ||52pojie.cn
 ||56.com
@@ -311,6 +317,7 @@
 ||alisports.com
 ||aliyun.com
 ||aliyuncs.com
+||alloyteam.com
 ||amap.com
 ||amazon.cn
 ||anjuke.com
@@ -328,12 +335,15 @@
 ||autohome.com.cn
 
 ! B
+||b1bj.com
+||baicizhan.com
 ||baidu.com
 ||baiducontent.com
 ||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
 ||bankcomm.com
+||baozou.com
 ||baozoumanhua.com
 ||battlenet.com.cn
 ||bdimg.com
@@ -344,6 +354,7 @@
 ||biligame.com
 ||biligame.net
 ||bing.com
+||bitauto.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
@@ -353,6 +364,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||budejie.com
 ||bumimi.com
 ||buu.edu.cn
 ||bwh88.net
@@ -373,6 +385,7 @@
 ||ceair.com
 ||cee.network
 ||china.com
+||chinabyte.com
 ||chinadsl.net
 ||chinaso.com
 ||chinassl.net
@@ -426,6 +439,7 @@
 ||diybeta.com
 ||diyvm.com
 ||dlercloud.net
+||douguo.com
 ||dm5.com
 ||dmzj.com
 ||dnspod.cn
@@ -462,6 +476,7 @@
 
 ! F
 ||fang.com
+||fangdd.com
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
@@ -476,6 +491,7 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||geekpark.net
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -507,9 +523,12 @@
 ||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
+||hjenglish.com
+||hongxiu.com
 ||hostker.com
 ||hotmail.com
 ||huaban.com
+||huajiao.com
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
@@ -521,6 +540,7 @@
 ||huomao.com
 ||hupu.com
 ||huxiu.com
+||huya.com
 ||hxjyb.com
 ||hy233.tv
 
@@ -533,6 +553,7 @@
 ||ibm.com
 ||ibruce.info
 ||iciba.com
+||icourse163.org
 ||ieee.org
 ||ifanr.com
 ||ifanr.in
@@ -550,6 +571,7 @@
 ||installbi.me
 ||ip-api.com
 ||ip111.cn
+||ip138.com
 ||ipip.net
 ||iplaysoft.com
 ||ipqi.co
@@ -572,6 +594,7 @@
 ||jd.com
 ||jfrft.com
 ||jhdec.com
+||jiakaobaodian.com
 ||jianguoyun.com
 ||jianshu.com
 ||jianshu.io
@@ -579,10 +602,13 @@
 ||jiemian.com
 ||jiepang.com
 ||jikexueyuan.com
+||jingyu.com
 ||jinshuju.net
 ||jisuanke.com
 ||jomodns.com
 ||joyyang.com
+||juejin.im
+||jxedt.com
 ||jzb.com
 
 ! K
@@ -601,6 +627,7 @@
 ||ku6.com
 ||kuaidi100.com
 ||kuaizhan.com
+||kugou.com
 
 ! L
 ||labi.com
@@ -614,12 +641,17 @@
 ||lbesec.com
 ||le.com
 ||leancloud.cn
+||leiphone.com
+||leju.com
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
+||lianjia.com
 ||liaoxuefeng.com
+||lingfengyun.com
+||linuxde.net
 ||linuxidc.com
 ||liyin.date
 ||live.com
@@ -643,14 +675,19 @@
 ||masadora.net
 ||materializecss.cn
 ||maxfox.me
+||mbalib.com
 ||mcbbs.net
 ||mdui.org
 ||mediav.com
+||meilishuo.com
 ||meiqia.com
+||meishichina.com
+||meishij.net
 ||meituan.com
 ||meituan.net
 ||meizu.com
 ||mengniang.org
+||mgtv.com
 ||mi.com
 ||miaopai.com
 ||microsoft.com
@@ -663,6 +700,7 @@
 ||moe.im
 ||moe123.net
 ||moetransit.com
+||mogujie.com
 ||mokeedev.com
 ||momentcdn.com
 ||msftconnecttest.com
@@ -680,6 +718,7 @@
 ||netease.im
 ||netseer.com
 ||newsmth.net
+||nipic.com
 ||nga.cn
 ||ngacn.cc
 ||nuomi.com
@@ -691,6 +730,7 @@
 ||omico.me
 ||oneplus.cn
 ||oneplusbbs.com
+||onlylady.com
 ||open-open.com
 ||ops.moe
 ||oray.com
@@ -737,6 +777,7 @@
 ||qiniu.com
 ||qiniucdn.com
 ||qiushibaike.com
+||qiuziti.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -850,6 +891,7 @@
 ||tuniu.com
 
 ! U
+||u17.com
 ||u9u9.com
 ||ubuntu.org.cn
 ||uisdc.com
@@ -864,6 +906,7 @@
 ! V
 ||v2ex.com
 ||vamaker.com
+||variflight.com
 ||varmilo.com
 ||vhall.com
 ||videojj.com
@@ -903,12 +946,15 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaomi.com
+||ximalaya.com
 ||xinhuanet.com
+||xinshipu.com
 ||xitek.com
 ||xitu.io
 ||xldns.net
 ||xs8.cn
 ||xuanfengge.com
+||xueqiu.com
 ||xuetangx.com
 ||xujc.com
 ||xunlei.com
@@ -916,6 +962,7 @@
 ||xx1t.com
 ||xxsy.net
 ||xycdn.com
+||xywy.com
 
 ! Y
 ||yamibo.com
@@ -923,13 +970,16 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yicai.com
 ||yiche.com
 ||yiclear.com
 ||yingjiesheng.com
 ||yinxiang.com
+||yinyuetai.com
 ||ykimg.com
 ||ylmf.net
 ||ynzs.cn
+||yoka.com
 ||youdao.com
 ||youku.com
 ||youth.cn
@@ -940,11 +990,14 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zdic.net
+||zealer.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
 ||zhaojin97.cn
 ||zhaopin.com
+||zhibo8.cc
 ||zhihu.com
 ||zhimg.com
 ||zhiziyun.com
@@ -954,4 +1007,6 @@
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zongheng.com
 ||zuk.cn
+||zybuluo.com
