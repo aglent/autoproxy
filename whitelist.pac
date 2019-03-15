@@ -467,6 +467,7 @@
 ||edingyue.com
 ||elecfans.com
 ||elemecdn.com
+||elong.com
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
@@ -533,6 +534,7 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huaweicloud.com
 ||huazhu.com
 ||huiji.wiki
 ||huijistatic.com
