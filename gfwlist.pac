@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: YNUVjY31n8So9bBk45dcWw
+! Checksum: bRzfPEhDZZPfTO7lFSmEuw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 20 Jan 2019 20:03:15 +0800
+! Last Modified: Sun, 03 Mar 2019 22:23:00 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -22,7 +22,6 @@
 ||github.com
 .raw.githubusercontent.com
 ||raw.githubusercontent.com
-||v2ray.com
 itunes.apple.com/us
 ||ikafan.com
 ||myjs.tw
@@ -31,9 +30,7 @@ itunes.apple.com/us
 ||cordcloud.cc
 ||nexitally.com
 ||dlercloud.com
-||steemit.com
 ||bwh8.net
-
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
@@ -339,6 +336,7 @@ share.dmhy.org
 ||mastodon.host
 ||mastodon.social
 ||matters.news
+||me.me
 ||metart.com
 ||mohu.club
 ||mohu.ml
@@ -403,6 +401,7 @@ share.dmhy.org
 ||scache2.vzw.com
 ||ss7.vzw.com
 ||ssr.tools
+||steemit.com
 ||taiwanjustice.net
 ||tinc-vpn.org
 ||wenzhao.ca
