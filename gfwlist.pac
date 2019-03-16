@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bRzfPEhDZZPfTO7lFSmEuw
+! Checksum: WYl1R9HqnoylEG/pxMcwIA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 03 Mar 2019 22:23:00 -0500
+! Last Modified: Fri, 15 Mar 2019 17:05:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -302,6 +302,7 @@ share.dmhy.org
 ||cmcn.org
 ||cmx.im
 ||dailyview.tw
+||daum.net
 ||depositphotos.com
 ||doubibackup.com
 ||doubmirror.cf
@@ -358,6 +359,7 @@ share.dmhy.org
 ||pincong.rocks
 ||pixiv.net
 ||premproxy.com
+||prism-break.org
 ||protonvpn.com
 ||api.pureapk.com
 ||quora.com
@@ -1238,6 +1240,7 @@ ftchinese.com/story/001071200
 ||1e100.net
 ||466453.com
 ||abc.xyz
+||about.google
 ||admob.com
 ||adsense.com
 ||agoogleaday.com
@@ -1286,6 +1289,7 @@ blogspot.com
 ||g.co
 ||gcr.io
 ||get.app
+||get.dev
 ||get.how
 ||get.page
 ||getmdl.io
@@ -1314,6 +1318,7 @@ blogspot.com
 .google.co.uk
 .google.com
 .google.de
+||google.dev
 .google.dj
 .google.dk
 .google.es
@@ -1426,6 +1431,7 @@ blogspot.com
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
+||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||urchin.com
@@ -1984,6 +1990,8 @@ aniscartujo.com
 anonymise.us
 .anonymitynetwork.com
 .anonymizer.com
+.anonymouse.org
+||anonymouse.org
 anontext.com
 .anpopo.com
 .answering-islam.org
@@ -3300,7 +3308,6 @@ nytimes.map.fastly.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
-||fbsbx.com
 .fc2.com
 .fc2china.com
 .fc2cn.com
@@ -4670,6 +4677,8 @@ kinghost.com
 !--.kingstone.com.tw/book/
 ||kingstone.com.tw
 .kink.com
+.kinokuniya.com
+||kinokuniya.com
 killwall.com
 ||killwall.com
 ||kinmen.travel
