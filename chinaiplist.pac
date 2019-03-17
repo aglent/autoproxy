@@ -41,7 +41,7 @@ function FindProxyForURL(url, host) {
   return proxy;
 }
 
-// Source: http://ftp.apnic.net/stats/apnic/delegated-apnic-latest
+//IP Range
 
 var CHINA = [
   // Format: [Hex IP, mask]
