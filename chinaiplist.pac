@@ -41,7 +41,7 @@ function FindProxyForURL(url, host) {
   return proxy;
 }
 
-// Source: http://www.ipdeny.com/ipblocks/data/aggregated/cn-aggregated.zone
+// Source: http://ftp.apnic.net/stats/apnic/delegated-apnic-latest
 
 var CHINA = [
   // Format: [Hex IP, mask]
