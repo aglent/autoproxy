@@ -20,4 +20,4 @@
 <p>使用方法：
 <p>下载chinaiplist.pac，SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL。
 <p>例如pac文件的绝对路径是d:\chinaiplist.pac，PAC URL填写file://d:/chinaiplist.pac。
-中国国内IP段会不定期更新。
+<p>中国国内IP段会不定期更新。
