@@ -395,6 +395,7 @@
 ||chiphell.com
 ||chsi.com.cn
 ||chuangzaoshi.com
+||cifm.com
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
