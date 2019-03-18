@@ -45,7 +45,6 @@ function FindProxyForURL(url, host) {
 
 var CHINA = [
   // Format: [Hex IP, mask]
-  // e.g. 1.0.1.0/24 = [0x80008000, 0xFFFFFF00]
   [0x01000100, 0xffffff00],
   [0x01000200, 0xfffffe00],
   [0x01000800, 0xfffff800],
