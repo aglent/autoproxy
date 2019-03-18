@@ -27,7 +27,6 @@ itunes.apple.com/us
 ||myjs.tw
 ||maying.co
 ||shadowsocks.com
-||cordcloud.cc
 ||nexitally.com
 ||dlercloud.com
 ||bwh8.net
