@@ -661,6 +661,7 @@
 ||live.com
 ||lizhi.io
 ||lncld.net
+||lnmp.org
 ||locvps.com
 ||lofter.com
 ||lolinet.com
