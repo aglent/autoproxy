@@ -919,6 +919,7 @@
 ||vmall.com
 ||vpgame.com
 ||vpgcdn.com
+||vpser.net
 ||vpsmm.com
 ||vss.im
 ||vuejs.org.cn
