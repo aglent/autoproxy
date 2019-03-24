@@ -799,6 +799,7 @@
 ||renren.com
 ||researchgate.net
 ||right.com.cn
+||rixcloud.com
 ||rkecloud.com
 ||rkidc.net
 ||rlcdn.com
