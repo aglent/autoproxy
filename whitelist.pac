@@ -414,6 +414,7 @@
 ||coding.me
 ||coding.net
 ||coolapk.com
+||coolapkmarket.com
 ||coolpad.com
 ||cowtransfer.com
 ||cqvip.com
@@ -714,6 +715,7 @@
 ||muchong.com
 ||mukewang.com
 ||mumayi.com
+||myapp.com
 ||mydrivers.com
 
 ! N
@@ -813,6 +815,7 @@
 
 ! S
 ||sandai.net
+||sanguosha.com
 ||sarm.net
 ||sb.sb
 ||sciencedirect.com
