@@ -415,6 +415,7 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||cowtransfer.com
 ||cqvip.com
 ||csair.com
 ||csdn.net
