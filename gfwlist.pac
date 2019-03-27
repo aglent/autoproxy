@@ -30,6 +30,7 @@ itunes.apple.com/us
 ||nexitally.com
 ||dlercloud.com
 ||bwh8.net
+||boomss.me
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
