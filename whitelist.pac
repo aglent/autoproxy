@@ -730,6 +730,7 @@
 ||nipic.com
 ||nga.cn
 ||ngacn.cc
+||npupt.com
 ||nuomi.com
 ||nvidia.cn
 
