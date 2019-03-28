@@ -487,6 +487,7 @@
 ||fengkongcloud.com
 ||fengniao.com
 ||fengqu.com
+||fgo.wiki
 ||fir.im
 ||fliggy.com
 ||flow.ci
