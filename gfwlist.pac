@@ -29,6 +29,7 @@ itunes.apple.com/us
 ||shadowsocks.com
 ||nexitally.com
 ||dlercloud.com
+||dlercloud.net
 ||bwh8.net
 ||boomss.me
 
