@@ -424,6 +424,7 @@
 ||css.net
 ||css.network
 ||ct10000.com
+||ctfile.com
 ||ctrip.com
 
 ! D
