@@ -425,6 +425,7 @@
 ||css.net
 ||css.network
 ||ct10000.com
+||ctfile.com
 ||ctrip.com
 
 ! D
@@ -443,7 +444,7 @@
 ||dingtalk.com
 ||diybeta.com
 ||diyvm.com
-||dlercloud.net
+||dlercloud.org
 ||douguo.com
 ||dm5.com
 ||dmzj.com
