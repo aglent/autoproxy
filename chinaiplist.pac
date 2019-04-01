@@ -35,6 +35,9 @@ var direct = "DIRECT";
 
 function FindProxyForURL(url, host) {
   var remote = dnsResolve(host);
+  if (remote.indexOf(".") < 0){
+      return direct;
+  }
   if (isChina(remote) || isLan(remote)) {
       return direct;
   }
