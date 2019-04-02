@@ -2,13 +2,13 @@
 
 ! 中国国内域名
 /.+\.com\.cn/
-/.cn/
-/.+ac.cn/
-/.+acs.cn/
-/.+edu.cn/
-/.+gov.cn/
-/.+net.cn/
-/.+org.cn/
+/\.cn/
+/.+ac\.cn/
+/.+acs\.cn/
+/.+edu\.cn/
+/.+gov\.cn/
+/.+net\.cn/
+/.+org\.cn/
 
 ! Exclude Rules
 ! 如果google搜索字符中包含了中国国内域名 因上面的规则不会走代理 特排除
