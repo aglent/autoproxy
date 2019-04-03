@@ -995,6 +995,7 @@
 ||yunpian.com
 ||yunshipei.com
 ||yy.com
+||yyets.com
 
 ! Z
 ||zaih.com
@@ -1014,6 +1015,8 @@
 ||zhujike.com
 ||ziroom.com
 ||zimuzu.tv
+||zimuzu.io
+||zmz005.com
 ||znyj365.com
 ||zol.com.cn
 ||zongheng.com
