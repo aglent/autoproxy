@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WYl1R9HqnoylEG/pxMcwIA
+! Checksum: eR7x59tvGHsW4XFsuOF8jg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 15 Mar 2019 17:05:00 -0400
+! Last Modified: Tue, 02 Apr 2019 15:01:44 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -132,8 +132,6 @@ share.dmhy.org
 |http://imgmega.com/*.jpg.html
 |http://imgmega.com/*.jpeg.html
 |http://imgmega.com/*.png.html
-|http://imgur.com/upload
-|https://imgur.com/upload
 ||imlive.com
 ||tw.iqiyi.com
 ||javhub.net
@@ -290,6 +288,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||arte.tv
+||artstation.com
 ||bangdream.space
 ||behance.net
 ||bird.so
@@ -383,6 +382,7 @@ share.dmhy.org
 ||tn3.shemalez.com
 ||static.shemalez.com
 ||six-degrees.io
+||softfamous.com
 ||softsmirror.cf
 ||sosreader.com
 ||sspanel.net
@@ -410,6 +410,7 @@ share.dmhy.org
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
+||blog.workflow.is
 ||xm.com
 ||xuehua.us
 ||yes-news.com
@@ -2145,6 +2146,7 @@ bannedbook.org
 |http://baramangaonline.com
 .barenakedislam.com
 ||barnabu.co.uk
+||barton.de
 bartvpn.com
 .bastillepost.com
 bayvoice.net
@@ -3515,6 +3517,8 @@ fucd.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
+.fulione.com
+|https://fulione.com
 ||fullerconsideration.com
 fulue.com
 .funf.tw
@@ -4398,6 +4402,8 @@ imageshack.us
 
 .img.ly
 ||img.ly
+.imgur.com
+||imgur.com
 .imkev.com
 ||imkev.com
 .imlive.com
