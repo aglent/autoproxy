@@ -30,6 +30,7 @@ itunes.apple.com/us
 ||nexitally.com
 ||dlercloud.com
 ||dlercloud.net
+||dlercloud.org
 ||bwh8.net
 ||boomss.me
 
