@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eR7x59tvGHsW4XFsuOF8jg
+! Checksum: 1d1kaCFred9b5pcIKuWphQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 02 Apr 2019 15:01:44 -0400
+! Last Modified: Sun, 28 Apr 2019 22:36:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7503,20 +7503,23 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !--||wikimediafoundation.org
 !--@@||m.wikimediafoundation.org
 !----Main-----
+!!--||en.wikipedia.org
 !--||wikipedia.org
 ||ja.wikipedia.org
-zh.wikipedia.org
+!!--zh.wikipedia.org
 !--||zh.wikipedia.org
-||ug.m.wikipedia.org
-zh.m.wikipedia.org
-|https://zh.m.wikipedia.org
+!!--||ug.m.wikipedia.org
+!!--zh.m.wikipedia.org
+!!--|https://zh.m.wikipedia.org
 !--@@||m.wikipedia.org
-|https://zh.wikipedia.org
+!!--|https://zh.wikipedia.org
 !--Other Languages of Wikipedia
-wuu.wikipedia.org
-|https://wuu.wikipedia.org
-zh-yue.wikipedia.org
-|https://zh-yue.wikipedia.org
+!!--wuu.wikipedia.org
+!!--|https://wuu.wikipedia.org
+!!--zh-yue.wikipedia.org
+!!--|https://zh-yue.wikipedia.org
+!!! Starting with !! are previous rules replaced by:
+||wikipedia.org
 
 ||wikiwiki.jp
 ||casino.williamhill.com
