@@ -435,6 +435,7 @@
 ||ddos.cc
 ||deepin.com
 ||deepin.org
+||dfcfw.com
 ||dgtle.com
 ||dianping.com
 ||dict.cn
