@@ -31,6 +31,7 @@ itunes.apple.com/us
 ||dlercloud.com
 ||dlercloud.net
 ||dlercloud.org
+||dlercloud.me
 ||bwh8.net
 ||boomss.me
 
