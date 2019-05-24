@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 1d1kaCFred9b5pcIKuWphQ
+! Checksum: N3K8p+ZCzBh+GFAVAcCYag
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 28 Apr 2019 22:36:52 -0400
+! Last Modified: Wed, 22 May 2019 12:27:18 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -264,7 +264,6 @@ share.dmhy.org
 
 !##############General List Start###############
 !-------------------Pure IP---------------------
-||1.1.1.1
 14.102.250.18
 14.102.250.19
 50.7.31.230:8898
@@ -286,7 +285,9 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
+||9gag.com
 ||agro.hk
+||share.america.gov
 ||apkmirror.com
 ||arte.tv
 ||artstation.com
@@ -329,6 +330,7 @@ share.dmhy.org
 ||jinx.com
 ||joinmastodon.org
 ||liangzhichuanmei.com
+||lighti.me
 ||lihkg.com
 ||line-scdn.net
 ||i.lithium.com
@@ -359,6 +361,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||potato.im
 ||premproxy.com
 ||prism-break.org
 ||protonvpn.com
@@ -1415,6 +1418,7 @@ blogspot.com
 ||panoramio.com
 ||picasaweb.com
 ||pki.goog
+||plus.codes
 ||polymer-project.org
 ||pride.google
 ||questvisual.com
@@ -1942,7 +1946,7 @@ allgirlsallowed.org
 .allgravure.com
 alliance.org.hk
 .allinfa.com
-|http://allinfa.com
+||allinfa.com
 .alljackpotscasino.com
 ||allmovie.com
 ||almasdarnews.com
@@ -2599,6 +2603,8 @@ chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
 chinamz.org
+.chinanewscenter.com
+|https://chinanewscenter.com
 .chinapress.com.my
 ||chinapress.com.my
 .china-review.com.ua
@@ -4603,6 +4609,7 @@ weiboscope.jmsc.hku.hk
 .joymiihub.com
 .joyourself.com
 jpopforum.net
+||fiddle.jshell.net
 .jubushoushen.com
 ||jubushoushen.com
 !--Doamin parking
@@ -5302,7 +5309,7 @@ ngensis.com
 |http://nhentai.net
 .nhk-ondemand.jp
 .nicovideo.jp/watch
-!--||nicovideo.jp
+||nicovideo.jp
 ||nighost.org
 av.nightlife141.com
 ninecommentaries.com
@@ -5610,6 +5617,7 @@ picturesocial.com
 .pinkrod.com
 ||pinoy-n.com
 ||pinterest.at
+||pinterest.ca
 ||pinterest.co.kr
 ||pinterest.co.uk
 .pinterest.com
@@ -6817,7 +6825,6 @@ tsquare.tv
 tsunagarumon.com
 !--|http://www.tsuru-bird.net/
 .tsctv.net
-||tt-rss.org
 ||tt1069.com
 .tttan.com
 ||tttan.com
@@ -7919,6 +7926,10 @@ ultrasurf
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
+
+!---Some are powered by GuXiang (BGP), please comment off if
+!---you encounter connectivity issues.
+@@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
 @@||kh.google.com
@@ -7966,4 +7977,4 @@ ultrasurf
 @@||zhongsou.com
 @@|http://ime.baidu.jp
 !################Whitelist End##################
-!---------------------EOF-----------------------
+!---------------------EOF----------------------- 
