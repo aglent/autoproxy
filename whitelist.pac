@@ -552,7 +552,6 @@
 ||hy233.tv
 
 ! I
-||i.loli.net
 ||i-meto.com
 ||i21st.cn
 ||iapps.im
