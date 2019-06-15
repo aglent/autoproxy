@@ -696,6 +696,7 @@
 ||meituan.net
 ||meizu.com
 ||mengniang.org
+||mf8.biz
 ||mgtv.com
 ||mi.com
 ||miaopai.com
