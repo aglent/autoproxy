@@ -23,6 +23,7 @@
 .raw.githubusercontent.com
 ||raw.githubusercontent.com
 itunes.apple.com/us
+apps.apple.com
 ||ikafan.com
 ||myjs.tw
 ||maying.co
