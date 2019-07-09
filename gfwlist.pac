@@ -29,6 +29,7 @@ itunes.apple.com/us
 ||maying.co
 ||shadowsocks.com
 ||nexitally.com
+||boomss.co
 ||dlercloud.com
 ||dlercloud.net
 ||dlercloud.org
