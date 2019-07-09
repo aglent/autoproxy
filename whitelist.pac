@@ -361,7 +361,6 @@
 ||blizzardgames.cn
 ||blogjava.net
 ||boc.cn
-||boomss.co
 ||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
