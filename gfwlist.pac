@@ -36,6 +36,7 @@ itunes.apple.com/us
 ||dlercloud.org
 ||dlercloud.me
 ||bwh8.net
+||stackpath.bootstrapcdn.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
