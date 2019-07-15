@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: N3K8p+ZCzBh+GFAVAcCYag
+! Checksum: MATcepZKH1Mc9ZyEsZSEVw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 May 2019 12:27:18 -0400
+! Last Modified: Sun, 14 Jul 2019 19:40:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -30,12 +30,12 @@ itunes.apple.com/us
 ||shadowsocks.com
 ||nexitally.com
 ||boomss.co
+||boomss.me
 ||dlercloud.com
 ||dlercloud.net
 ||dlercloud.org
 ||dlercloud.me
 ||bwh8.net
-||boomss.me
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
@@ -303,14 +303,17 @@ share.dmhy.org
 ||boomssr.com
 ||bwgyhw.com
 ||castbox.fm
+||chinatimes.com
 ||clyp.it
 ||cmcn.org
 ||cmx.im
 ||dailyview.tw
 ||daum.net
 ||depositphotos.com
+||disconnect.me
 ||doubibackup.com
 ||doubmirror.cf
+||encyclopedia.com
 ||fangeqiang.com
 ||cloud.feedly.com
 ||flyzy2005.com
@@ -1290,6 +1293,7 @@ blogspot.com
 ||deja.com
 ||design.google
 ||digisfera.com
+||dns.google
 ||domains.google
 ||duck.com
 ||environment.google
@@ -2395,6 +2399,8 @@ bunbunhk.com
 .businessinsider.com/panama-papers
 .businessinsider.com/umbrella-man-hong-kong-2014
 |http://www.businessinsider.com.au/*
+.businesstoday.com.tw
+||businesstoday.com.tw
 .businessweek.com
 .busu.org/news
 |http://busu.org/news
@@ -2619,7 +2625,6 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 .chinasucks.net
-.chinatimes.com/realtimenews/260409/
 ||chinatopsex.com
 .chinatown.com.au
 chinatweeps.com
@@ -2943,7 +2948,6 @@ dharmakara.net
 ||directcreative.com
 !--||discogs.com
 !--@@||cdn.discogs.com
-|https://search.disconnect.me
 .discuss.com.hk
 ||discuss.com.hk
 .discuss4u.com
@@ -7980,4 +7984,4 @@ ultrasurf
 @@||zhongsou.com
 @@|http://ime.baidu.jp
 !################Whitelist End##################
-!---------------------EOF----------------------- 
+!---------------------EOF-----------------------
