@@ -598,6 +598,7 @@
 ||jb51.net
 ||jcodecraeer.com
 ||jd.com
+||jdcloud.com
 ||jdbbs.com
 ||jfrft.com
 ||jhdec.com
