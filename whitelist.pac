@@ -434,8 +434,8 @@
 ||ddos.cc
 ||deepin.com
 ||deepin.org
-||dfcfw.com
 ||dgtle.com
+||dfcfw.com
 ||dianping.com
 ||dict.cn
 ||dilidili.com
@@ -949,6 +949,7 @@
 ||wodemo.com
 ||woyoo.com
 ||wstx.com
+||wuyou.net
 
 ! X
 ||xcar.com.cn
@@ -1016,9 +1017,10 @@
 ||zhongkao.com
 ||zhujike.com
 ||ziroom.com
-||zimuzu.tv
 ||zimuzu.io
+||zimuzu.tv
 ||zmz005.com
+
 ||znyj365.com
 ||zol.com.cn
 ||zongheng.com
