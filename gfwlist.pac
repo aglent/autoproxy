@@ -25,7 +25,6 @@
 itunes.apple.com/us
 ||apps.apple.com
 ||ikafan.com
-||myjs.tw
 ||maying.co
 ||shadowsocks.com
 ||nexitally.com
@@ -36,6 +35,8 @@ itunes.apple.com/us
 ||dlercloud.me
 ||bwh8.net
 ||boomss.me
+||yoyu.dev
+||yoyutrans.com
 ||stackpath.bootstrapcdn.com
 
 !---------403/451/520 & URL Redirects---------
