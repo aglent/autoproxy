@@ -343,6 +343,7 @@
 ||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
+||baiduwp.com
 ||bankcomm.com
 ||baozou.com
 ||baozoumanhua.com
