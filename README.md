@@ -27,3 +27,4 @@
 <p>节点70+ 全部阿里内网传输
 <p>高峰期测速全红 体验一流
 <p>日用节点10MB/s BGP节点20MB/s 专线节点40MB+/s (三种类型节点实际都是阿里内网)
+[link to Google!](http://google.com)
