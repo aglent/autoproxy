@@ -7951,7 +7951,7 @@ ultrasurf
 @@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
-@@||fonts.googleapis.com
+! @@||fonts.googleapis.com
 @@||khm.googleapis.com
 @@||khm0.googleapis.com
 @@||khm1.googleapis.com
