@@ -12,13 +12,13 @@
 <p>图示 <a href="https://github.com/aglent/autoproxy/blob/master/gfwlist.png">gfwlist.png</a>
 <p>2.白名单模式
 <p>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
-<p>规则列表地址填入 git.io/whitelistpac 或 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
+<p>规则列表地址填入 https://git.io/whitelistpac 或 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
 <p>图示 <a href="https://github.com/aglent/autoproxy/blob/master/whitelist.png">whitelist.png</a>
 <P></p>
 
 # 中国国内IP白名单代理规则
 <p>使用方法：
-<p>下载chinaiplist.pac，SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL：git.io/chinaip 。
+<p>下载chinaiplist.pac，SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL：https://git.io/chinaip 。
 <p>IP段会不定期更新。
 <p></p>
 <p>-------------------------------------------------------------------------------------------------
