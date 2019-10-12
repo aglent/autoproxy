@@ -8,7 +8,7 @@
 <p>使用方法：
 <p>1.黑名单模式
 <p>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
-<p>规则列表地址填入 https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.pac 格式选择 autoproxy
+<p>规则列表地址填入 https://git.io/gfw-list 或 https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.pac 格式选择 autoproxy
 <p>图示 <a href="https://github.com/aglent/autoproxy/blob/master/gfwlist.png">gfwlist.png</a>
 <p>2.白名单模式
 <p>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
