@@ -18,7 +18,7 @@
 
 # 中国国内IP白名单代理规则
 <p>使用方法：
-<p>下载chinaiplist.pac，SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL：https://git.io/chinaip 。
+<p>SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL：https://git.io/chinaip 。
 <p>IP段会不定期更新。
 <p></p>
 <p>-------------------------------------------------------------------------------------------------
