@@ -37,6 +37,7 @@ itunes.apple.com/us
 ||boomss.me
 ||yoyu.dev
 ||yoyutrans.com
+||conair.me
 ||stackpath.bootstrapcdn.com
 
 !---------403/451/520 & URL Redirects---------
