@@ -21,7 +21,6 @@
 @@||nexitally.com
 @@||googlevideo.com
 @@||steemit.com
-@@||tinyurl.com
 
 /10\.\d+\.\d+\.\d+/
 /127\.0\.0\.1/
