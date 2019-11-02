@@ -666,6 +666,7 @@
 ||liyin.date
 ||live.com
 ||lizhi.io
+||loli.net
 ||lncld.net
 ||lnmp.org
 ||locvps.com
