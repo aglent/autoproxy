@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UQaCI4FrxJx1GqUqyjSqBw
+! Checksum: mIShJtvB4UUaZ7ms+0fm4g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
+! Last Modified: Mon, 04 Nov 2019 11:21:47 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -88,7 +88,7 @@ itunes.apple.com/us
 |http://img.dlsite.jp/
 ||dm530.net
 share.dmhy.org
-@@|https://share.dmhy.org
+||dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||dnvod.tv
@@ -314,19 +314,25 @@ share.dmhy.org
 ||daum.net
 ||depositphotos.com
 ||disconnect.me
+||documentingreality.com
 ||doubibackup.com
 ||doubmirror.cf
 ||encyclopedia.com
 ||fangeqiang.com
+||fanqiangdang.com
 ||cloud.feedly.com
+||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
 ||free-ss.site
+||freehongkong.org
 ||blog.fuckgfw233.org
 ||g0v.social
 ||globalvoices.org
 ||glorystar.me
 ||goregrish.com
+||guangnianvpn.com
+||hanime.tv
 ||hbo.com
 ||spaces.hightail.com
 ||hkgalden.com
@@ -340,6 +346,7 @@ share.dmhy.org
 ||joinmastodon.org
 ||liangzhichuanmei.com
 ||lighti.me
+||lightyearvpn.com
 ||lihkg.com
 ||line-scdn.net
 ||i.lithium.com
@@ -377,6 +384,7 @@ share.dmhy.org
 ||api.pureapk.com
 ||quora.com
 ||quoracdn.net
+||qz.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||redd.it
@@ -420,6 +428,8 @@ share.dmhy.org
 ||steemit.com
 ||taiwanjustice.net
 ||tinc-vpn.org
+||u15.info
+||washingtonpost.com
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
@@ -427,6 +437,7 @@ share.dmhy.org
 ||xm.com
 ||xuehua.us
 ||yes-news.com
+||yigeni.com
 ||you-get.org
 ||zzcloud.me
 
@@ -1771,6 +1782,7 @@ zhao.1984.city
 ||2008xianzhang.info
 ||2017.hk
 21andy.com/blog
+.21join.com
 .21pron.com
 21sextury.com
 .228.net.tw
@@ -1813,9 +1825,10 @@ taiwannation.50webs.com
 64wiki.com
 .66.ca
 666kb.com
-6park.com
+.6park.com
 ||6park.com
 ||6parker.com
+||6parknews.com
 ||7capture.com
 .7cow.com
 .8-d.com
@@ -2116,6 +2129,7 @@ avaaz.org
 .avdb.tv
 ||avdb.tv
 .avfantasy.com
+||avg.com
 .avgle.com
 ||avgle.com
 ||avidemux.org
@@ -2927,6 +2941,8 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
+.demosisto.hk
+||demosisto.hk
 ||desc.se
 ||dessci.com
 .destroy-china.jp
@@ -3680,6 +3696,7 @@ hahaxixi.github.io
 wsgzao.github.io
 |https://wsgzao.github.io
 !--.github.io
+||raw.githubusercontent.com
 
 .gizlen.net
 ||gizlen.net
@@ -4907,7 +4924,7 @@ lsforum.net
 .lsmradio.com/rad_archives
 .lsmwebcast.com
 .ltn.com.tw
-|http://ltn.com.tw
+||ltn.com.tw
 .luke54.com
 .luke54.org
 .lupm.org
@@ -5404,7 +5421,7 @@ nuzcom.com
 |http://nvtongzhisheng.org
 .nwtca.org
 |http://nyaa.eu
-!--||nyaa.si
+||nyaa.si
 .nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
@@ -5890,6 +5907,7 @@ ranyunfei.com
 ||rapidmoviez.com
 rapidvpn.com
 ||rapidvpn.com
+||rarbgprx.org
 .raremovie.cc
 |http://raremovie.cc
 .raremovie.net
@@ -7549,7 +7567,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||windscribe.com
 ||community.windy.com
 ||wingy.site
-winning11.com
+.winning11.com
 winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
@@ -7952,7 +7970,7 @@ ultrasurf
 @@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
-! @@||fonts.googleapis.com
+@@||fonts.googleapis.com
 @@||khm.googleapis.com
 @@||khm0.googleapis.com
 @@||khm1.googleapis.com
