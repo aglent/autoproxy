@@ -945,6 +945,7 @@
 ||weiyun.com
 ||wht.im
 ||wiley.com
+||windy.com
 ||wisenjoy.com
 ||wiz.cn
 ||wjasset.com
