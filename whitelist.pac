@@ -11,15 +11,9 @@
 /.+org\.cn/
 
 ! Exclude Rules
-! 如果google搜索字符中包含了中国国内域名 因上面的规则不会走代理 特排除
-! 添加youtube域名是为了解决无法登录google账户的问题
-@@||google.com
-@@||youtube.com
 @@||appspot.com
 @@||v2ray.com
 @@|https://www.paypal.com/us/
-@@||nexitally.com
-@@||googlevideo.com
 @@||steemit.com
 
 /10\.\d+\.\d+\.\d+/
