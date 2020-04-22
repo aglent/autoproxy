@@ -29,7 +29,7 @@ function isLan(host) {
   return belongsToSubnet(host, LAN);
 }
 
-var proxy = "SOCKS5 127.0.0.1:1080";
+var proxy = "SOCKS5 127.0.0.1:1087";
 var direct = "DIRECT";
 
 
