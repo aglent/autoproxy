@@ -1,4 +1,4 @@
-# AutoProxy格式的自动切换规则
+# AutoProxy格式的黑白名单自动切换规则
 
 <br>这是自用的自动代理规则列表
 <br>黑名单gfwlist.pac来源  https://github.com/gfwlist/gfwlist
@@ -6,21 +6,22 @@
 <br>本人在黑名单基础上增加了一部分规则 在白名单的基础上增加了一部分国内CDN域名和常用域名（白名单只提供常用网站）
 <br>
 <br>使用方法：
-<br>1.黑名单模式
-<br>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
+## 黑名单
+<br>SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chrome）
 <br>规则列表地址填入 https://git.io/gfw-list 或 https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.pac 格式选择 autoproxy
 <br>
 <img src="https://github.com/aglent/autoproxy/blob/master/image/gfwlist.png" width="400" height="400">
-<br>2.白名单模式
-<br>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
+<br>
+## 白名单
+<br>SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chrome）
 <br>规则列表地址填入 https://git.io/whitelistpac 或 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
 <br>
 <img src="https://github.com/aglent/autoproxy/blob/master/image/whitelist.png" width="400" height="400">
 <br>
 
 # 中国国内IP白名单代理规则
-<br>使用方法：
-<br>SwitchyOmega扩展里新建pac profile模式（适用于Chrome），填写PAC URL：https://git.io/chinaip 。
+使用方法：
+<br>SwitchyOmega 扩展里新建 pac profile 模式（适用于Chrome），填写 PAC URL：https://git.io/chinaip 。
 <br>IP段会不定期更新。
 
 # -----------------------------------------------------------------
