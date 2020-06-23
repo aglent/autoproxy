@@ -10,12 +10,12 @@
 <p>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
 <p>规则列表地址填入 https://git.io/gfw-list 或 https://raw.githubusercontent.com/aglent/autoproxy/master/gfwlist.pac 格式选择 autoproxy
 <p>
-![image](./image/gfwlist.png)
+![image](/image/gfwlist.png)
 <p>2.白名单模式
 <p>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
 <p>规则列表地址填入 https://git.io/whitelistpac 或 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
 <p>
-![image](./image/whitelist.png)
+![image](/image/whitelist.png)
 <P></p>
 
 # 中国国内IP白名单代理规则
