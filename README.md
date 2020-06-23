@@ -14,7 +14,7 @@
 <br>2.白名单模式
 <br>SwitchyOmega扩展里新建switch profile模式（适用于Firefox 57+和Chrome）
 <br>规则列表地址填入 https://git.io/whitelistpac 或 https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac 格式选择 autoproxy
-<br>
+<p>
 ![img](image/whitelist.png)
 <br>
 
