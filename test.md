@@ -1,6 +1,8 @@
 # AutoProxy格式的自动切换规则
 
+<br>
 这是自用的自动代理规则列表
+</br>
 黑名单gfwlist.pac来源  https://github.com/gfwlist/gfwlist
 白名单whitelist.pac来源 https://github.com/neko-dev/gfw_whitelist
 本人在黑名单基础上增加了一部分规则 在白名单的基础上增加了一部分国内CDN域名和常用域名（白名单只提供常用网站）
