@@ -23,22 +23,28 @@
 .raw.githubusercontent.com
 ||raw.githubusercontent.com
 itunes.apple.com/us
+||aaex.uk
 ||apps.apple.com
-||ikafan.com
-||maying.co
-||shadowsocks.com
-||nexitally.com
+||amytele.com
+||ark.to
 ||boomss.co
+||boomss.me
+||bwh8.net
+||conair.me
 ||dlercloud.com
 ||dlercloud.net
 ||dlercloud.org
 ||dlercloud.me
-||bwh8.net
-||boomss.me
+||ikafan.com
+||maying.co
+||n3ro.host
+||nexitally.com
+||notion.so
+||shadowsocks.com
+||ssrpass.com
+||stackpath.bootstrapcdn.com
 ||yoyu.dev
 ||yoyutrans.com
-||conair.me
-||stackpath.bootstrapcdn.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
