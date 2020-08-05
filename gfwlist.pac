@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mIShJtvB4UUaZ7ms+0fm4g
+! Checksum: JCajCLOSj9hI5LnxWfPg+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 11:21:47 -0500
+! Last Modified: Sat, 18 Jul 2020 20:17:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -88,6 +88,8 @@ itunes.apple.com/us
 ||deezer.com
 ||desipro.de
 ||dingchin.com.tw
+||discord.com
+||discord.gg
 ||discordapp.com
 ||discordapp.net
 ||dish.com
@@ -326,7 +328,7 @@ share.dmhy.org
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||cloud.feedly.com
+||feedly.com
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -372,6 +374,7 @@ share.dmhy.org
 ||go.nesnode.com
 ||international-news.newsmagazine.asia
 ||nikkei.com
+||nitter.net
 ||niu.moe
 ||nofile.io
 ||now.com
@@ -2041,6 +2044,8 @@ antichristendom.com
 .anyporn.com
 .anysex.com
 |http://anysex.com
+.ao3.org
+||ao3.org
 ||aobo.com.au
 .aofriend.com
 |http://aofriend.com
@@ -2083,6 +2088,8 @@ appledaily.com.tw
 ||archive.org
 archive.today
 |https://archive.today
+||archiveofourown.com
+||archiveofourown.org
 .arctosia.com
 |http://arctosia.com
 ||areca-backup.org
@@ -2452,6 +2459,8 @@ bwsj.hk
 ||cactusvpn.com
 .cafepress.com
 .cahr.org.tw
+.caijinglengyan.com
+||caijinglengyan.com
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
@@ -3586,6 +3595,8 @@ fzlm.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
+.gagaoolala.com
+||gagaoolala.com
 .galaxymacau.com
 ||galenwu.com
 .galstars.net
@@ -3689,20 +3700,21 @@ gigporno.ru
 !---GitHub---
 github.com/getlantern
 |https://gist.github.com
-http://cthlo.github.io/hktv
-hahaxixi.github.io
-|https://hahaxixi.github.io
-||haoel.github.io
+!--http://cthlo.github.io/hktv
+!--hahaxixi.github.io
+!--|https://hahaxixi.github.io
+!--||haoel.github.io
 !--|http://onionhacker.github.io
-||rg3.github.io
-||sikaozhe1997.github.io
-||sodatea.github.io
-||terminus2049.github.io
-||toutyrater.github.io
-wsgzao.github.io
-|https://wsgzao.github.io
-!--.github.io
-||raw.githubusercontent.com
+!--||rg3.github.io
+!--||sikaozhe1997.github.io
+!--||sodatea.github.io
+!--||terminus2049.github.io
+!--||toutyrater.github.io
+!--wsgzao.github.io
+!--|https://wsgzao.github.io
+.github.io
+||github.io
+||githubusercontent.com
 
 .gizlen.net
 ||gizlen.net
@@ -4325,6 +4337,8 @@ huaxin.ph
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
+.huhangfei.com
+||huhangfei.com
 huiyi.in
 .hulkshare.com
 humanrightsbriefing.org
@@ -4670,6 +4684,7 @@ juziyue.com
 !--------------------KK-------------------------
 ||k-doujin.net
 ||ka-wai.com
+||kadokawa.co.jp
 .kagyu.org
 ||kagyu.org.za
 .kagyumonlam.org
@@ -5568,6 +5583,7 @@ paper.li
 paperb.us
 .paradisehill.cc
 .paradisepoker.com
+||parsevideo.com
 .partycasino.com
 .partypoker.com
 .passion.com
@@ -5888,6 +5904,7 @@ qxbbs.org
 .radicalparty.org
 ||rael.org
 radicalparty.org
+||radio.garden
 radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
@@ -6182,6 +6199,7 @@ shkspr.mobi/dabr
 ||shodanhq.com
 ||shooshtime.com
 .shop2000.com.tw
+||shopee.tw
 .shopping.com
 .showhaotu.com
 .showtime.jp
@@ -7173,7 +7191,7 @@ uploaded.net/file
 .upornia.com
 |http://upornia.com
 ||uproxy.org
-|http://tor.cn.uptodown.com/
+||uptodown.com
 .upwill.org
 ur7s.com
 ||urbansurvival.com
