@@ -946,6 +946,7 @@
 ||wiz.cn
 ||wjasset.com
 ||wodemo.com
+||wolai.com
 ||woyoo.com
 ||wstx.com
 ||wuyou.net
