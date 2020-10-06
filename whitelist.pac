@@ -641,6 +641,7 @@
 ||lany.me
 ||lanyus.com
 ||lanzous.com
+||lanzoux.com
 ||laomoit.com
 ||laravel-china.org
 ||lbesec.com
@@ -710,6 +711,7 @@
 ||mogujie.com
 ||mokeedev.com
 ||momentcdn.com
+||mpyit.com
 ||msftconnecttest.com
 ||mtyun.com
 ||muchong.com
