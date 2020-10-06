@@ -386,6 +386,7 @@
 ||chinaso.com
 ||chinassl.net
 ||chinaunix.net
+||chinauos.com
 ||chinaz.com
 ||chiphell.com
 ||chsi.com.cn
