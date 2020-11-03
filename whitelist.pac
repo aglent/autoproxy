@@ -641,6 +641,7 @@
 ||lagou.com
 ||lany.me
 ||lanyus.com
+||lanzoui.com
 ||lanzous.com
 ||lanzoux.com
 ||laomoit.com
