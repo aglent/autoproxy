@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JCajCLOSj9hI5LnxWfPg+A
+! Checksum: I8Mh0dEJxBNsdZQka4RJug
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Jul 2020 20:17:45 -0400
+! Last Modified: Tue, 20 Oct 2020 12:11:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -100,6 +100,7 @@ share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||dnvod.tv
+||dubox.com
 ||dvdpac.com
 ||eesti.ee
 ||esurance.com
@@ -1446,6 +1447,7 @@ blogspot.com
 ||material.io
 ||nic.google
 ||on2.com
+||opensource.google
 ||panoramio.com
 ||picasaweb.com
 ||pki.goog
@@ -1969,6 +1971,7 @@ alexlur.org
 .alicejapan.co.jp
 aliengu.com
 ||alkasir.com
+||all4mom.org
 ||allconnected.co
 .alldrawnsex.com
 ||alldrawnsex.com
@@ -2086,6 +2089,7 @@ appledaily.com.tw
 .archive.li
 ||archive.li
 ||archive.org
+||archive.ph
 archive.today
 |https://archive.today
 ||archiveofourown.com
@@ -2476,6 +2480,7 @@ falun.caltech.edu
 .cam4.sg
 .camfrog.com
 ||camfrog.com
+||campaignforuyghurs.org
 ||cams.com
 .cams.org.sg
 canadameet.com
@@ -3501,6 +3506,7 @@ whitebear.freebearblog.org
 .freegao.com
 ||freegao.com
 freeilhamtohti.org
+||freekazakhs.org
 .freekwonpyong.org
 ||saveliuxiaobo.com
 .freelotto.com
@@ -3715,6 +3721,7 @@ github.com/getlantern
 .github.io
 ||github.io
 ||githubusercontent.com
+||githubassets.com
 
 .gizlen.net
 ||gizlen.net
@@ -3736,6 +3743,7 @@ gmbd.cn
 |http://www.gmiddle.net
 .gmll.org
 ||gnci.org.hk
+||gnews.org
 go-pki.com
 ||goagent.biz
 ||goagentplus.com
@@ -4049,6 +4057,7 @@ greatfirewallofchina.org
 ||greatroc.tw
 .gts-vpn.com
 |http://gts-vpn.com
+||gtv.org
 .gu-chu-sum.org
 |http://gu-chu-sum.org
 .guaguass.com
@@ -4133,6 +4142,7 @@ have8.com
 |http://hegre-art.com
 ||cdn.helixstudios.net
 ||helplinfen.com
+||helpuyghursnow.org
 ||helloandroid.com
 ||helloqueer.com
 .helloss.pw
@@ -4223,6 +4233,7 @@ hkci.org.hk
 .hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
+||hkctu.org.hk
 hkday.net
 .hkdailynews.com.hk/china.php
 hkdf.org
@@ -4432,6 +4443,7 @@ ifjc.org
 .ihao.org/dz5
 ||iicns.com
 .ikstar.com
+||ilhamtohtiinstitute.org
 ||illusionfactory.com
 ||ilove80.be
 ||im.tv
@@ -5087,6 +5099,7 @@ mimiai.net
 .mimivv.com
 .mindrolling.org
 |http://mindrolling.org
+||mingdemedia.org
 .minghui.or.kr
 |http://minghui.or.kr
 minghui.org
@@ -5119,7 +5132,8 @@ minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
 .mist.vip
-thecenter.mit.edu
+||thecenter.mit.edu
+||scratch.mit.edu
 .mitao.com.tw
 .mitbbs.com
 ||mitbbs.com
@@ -5185,6 +5199,7 @@ msguancha.com
 .mswe1.org
 |http://mswe1.org
 ||mthruf.com
+||mubi.com
 muchosucko.com
 ||multiply.com
 multiproxy.org
@@ -5279,6 +5294,7 @@ uighur.narod.ru
 ||nat.moe
 cyberghost.natado.com
 ||national-lottery.co.uk
+||nationalawakening.org
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 .nationsonline.org/oneworld/tibet
 ||line.naver.jp
@@ -5832,6 +5848,7 @@ proxyroad.com
 prozz.net
 psblog.name
 ||psblog.name
+||pshvpn.com
 ||psiphon.ca
 .psiphon3.com
 ||psiphon3.com
@@ -5951,6 +5968,7 @@ rcinet.ca
 ||realitykings.com
 .realraptalk.com
 .realsexpass.com
+||reason.com
 .recordhistory.org
 .recovery.org.tw
 |http://online.recoveryversion.org
@@ -5979,6 +5997,7 @@ subacme.rerouted.org
 ||reuters.com
 ||reutersmedia.net
 .revleft.com
+||resistchina.org
 retweetist.com
 ||retweetrank.com
 !--connectedchina.reuters.com
@@ -6406,6 +6425,7 @@ sstmlt.net
 .stage64.hk
 ||stage64.hk
 ||standupfortibet.org
+||standwithhk.org
 stanford.edu/group/falun
 usinfo.state.gov
 ||statueofdemocracy.org
@@ -6608,6 +6628,7 @@ teamamericany.com
 teensinasia.com
 .telecomspace.com
 ||telegraph.co.uk
+||telegra.ph
 .tenacy.com
 ||tenzinpalmo.com
 .tew.org
@@ -6696,8 +6717,6 @@ tibet.org.tw
 ||tibet-envoy.eu
 .tibet-foundation.org
 .tibet-house-trust.co.uk
-tibet-info.net
-tibet-initiative.de
 ||tibet-initiative.de
 .tibet-munich.de
 .tibet3rdpole.org
@@ -6751,8 +6770,7 @@ tibethouse.org
 .tibetinfonet.net
 .tibetjustice.org
 .tibetkomite.dk
-|http://tibetmuseum.org
-tibetnetwork.org
+||tibetmuseum.org
 ||tibetnetwork.org
 .tibetoffice.ch
 |http://tibetoffice.ch
@@ -6931,6 +6949,7 @@ tuitwit.com
 |http://turbobit.net
 .turbohide.com
 ||turbohide.com
+||turkistantimes.com
 .tushycash.com
 |http://tushycash.com
 ||app.tutanota.com
@@ -7593,6 +7612,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wingy.site
 .winning11.com
 winwhispers.info
+||wionews.com
 ||wiredbytes.com
 ||wiredpen.com
 !--||wireshark.org
@@ -7785,7 +7805,7 @@ yangjianli.com
 ||yeahteentube.com
 ||yecl.net
 ||yeelou.com
-yeeyi.com
+||yeeyi.com
 yegle.net
 ||yegle.net
 .yes.xxx
