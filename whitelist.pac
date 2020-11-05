@@ -311,6 +311,7 @@
 ||alisports.com
 ||aliyun.com
 ||aliyuncs.com
+||aliyundrive.com
 ||alloyteam.com
 ||amap.com
 ||amazon.cn
