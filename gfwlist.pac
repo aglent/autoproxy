@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: I8Mh0dEJxBNsdZQka4RJug
+! Checksum: 599k2oDsYa2ToeyxPhx9zw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Oct 2020 12:11:38 -0400
+! Last Modified: Wed, 18 Nov 2020 19:49:59 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -27,8 +27,6 @@ itunes.apple.com/us
 ||apps.apple.com
 ||amytele.com
 ||ark.to
-||boomss.co
-||boomss.me
 ||bwh8.net
 ||conair.me
 ||dlercloud.com
@@ -43,8 +41,6 @@ itunes.apple.com/us
 ||shadowsocks.com
 ||ssrpass.com
 ||stackpath.bootstrapcdn.com
-||yoyu.dev
-||yoyutrans.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
@@ -2060,8 +2056,8 @@ video.ap.org
 ||apiary.io
 .apigee.com
 ||apigee.com
-apk-dl.com
-apkdler.com/apk/view
+||apk-dl.com
+||apkcombo.com
 .apkmonk.com/app
 ||apkplz.com
 apkpure.com
@@ -5599,6 +5595,7 @@ paper.li
 paperb.us
 .paradisehill.cc
 .paradisepoker.com
+||parler.com
 ||parsevideo.com
 .partycasino.com
 .partypoker.com
