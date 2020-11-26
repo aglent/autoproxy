@@ -23,7 +23,3 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 国内IP白名单chinaiplist.pac来源  https://github.com/17mon/china_ip_list
 <br>SwitchyOmega 扩展里新建 pac profile 模式（适用于Chrome），填写 PAC URL：https://git.io/chinaip 。
 <br>IP段会不定期更新。
-
-# ------------------------------------------------------------
-介绍一个自己在用的稳定快速的工具 [YoYu](https://home.yoyu.ltd/aff.php?aff=447) 链接内有aff 如有介意 自行输入url
-<br>电信500M宽带实际测速 [专线] -> 200-300Mbps   [BGP] -> 200-400Mpbs   [日用] -> 50-100Mbps
