@@ -347,9 +347,11 @@
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||biliapi.net
 ||bilibili.com
 ||biligame.com
 ||biligame.net
+||bilivideo.com
 ||bing.com
 ||bitauto.com
 ||blackyau.cc
