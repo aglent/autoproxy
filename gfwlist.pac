@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 599k2oDsYa2ToeyxPhx9zw
+! Checksum: 6CcLDlSe05XHudONsscjzw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 18 Nov 2020 19:49:59 -0500
+! Last Modified: Fri, 25 Dec 2020 11:34:23 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -152,6 +152,7 @@ share.dmhy.org
 ||javlibrary.com
 ||jcpenney.com
 ||jims.net
+||tv.jtbc.joins.com
 ||jukujo-club.com
 ||juliepost.com
 ||kawaiikawaii.jp
@@ -1893,6 +1894,7 @@ abclite.net
 .acg18.me
 |http://acg18.me
 ||acgkj.com
+||acgnx.se
 .acmedia365.com
 .acnw.com.au
 actfortibet.org
@@ -2712,8 +2714,8 @@ christiantimes.org.hk
 ||cirosantilli.com
 .citizencn.com
 ||citizencn.com
-|http://citizenlab.org
-|http://www.citizenlab.org
+||citizenlab.ca
+||citizenlab.org
 ||citizenscommission.hk
 .citizenlab.org
 citizensradio.org
@@ -3756,6 +3758,7 @@ godsdirectcontact.org.tw
 .gokbayrak.com
 .goldbet.com
 ||goldbetsports.com
+||golden-ages.org
 ||goldeneyevault.com
 .goldenfrog.com
 ||goldenfrog.com
@@ -4054,6 +4057,7 @@ greatfirewallofchina.org
 .gts-vpn.com
 |http://gts-vpn.com
 ||gtv.org
+||gtv1.org
 .gu-chu-sum.org
 |http://gu-chu-sum.org
 .guaguass.com
@@ -4283,6 +4287,7 @@ holyspiritspeaks.org
 ||hongkongfp.com
 hongmeimei.com
 ||hongzhi.li
+||honven.xyz
 .hootsuite.com
 ||hootsuite.com
 .hopedialogue.org
@@ -4381,6 +4386,7 @@ iask.bz
 ||iask.bz
 .iav19.com
 ibiblio.org/pub/packages/ccic
+||ibit.am
 .iblist.com
 ||iblogserv-f.net
 ibros.org
@@ -4492,7 +4498,7 @@ website.informer.com
 .inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
-|http://blog.inoreader.com
+||inoreader.com
 .inote.tw
 .insecam.org
 |http://insecam.org
@@ -4786,6 +4792,7 @@ kun.im
 ||kurtmunger.com
 kusocity.com
 ||kwcg.ca
+||kwok7.com
 kwongwah.com.my
 .kxsw.life
 ||kxsw.life
@@ -4812,6 +4819,7 @@ ladbrokes.com
 .lamnia.co.uk
 ||lamnia.co.uk
 lamrim.com
+||landofhope.tv
 .lanterncn.cn
 |http://lanterncn.cn
 .lantosfoundation.org
@@ -4852,6 +4860,7 @@ blog.lester850.info
 .letou.com
 letscorp.net
 ||letscorp.net
+||ocsp.int-x3.letsencrypt.org
 ||ss.levyhsu.com
 !69.16.175.42
 ||cdn.assets.lfpcontent.com
@@ -4954,6 +4963,7 @@ lsforum.net
 .lsmwebcast.com
 .ltn.com.tw
 ||ltn.com.tw
+||luckydesigner.space
 .luke54.com
 .luke54.org
 .lupm.org
@@ -5478,6 +5488,7 @@ twtr2src.ogaoga.org
 .ogate.org
 ||ogate.org
 www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
+||ohmyrss.com
 .oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
@@ -6040,6 +6051,7 @@ riku.me/
 .rsf-chinese.org
 ||rsf-chinese.org
 .rsgamen.org
+||rsshub.app
 ||phosphation13.rssing.com
 .rssmeme.com
 ||rssmeme.com
@@ -6115,10 +6127,10 @@ savevid.com
 .scribd.com
 ||scribd.com
 ||scriptspot.com
-seapuff.com
-domainhelp.search.com
+||search.com
 .searchtruth.com
-secretchina.com
+||searx.me
+.secretchina.com
 ||secretchina.com
 ||secretgarden.no
 .secretsline.biz
@@ -6460,6 +6472,7 @@ stickeraction.com/sesawe
 ||stoweboyd.com
 stranabg.com
 ||straplessdildo.com
+||streamate.com
 ||streamingthe.net
 streema.com/tv/NTDTV_Chinese
 cn.streetvoice.com/article
@@ -6641,6 +6654,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thedw.us
 thefrontier.hk/tf
+||theguardian.com
 cn.thegay.com
 |http://thegioitinhoc.vn/
 .thegly.com
@@ -7797,6 +7811,7 @@ yangjianli.com
 ||yasni.co.uk
 !--||yasukuni.or.jp
 .yayabay.com/forum
+||news.ycombinator.com
 .ydy.com
 .yeahteentube.com
 ||yeahteentube.com
@@ -7851,6 +7866,7 @@ youngspiration.hk
 ||yourprivatevpn.com
 .yousendit.com
 ||yousendit.com
+||youthforfreechina.org
 .youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
 me.youthwant.com.tw
