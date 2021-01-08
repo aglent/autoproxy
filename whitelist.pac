@@ -851,6 +851,7 @@
 ||smart2pay.com
 ||smartgslb.com
 ||smartisan.com
+||smtcdns.com
 ||smzdm.com
 ||so.com
 ||sogou.com
@@ -881,6 +882,7 @@
 ||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
+||tdnsv6.com
 ||tgbus.com
 ||themex.net
 ||thepaper.cn
