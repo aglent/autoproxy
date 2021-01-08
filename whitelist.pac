@@ -774,7 +774,6 @@
 ||pplive.com
 ||pptv.com
 ||psnine.com
-||puui.qpic.cn
 ||pythonclub.org
 
 ! Q
