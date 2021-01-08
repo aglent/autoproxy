@@ -363,6 +363,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||btrace.video.qq.com
 ||budejie.com
 ||bumimi.com
 ||buu.edu.cn
