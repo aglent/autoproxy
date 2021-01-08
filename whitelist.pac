@@ -363,7 +363,6 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
-||btrace.video.qq.com
 ||budejie.com
 ||bumimi.com
 ||buu.edu.cn
@@ -775,6 +774,7 @@
 ||pplive.com
 ||pptv.com
 ||psnine.com
+||puui.qpic.cn
 ||pythonclub.org
 
 ! Q
