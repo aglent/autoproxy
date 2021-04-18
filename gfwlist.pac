@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6CcLDlSe05XHudONsscjzw
+! Checksum: 9DAmNghw0OUqXZB7B8T/+g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 25 Dec 2020 11:34:23 -0500
+! Last Modified: Fri, 16 Apr 2021 13:08:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -20,26 +20,22 @@
 ||vimeocdn.com
 .github.com
 ||github.com
-.raw.githubusercontent.com
-||raw.githubusercontent.com
+! .raw.githubusercontent.com
+! ||raw.githubusercontent.com
 itunes.apple.com/us
 ||aaex.uk
-||apps.apple.com
 ||amytele.com
 ||ark.to
-||bwh8.net
-||conair.me
 ||dlercloud.com
-||dlercloud.net
-||dlercloud.org
-||dlercloud.me
 ||ikafan.com
 ||maying.co
 ||n3ro.host
 ||nexitally.com
+||immtel.com
+||xroute.pro
+||waitu.asia
 ||notion.so
 ||shadowsocks.com
-||ssrpass.com
 ||stackpath.bootstrapcdn.com
 
 !---------403/451/520 & URL Redirects---------
@@ -117,6 +113,7 @@ share.dmhy.org
 ||g-area.org
 ||gettyimages.com
 ||getuploader.com
+||ghidra-sre.org
 !--|https://github.com/programthink/zhao
 |https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
@@ -245,6 +242,7 @@ share.dmhy.org
 ||login.target.com
 !--@@||intl.target.com
 ||rcam.target.com
+||technews.tw
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -1686,7 +1684,7 @@ cn.nytstyle.com
 ||kinmen.org.tw
 
 !!---V2EX---
-.v2ex.com
+!--.v2ex.com
 !--Included in above rule: dns.v2ex.com
 @@|http://v2ex.com
 @@|http://cdn.v2ex.com
@@ -2061,11 +2059,13 @@ video.ap.org
 ||apk-dl.com
 ||apkcombo.com
 .apkmonk.com/app
+||apkmonk.com
 ||apkplz.com
 apkpure.com
 ||apkpure.com
 .aplusvpn.com
 !--||appannie.com
+||appbrain.com
 .appdownloader.net/Android
 .appledaily.com
 ||appledaily.com
@@ -2158,6 +2158,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||b-ok.cc
 forum.baby-kingdom.com
 babynet.com.hk
 backchina.com
@@ -2516,6 +2517,7 @@ cari.com.my
 catholic.org.tw
 ||catholic.org.tw
 .cathvoice.org.tw
+||cato.org
 ||cattt.com
 .cbc.ca
 ||cbc.ca
@@ -2585,7 +2587,7 @@ cdpwu.org
 ||changp.com
 .changsa.net
 |http://changsa.net
-.channel8news.sg/news8
+||channelnewsasia.com
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
@@ -2745,6 +2747,7 @@ clinica-tibet.ru
 .clipfish.de
 cloakpoint.com
 ||club1069.com
+||joinclubhouse.com
 cmi.org.tw
 |http://www.cmoinc.org
 cmp.hku.hk
@@ -2841,7 +2844,10 @@ csdparty.com
 .ctao.org
 .ctfriend.net
 .ctitv.com.tw
-cts.com.tw
+||ctowc.org
+.cts.com.tw
+||cts.com.tw
+||ctwant.com
 |http://library.usc.cuhk.edu.hk/
 |http://mjlsh.usc.cuhk.edu.hk/
 .cuhkacs.org/~benng
@@ -2965,8 +2971,8 @@ delicious.com/GFWbookmark
 ||dessci.com
 .destroy-china.jp
 ||deutsche-welle.de
-!--||deviantart.com
-!--||deviantart.net
+||deviantart.com
+||deviantart.net
 ||devio.us
 ||devpn.com
 ||dfas.mil
@@ -3188,8 +3194,7 @@ englishforeveryone.org
 englishpen.org
 .enlighten.org.tw
 ||entermap.com
-.entnt.com
-|http://entnt.com
+||app.evozi.com
 .episcopalchurch.org
 .epochhk.com
 |http://epochhk.com
@@ -3266,6 +3271,7 @@ eeas.europa.eu/statements-eeas/2015/151022
 .exchristian.hk
 ||exchristian.hk
 |http://blog.excite.co.jp
+||exhentai.org
 ||exmormon.org
 ||expatshield.com
 .expecthim.com
@@ -3298,6 +3304,7 @@ eyevio.jp
 
 ||faiththedog.info
 .fakku.net
+||fallenark.com
 .falsefire.com
 ||falsefire.com
 falun-co.org
@@ -3596,6 +3603,7 @@ fzlm.com
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
+||gab.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
@@ -3812,6 +3820,7 @@ greatzhonghua.org
 .greenvpn.org
 ||grotty-monday.com
 gs-discuss.com
+||gsearch.media
 ||gtricks.com
 guancha.org
 guaneryu.com
@@ -4353,7 +4362,6 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
-humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -4410,7 +4418,6 @@ blogs.icerocket.com/tag
 !-- Google Pages
 ||icu-project.org
 w.idaiwan.com/forum
-||iddddg.com
 idemocracy.asia
 .identi.ca
 ||identi.ca
@@ -4666,6 +4673,7 @@ weiboscope.jmsc.hku.hk
 ||joachims.org
 ||jobso.tv
 .sunwinism.joinbbs.net
+||joinclubhouse.com
 .journalchretien.net
 ||journalofdemocracy.org
 .joymiihub.com
@@ -4687,6 +4695,7 @@ jpopforum.net
 justfreevpn.com
 .justicefortenzin.org
 justpaste.it
+||justmysocks1.net
 justtristan.com
 juyuange.org
 juziyue.com
@@ -4853,6 +4862,7 @@ leisurecafe.ca
 ||lematin.ch
 .lemonde.fr
 ||lenwhite.com
+||leorockwell.com
 lerosua.org
 ||lerosua.org
 blog.lester850.info
@@ -4899,6 +4909,7 @@ linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
 ||liquidvpn.com
 ||greatfire.us7.list-manage.com
+||listennotes.com
 ||listentoyoutube.com
 listorious.com
 .liu-xiaobo.org
@@ -5061,6 +5072,7 @@ meirixiaochao.com
 memorybbs.com
 .memri.org
 .memrijttm.org
+||mercdn.net
 .mercyprophet.org
 |http://mercyprophet.org
 ||mergersandinquisitions.org
@@ -5074,12 +5086,14 @@ merit-times.com.tw
 meshrep.com
 .mesotw.com/bbs
 metacafe.com/watch
+||metafilter.com
 ||meteorshowersonline.com
 |http://www.metro.taipei/
 .metrohk.com.hk/?cmd=detail&categoryID=2
 ||metrolife.ca
 .metroradio.com.hk
 |http://metroradio.com.hk
+||mewe.com
 meyou.jp
 .meyul.com
 ||mgoon.com
@@ -5168,6 +5182,7 @@ wiki.moegirl.org
 .mofaxiehui.com
 .mofos.com
 ||mog.com
+||mohu.rocks
 molihua.org
 ||mondex.org
 .money-link.com.tw
@@ -5320,6 +5335,7 @@ nccwatch.org.tw
 .ndr.de
 .ned.org
 ||nekoslovakia.net
+||neowin.net
 ||nepusoku.com
 ||net-fits.pro
 !--bbsnew.netbig.com
@@ -5360,6 +5376,7 @@ newstarnet.com
 .newtaiwan.com.tw
 newtalk.tw
 ||newtalk.tw
+||newyorker.com
 newyorktimes.com
 ||nexon.com
 .next11.co.jp
@@ -5513,6 +5530,7 @@ showbiz.omy.sg
 ||onion.city
 .onlinecha.com
 ||onlineyoutube.com
+||onlygayvideo.com
 .onlytweets.com
 |http://onlytweets.com
 onmoon.net
@@ -6042,7 +6060,9 @@ riku.me/
 !--||rocmp.org
 ||rojo.com
 ||ronjoneswriter.com
+||rolfoundation.org
 ||rolia.net
+||rolsociety.org
 .roodo.com
 .rosechina.net
 .rotten.com
@@ -6062,6 +6082,7 @@ riku.me/
 |http://rthk.org.hk
 .rti.org.tw
 ||rti.org.tw
+||rti.tw
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
@@ -6427,6 +6448,7 @@ spem.at
 ||ssrshare.com
 ||sss.camp
 !--|http://cdn.sstatic.net/
+||sstm.moe
 ||sstmlt.moe
 sstmlt.net
 ||sstmlt.net
@@ -6643,6 +6665,7 @@ teensinasia.com
 ||tenzinpalmo.com
 .tew.org
 .thaicn.com
+||theatlantic.com
 ||theatrum-belli.com
 theblemish.com
 ||thebcomplex.com
@@ -6818,6 +6841,7 @@ tibettimes.net
 !--.time.com/time/specials/packages/article/0,28804
 !--.time.com/time/magazine
 .timsah.com
+||timtales.com
 ||blog.tiney.com
 tintuc101.com
 .tiny.cc
@@ -7268,8 +7292,10 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||v2fly.org
 .v2ray.com
 ||v2ray.com
+||v2raytech.com
 .van001.com
 .van698.com
 .vanemu.cn
@@ -7455,6 +7481,7 @@ want-daily.com
 wapedia.mobi/zhsimp
 ||waselpro.com
 .watchinese.com
+||watchout.tw
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
@@ -7626,6 +7653,7 @@ winwhispers.info
 ||wionews.com
 ||wiredbytes.com
 ||wiredpen.com
+||wireguard.com
 !--||wireshark.org
 .wisdompubs.org
 .wisevid.com
@@ -7785,7 +7813,10 @@ xuchao.net
 xvideo.cc
 .xvideos.com
 ||xvideos.com
+||xvideos-cdn.com
 ||xvideos.es
+||xvbelink.com
+||xvinlink.com
 .xkiwi.tk/
 .xxbbx.com
 .xxlmovies.com
@@ -7805,6 +7836,7 @@ xyy69.info
 ||yakbutterblues.com
 ||yam.com
 ||yam.org.tw
+||yande.re
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
