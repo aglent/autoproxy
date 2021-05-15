@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hnz9JzdwrHTmX0RtYHcDyA
+! Checksum: +TMRXnVxGENulAqtwJ5m8w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 May 2021 21:08:10 -0400
+! Last Modified: Tue, 11 May 2021 15:45:12 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -20,8 +20,6 @@
 ||vimeocdn.com
 .github.com
 ||github.com
-! .raw.githubusercontent.com
-! ||raw.githubusercontent.com
 itunes.apple.com/us
 ||aaex.uk
 ||amytele.com
@@ -5579,6 +5577,7 @@ nccwatch.org.tw
 ||neowin.net
 ||nepusoku.com
 ||net-fits.pro
+||netalert.me
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
@@ -7586,6 +7585,7 @@ uygur.org
 ||v2ray.com
 ||v2raycn.com
 ||v2raytech.com
+||valeursactuelles.com
 .van001.com
 .van698.com
 .vanemu.cn
