@@ -448,7 +448,6 @@
 ||dmzj.com
 ||dnspod.cn
 ||docin.com
-||dogedoge.com
 ||douban.com
 ||douban.fm
 ||doubleclick.net
