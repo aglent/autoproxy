@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +TMRXnVxGENulAqtwJ5m8w
+! Checksum: nwPbYw6iHXjq/wmuRB9RmA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 11 May 2021 15:45:12 -0400
+! Last Modified: Wed, 23 Jun 2021 10:54:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2261,7 +2261,7 @@ asg.to
 .asiaharvest.org
 ||asiaharvest.org
 ||asianage.com
-asianews.it
+||asianews.it
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
@@ -2316,6 +2316,7 @@ boxun*.azurewebsites.net
 !--------------------BB-------------------------
 ||b-ok.cc
 forum.baby-kingdom.com
+||babylonbee.com
 babynet.com.hk
 backchina.com
 ||backchina.com
@@ -2389,6 +2390,7 @@ beijingspring.com
 |http://bell.wiki
 bemywife.cc
 beric.me
+||berlinerbericht.de
 .berlintwitterwall.com
 ||berlintwitterwall.com
 .berm.co.nz
@@ -3910,8 +3912,9 @@ gigporno.ru
 
 !---GitHub---
 ||github.blog
-github.com/getlantern
-|https://gist.github.com
+||github.com
+!--github.com/getlantern
+!--|https://gist.github.com
 !--http://cthlo.github.io/hktv
 !--hahaxixi.github.io
 !--|https://hahaxixi.github.io
@@ -4712,14 +4715,15 @@ in-disguise.com
 ||incloak.com
 ||incredibox.fr
 ||independent.co.uk
+||indiablooms.com
 ||indiandefensenews.in
-timesofindia.indiatimes.com/dalai
-timesofindia.indiatimes.com/defaultinterstitial.cms
+||indianarrative.com
+||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
 website.informer.com
-.initiativesforchina.org
+||initiativesforchina.org
 .inkui.com
 .inmediahk.net
 ||inmediahk.net
@@ -5293,6 +5297,7 @@ mcreasite.com
 mefeedia.com
 jihadintel.meforum.org
 ||mega.co.nz
+||mega.io
 ||mega.nz
 ||megaproxy.com
 ||megarotic.com
@@ -5623,6 +5628,7 @@ newtalk.tw
 newyorktimes.com
 ||nexon.com
 .next11.co.jp
+||nextdigital.com.hk
 .nextmag.com.tw
 
 !--hk*.nextmedia.com
@@ -7191,8 +7197,10 @@ top81.ws
 ||toptip.ca
 tora.to
 .torcn.com
+||torlock.com
 .torproject.org
 ||torproject.org
+||torrentkitty.tv
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
