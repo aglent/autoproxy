@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kwEMDjmPlAEP8CITvmCZtA
+! Checksum: +QPLQLxSc+w/+qG7peL/FQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 06 Jul 2021 09:48:56 -0400
+! Last Modified: Wed, 11 Aug 2021 13:07:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -27,10 +27,9 @@ itunes.apple.com/us
 ||dlercloud.com
 ||ikafan.com
 ||maying.co
-||n3ro.host
 ||nexitally.com
 ||immtel.com
-||xroute.pro
+||altas.cc
 ||waitu.asia
 ||notion.so
 ||shadowsocks.com
@@ -300,6 +299,7 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
+||9cache.com
 ||9gag.com
 ||agro.hk
 ||share.america.gov
@@ -1508,6 +1508,7 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.google
 ||tv.google
 ||urchin.com
 !--||www.google
@@ -1999,6 +2000,7 @@ taiwannation.50webs.com
 89.64.charter.constitutionalism.solutions
 89-64.org
 ||89-64.org
+||8964museum.com
 .8news.com.tw
 .8z1.net
 ||8z1.net
@@ -2284,7 +2286,8 @@ atgfw.org
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
-.atlanta168.com/forum
+.atlanta168.com
+||atlanta168.com
 .atnext.com
 ||atnext.com
 ice.audionow.com
@@ -2444,6 +2447,7 @@ ai.binwang.me/couplet
 .bit.ly
 |http://bit.ly
 !--||bitbucket.org
+||bitchute.com
 ||bitcointalk.org
 .bitshare.com
 ||bitshare.com
@@ -3577,11 +3581,13 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
+||feeder.co
 ||feelssh.com
 feer.com
 .feifeiss.com
 |http://feitianacademy.org
 .feitian-california.org
+||feixiaohao.com
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
@@ -5622,6 +5628,7 @@ newspeak.cc/story
 ||newsancai.com
 .newsdetox.ca
 .newsdh.com
+||newsmax.com
 ||newstamago.com
 ||newstapa.org
 newstarnet.com
@@ -5647,6 +5654,7 @@ nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
 ngensis.com
+||ngodupdongchung.com
 .nhentai.net
 |http://nhentai.net
 .nhk-ondemand.jp
@@ -5756,6 +5764,7 @@ occupytiananmen.com
 oclp.hk
 .ocreampies.com
 ||october-review.org
+||odysee.com
 offbeatchina.com
 ||officeoftibet.com
 |http://ofile.org
@@ -6171,6 +6180,7 @@ psblog.name
 .putihome.org
 .putlocker.com/file
 pwned.com
+||pximg.net
 python.com
 .python.com.tw
 |http://python.com.tw
@@ -6389,6 +6399,7 @@ cdn1.lp.saboom.com
 sacom.hk
 ||sacom.hk
 ||sadpanda.us
+||safechat.com
 .safervpn.com
 ||safervpn.com
 .saintyculture.com
@@ -6988,6 +6999,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thediplomat.com
 ||thedw.us
+!--||thefreeland.club
 thefrontier.hk/tf
 ||theguardian.com
 ||thegay.com
@@ -7163,6 +7175,7 @@ tintuc101.com
 |http://tiny.cc
 tinychat.com
 ||tinypaste.com
+||tipas.net
 .tistory.com
 ||tkcs-collins.com
 .tmagazine.com
@@ -7889,6 +7902,7 @@ winwhispers.info
 .wisdompubs.org
 .wisevid.com
 ||wisevid.com
+||whispersystems.org
 .witnessleeteaching.com
 .witopia.net
 .wjbk.org
@@ -7977,6 +7991,7 @@ wukangrui.net
 wzyboy.im/post/160
 
 !--------------------XX-------------------------
+||x.co
 .x-berry.com
 ||x-berry.com
 ||x-art.com
