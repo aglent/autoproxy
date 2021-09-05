@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +QPLQLxSc+w/+qG7peL/FQ
+! Checksum: /G5ifrbn65sffSmcUQ44pg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 11 Aug 2021 13:07:10 -0400
+! Last Modified: Fri, 27 Aug 2021 11:33:15 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6047,6 +6047,7 @@ politicalconsultation.org
 .popo.tw
 !--||popularpages.net
 ||popvote.hk
+||popxi.click
 .popyard.com
 ||popyard.org
 .porn.com
