@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: W5Nj6aBqJjoSeMwihKJTfQ
+! Checksum: NrVw4TheNYZ0Jc1ZA45R0Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 19 Sep 2021 17:45:53 -0400
+! Last Modified: Mon, 01 Nov 2021 12:10:37 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -180,6 +180,7 @@ share.dmhy.org
 ||mvg.jp
 .mybet.com
 ||mybet.com
+||mypikpak.com
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
@@ -474,6 +475,7 @@ share.dmhy.org
 ||btc98.com
 ||btcbank.bank
 ||btctrade.im
+||bybit.com
 ||c2cx.com
 ||chaoex.com
 ||cobinhood.com
@@ -483,7 +485,9 @@ share.dmhy.org
 ||coinegg.com
 ||coinex.com
 !--|https://www.coinexchange.io/
+||coingecko.com
 ||coingi.com
+||coinmarketcap.com
 ||coinrail.co.kr
 ||cointiger.com
 ||cointobe.com
@@ -497,6 +501,7 @@ share.dmhy.org
 ||exrates.me
 ||exx.com
 ||fatbtc.com
+||ftx.com
 ||gate.io
 ||gatecoin.com
 ||hbg.com
@@ -517,6 +522,7 @@ share.dmhy.org
 ||livecoin.net
 ||localbitcoins.com
 ||mercatox.com
+||oanda.com
 ||oex.com
 ||okex.com
 ||otcbtc.com
@@ -1669,7 +1675,6 @@ cn.nytstyle.com
 @@||matsu-nsa.gov.tw
 @@||matsucc.gov.tw
 @@||moe.gov.tw
-@@||mvdis.gov.tw
 @@||nankan.gov.tw
 @@||ncree.gov.tw
 @@||necoast-nsa.gov.tw
@@ -1845,16 +1850,16 @@ zh.uncyclopedia.wikia.com
 
 !!---Yahoo---
 ||data.flurry.com
-page.bid.yahoo.com
-tw.bid.yahoo.com
-|https://tw.bid.yahoo.com
-blogs.yahoo.co.jp
+||page.bid.yahoo.com
+||tw.bid.yahoo.com
+||auctions.yahoo.co.jp
+||blogs.yahoo.co.jp
 ||search.yahoo.co.jp
-buy.yahoo.com.tw/gdsale
-hk.yahoo.com
-hk.knowledge.yahoo.com
-tw.money.yahoo.com
-hk.myblog.yahoo.com
+||buy.yahoo.com.tw
+||hk.yahoo.com
+||hk.knowledge.yahoo.com
+||tw.money.yahoo.com
+||hk.myblog.yahoo.com
 news.yahoo.com/china-blocks-bbc
 ||hk.news.yahoo.com
 hk.rd.yahoo.com
@@ -1935,6 +1940,7 @@ zhao.1984.city
 .2008xianzhang.info
 ||2008xianzhang.info
 ||2017.hk
+||2021hkcharter.com
 ||2047.name
 21andy.com/blog
 .21join.com
@@ -2475,6 +2481,7 @@ blinw.com
 ||blip.tv/
 .blockcn.com
 ||blockcn.com
+||blockedbyhk.com
 ||blockless.com
 ||blog.de
 .blog.jp
@@ -2517,6 +2524,7 @@ bonbonme.com
 .bongacams.com
 ||boobstagram.com
 ||book.com.tw
+||bookdepository.com
 bookepub.com
 ||books.com.tw
 ||botanwang.com
@@ -3923,6 +3931,7 @@ gigporno.ru
 .git.io
 ||git.io
 |http://softwaredownload.gitbooks.io
+||raw.githack.com
 
 !---GitHub---
 ||github.blog
@@ -4000,7 +4009,8 @@ gongminliliang.com
 |http://gongwt.com
 blog.goo.ne.jp/duck-tail_2009
 .gooday.xyz
-|http://gooday.xyz
+||gooday.xyz
+||goodhope.school
 .goodreads.com
 ||goodreads.com
 .goodreaders.com
@@ -4538,6 +4548,7 @@ hongmeimei.com
 .hornygamer.com
 .hornytrip.com
 |http://hornytrip.com
+||horrorporn.com
 ||hotair.com
 .hotav.tv
 .hotels.cn
@@ -5706,6 +5717,7 @@ noodlevpn.com
 .norbulingka.org
 nordvpn.com
 ||nordvpn.com
+||notepad-plus-plus.org
 ||novelasia.com
 .news.now.com
 |http://news.now.com
@@ -7016,6 +7028,7 @@ thehousenews.com
 ||thehun.net
 .theinitium.com
 ||theinitium.com
+||themoviedb.org
 .thenewslens.com
 ||thenewslens.com
 .thepiratebay.org
@@ -7037,6 +7050,7 @@ thetibetconnection.org
 !--Tor
 ||thetinhat.com
 thetrotskymovie.com
+||thetvdb.com
 thevivekspot.com
 ||thewgo.org
 .theync.com
@@ -7240,7 +7254,7 @@ toytractorshow.com
 .tparents.org
 .tpi.org.tw
 ||tpi.org.tw
-traffichaus.com
+||tradingview.com
 ||transparency.org
 ||treemall.com.tw
 trendsmap.com
@@ -7249,8 +7263,9 @@ trendsmap.com
 ||trialofccp.org
 .trimondi.de/SDLE
 .trouw.nl
-|http://trouw.nl
+||trouw.nl
 .trt.net.tr
+||trt.net.tr
 trtc.com.tw
 .truebuddha-md.org
 |http://truebuddha-md.org
@@ -7296,6 +7311,7 @@ bbs.tuitui.info
 .tunein.com
 |http://tunein.com
 ||tunnelbear.com
+||tunnelblick.net
 .tunnelr.com
 ||tunnelr.com
 ||tunsafe.com
@@ -7771,6 +7787,7 @@ lists.w3.org/archives/public
 .waigaobu.com
 waikeung.org/php_wind
 .wailaike.net
+||wainao.me
 .waiwaier.com
 |http://waiwaier.com
 ||wallmama.com
@@ -8092,6 +8109,7 @@ xyy69.info
 
 !--------------------YY-------------------------
 ||y2mate.com
+||yadi.sk
 ||yakbutterblues.com
 ||yam.com
 ||yam.org.tw
@@ -8195,6 +8213,7 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-lib.org
 zacebook.com
 .zalmos.com
 ||zalmos.com
