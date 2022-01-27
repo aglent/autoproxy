@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NrVw4TheNYZ0Jc1ZA45R0Q
+! Checksum: 5GLqHZO+36YwD2w2eDsGFw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 01 Nov 2021 12:10:37 -0400
+! Last Modified: Fri, 21 Jan 2022 16:44:46 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -161,6 +161,7 @@ share.dmhy.org
 |http://www.m-sport.co.uk
 ||macgamestore.com
 ||madonna-av.com
+||mandiant.com
 ||mangafox.com
 ||mangafox.me
 ||manta.com
@@ -251,6 +252,7 @@ share.dmhy.org
 ||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
+||tiktok.com
 ||tma.co.jp
 ||tracfone.com
 ||tryheart.jp
@@ -292,6 +294,7 @@ share.dmhy.org
 ||xn--i2ru8q2qg.com
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
+||xn--9pr62r24a.com
 
 !-----------------DNS Poisoning-----------------
 !---Amazon---
@@ -519,6 +522,7 @@ share.dmhy.org
 ||kspcoin.com
 ||kucoin.com
 ||lbank.info
+||liquiditytp.com
 ||livecoin.net
 ||localbitcoins.com
 ||mercatox.com
@@ -527,8 +531,11 @@ share.dmhy.org
 ||okex.com
 ||otcbtc.com
 ||paxful.com
+||poolin.com
 ||rightbtc.com
+||solv.finance
 ||topbtc.com
+||tronscan.org
 ||xbtce.com
 ||yobit.net
 ||zb.com
@@ -1579,7 +1586,7 @@ cn.nytstyle.com
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
 !--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com
+||store.steampowered.com
 
 !!---Telegram---
 !!!---Domain---
@@ -1975,7 +1982,7 @@ taiwannation.50webs.com
 ||51jav.org
 .51luoben.com
 ||51luoben.com
-.5278.cc
+||5278.cc
 .5299.tv
 5aimiku.com
 5i01.com
@@ -2396,6 +2403,7 @@ bdsmvideos.net
 ||beevpn.com
 .behindkink.com
 ||beijing1989.com
+||beijing2022.art
 beijingspring.com
 ||beijingspring.com
 .beijingzx.org
@@ -2507,6 +2515,7 @@ blogtd.net
 
 ||bloomfortune.com
 blueangellive.com
+||blubrry.com
 .bmfinn.com
 .bnews.co
 ||bnews.co
@@ -2514,7 +2523,7 @@ blueangellive.com
 boardreader.com/thread
 ||boardreader.com
 .bod.asia
-|http://bod.asia
+||bod.asia
 .bodog88.com
 .bolehvpn.net
 ||bolehvpn.net
@@ -2527,6 +2536,7 @@ bonbonme.com
 ||bookdepository.com
 bookepub.com
 ||books.com.tw
+||borgenmagazine.com
 ||botanwang.com
 .bot.nu
 .bowenpress.com
@@ -2734,8 +2744,8 @@ ccue.com
 ||cdig.info
 cdjp.org
 ||cdjp.org
-.cdn-apple.com
-||cdn-apple.com
+!--.cdn-apple.com
+!--||cdn-apple.com
 .cdnews.com.tw
 cdp1989.org
 cdp1998.org
@@ -2933,6 +2943,7 @@ clearwisdom.net
 .clipfish.de
 cloakpoint.com
 ||app.cloudcone.com
+||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
 cmi.org.tw
@@ -3207,6 +3218,7 @@ djangosnippets.org
 ||dlive.tv
 ||dlsite.com
 ||dlyoutube.com
+||dmc.nico
 ||dmcdn.net
 .dnscrypt.org
 ||dnscrypt.org
@@ -3540,6 +3552,7 @@ familyfed.org
 ||fanglizhi.info
 ||fangong.org
 fangongheike.com
+||fanhaolou.com
 .fanqiang.tk
 fanqianghou.com
 ||fanqianghou.com
@@ -3914,6 +3927,7 @@ gfbv.de
 gfw.org.ua
 .gfw.press
 ||gfw.press
+||gfw.report
 .ggssl.com
 ||ggssl.com
 !--||ghost.org
@@ -3969,7 +3983,7 @@ globalmuseumoncommunism.org
 ||globalvpn.net
 .glock.com
 gluckman.com/DalaiLama
-gmbd.cn
+||gmgard.com
 ||gmhz.org
 |http://www.gmiddle.com
 |http://www.gmiddle.net
@@ -4031,7 +4045,7 @@ grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
 ||graphql.org
-!--||s.gravatar.com
+||gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -4823,6 +4837,7 @@ blog.istef.info/2007/10/21/myentunnel
 .istockphoto.com
 isunaffairs.com
 isuntv.com
+||isupportuyghurs.org
 itaboo.info
 ||itaboo.info
 .italiatibet.org
@@ -5036,7 +5051,7 @@ killwall.com
 @@||www.kodingen.com
 ||kompozer.net
 .konachan.com
-|http://konachan.com
+||konachan.com
 .kone.com
 ||koolsolutions.com
 .koornk.com
@@ -5049,6 +5064,7 @@ killwall.com
 .ksnews.com.tw
 ||ktzhk.com
 .kui.name/event
+||kukuku.uk
 kun.im
 .kurashsultan.com
 ||kurtmunger.com
@@ -5646,6 +5662,7 @@ newspeak.cc/story
 ||newsmax.com
 ||newstamago.com
 ||newstapa.org
+||newstatesman.com
 newstarnet.com
 ||newsweek.com
 .newtaiwan.com.tw
@@ -5800,8 +5817,10 @@ oizoblog.com
 okk.tw
 |http://filmy.olabloga.pl/player
 old-cat.net
+||olevod.com
 ||olumpo.com
 .olympicwatch.org
+||omct.org
 omgili.com
 ||omnitalk.com
 ||omnitalk.org
@@ -6153,6 +6172,7 @@ privatepaste.com
 privatetunnel.com
 ||privatetunnel.com
 ||privatevpn.com
+||privoxy.org
 ||procopytips.com
 ||project-syndicate.org
 provideocoalition.com
@@ -6181,6 +6201,7 @@ psblog.name
 ||pt.im
 .ptt.cc
 ||ptt.cc
+||pttgame.com
 .puffstore.com
 .puuko.com
 ||pullfolio.com
@@ -6319,6 +6340,7 @@ referer.us
 relaxbbs.com
 .relay.com.tw
 .releaseinternational.org
+||religionnews.com
 religioustolerance.org
 renminbao.com
 ||renminbao.com
@@ -6397,6 +6419,7 @@ rukor.org
 ||rule34.xxx
 .runbtx.com
 .rushbee.com
+||rusvpn.com
 .ruten.com.tw
 ||ruten.com.tw
 rutube.ru
@@ -6417,6 +6440,7 @@ sacom.hk
 ||sacom.hk
 ||sadpanda.us
 ||safechat.com
+||safeguarddefenders.com
 .safervpn.com
 ||safervpn.com
 .saintyculture.com
@@ -6911,6 +6935,7 @@ tagwalk.com
 tahr.org.tw
 .taipeisociety.org
 ||taipeisociety.org
+||taipeitimes.com
 .taiwanbible.com
 .taiwancon.com
 .taiwandaily.net
@@ -6985,7 +7010,7 @@ tcnynj.org
 .tcsovi.org
 .tdm.com.mo
 teamamericany.com
-||static.techspot.com
+||techspot.com
 !--OVH
 ||techviz.net
 ||teck.in
@@ -7109,8 +7134,10 @@ tibetalk.com
 tibetan-alliance.org
 .tibetanarts.org
 .tibetanbuddhistinstitute.org
-|http://tibetanbuddhistinstitute.org
-tibetancommunity.org
+||tibetanbuddhistinstitute.org
+||tibetancommunity.org
+||tibetanentrepreneurs.org
+||tibetanhealth.org
 .tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
@@ -7135,11 +7162,10 @@ tibetanfeministcollective.org
 tibetcharity.in
 .tibetchild.org
 .tibetcity.com
-.tibetcorps.org
-.tibetexpress.net
-|http://tibetexpress.net
-tibetfocus.com
-tibetfund.org
+||tibetcorps.org
+||tibetexpress.net
+||tibetfocus.com
+||tibetfund.org
 .tibetgermany.com
 ||tibetgermany.de
 .tibethaus.com
@@ -7504,10 +7530,7 @@ twurl.nl
 ||blogs.tampabay.com
 ||contests.twilio.com
 !-lawprofessors.typepad.com/china_law_prof
-
-!-------------Twitese-----
-.embr.in
-||embr.in
+||typora.io
 
 !--------------------UU-------------------------
 .u9un.com
@@ -7603,9 +7626,6 @@ dalailama.usc.edu
 ||ustibetcommittee.org
 .ustream.tv
 ||ustream.tv
-!--||ustwrap.info
-.usunitednews.com
-|http://usunitednews.com
 usus.cc
 .utopianpal.com
 ||utopianpal.com
@@ -7613,19 +7633,19 @@ usus.cc
 .uvwxyz.xyz
 ||uvwxyz.xyz
 .uwants.com
+||uwants.com
 .uwants.net
 uyghur.co.uk
 |http://uyghur-j.org
+||uyghuraa.org
 ||uyghuramerican.org
 ||uyghurbiz.org
-.uyghurcanadiansociety.org
-.uyghurensemble.co.uk
+||uyghurcanadian.ca
 ||uyghurcongress.org
-.uyghurpen.org
-.uyghurpress.com
-|https://uyghurpress.com
-.uyghurstudies.org
-|http://uyghurstudies.org
+||uyghurpen.org
+||uyghurpress.com
+||uyghurstudies.org
+||uyghurtribunal.com
 uygur.org
 |http://uymaarip.com/
 
@@ -8145,6 +8165,7 @@ yegle.net
 .yibaochina.com
 .yidio.com
 ||yidio.com
+||yigeni.com
 yilubbs.com
 xa.yimg.com
 .yingsuoss.com
