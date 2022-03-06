@@ -23,3 +23,7 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 国内IP白名单chinaiplist.pac来源  https://github.com/17mon/china_ip_list
 <br>SwitchyOmega 扩展里新建 pac profile 模式（适用于Chrome），填写 PAC URL：https://git.io/chinaip 。
 <br>IP段会不定期更新。
+<br>
+# VPS aff
+[Dmit 洛杉矶 Premium CN2-GIA | Lite 4837](https://www.dmit.io/aff.php?aff=3539)
+[Wikihost 洛杉矶 4837 | 香港 CMI](https://idc.wiki/lndex.php?productid=2236)
