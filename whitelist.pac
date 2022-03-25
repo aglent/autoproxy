@@ -408,6 +408,7 @@
 ||cnwest.com
 ||cnzz.com
 ||cnzz.net
+||coalcloud.net
 ||coderstory.cn
 ||coding.io
 ||coding.me
