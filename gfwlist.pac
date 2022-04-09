@@ -29,11 +29,14 @@ itunes.apple.com/us
 ||maying.co
 ||nexitally.com
 ||immtel.com
+||fuckimm.com
 ||altas.cc
 ||waitu.asia
 ||notion.so
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
+||mimir.vivaldi.com
+||relay.nekoneko.cloud
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
