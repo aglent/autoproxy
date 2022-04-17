@@ -25,8 +25,8 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>IP段会不定期更新。
 <br>
 # VPS aff
-[Dmit 洛杉矶 Premium CN2-GIA | Lite 4837   香港&东京 Premium CN2-GIA | Lite 三网CMI回程](https://www.dmit.io/aff.php?aff=3539)
+[Dmit 洛杉矶 Premium CN2-GIA | Lite 4837 ***  香港&东京 Premium CN2-GIA | Lite 三网CMI回程](https://www.dmit.io/aff.php?aff=3539)
 <br>
-[花卷科技RFCHOST 香港2区&洛杉矶 Premium CN2-GIA | 香港3区 Premium 去程优化 三网CMI回程](https://my.rfchost.com/aff.php?aff=897)
+[花卷科技RFCHOST 香港2区&洛杉矶 Premium CN2-GIA *** 香港3区 Premium 去程优化 三网CMI回程](https://my.rfchost.com/aff.php?aff=897)
 <br>
-[Wikihost 洛杉矶 4837 | 香港 CMI](https://idc.wiki/lndex.php?productid=2236)
+[Wikihost 洛杉矶 4837 *** 香港 CMI](https://idc.wiki/lndex.php?productid=2236)
