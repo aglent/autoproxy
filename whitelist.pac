@@ -490,6 +490,7 @@
 ||filerun.dig77.com
 ||fir.im
 ||fliggy.com
+||flomoapp.com
 ||flow.ci
 ||freebuf.com
 
