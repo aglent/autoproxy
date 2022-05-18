@@ -30,5 +30,3 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 [花卷科技RFCHOST 香港3区 Premium 三网CMI回程](https://my.rfchost.com/aff.php?aff=897)
 <br>
 [Olink Cloud 洛杉矶&法兰克福 三网9929回程](https://www.olink.cloud/clients/aff.php?aff=308)
-<br>
-[Wikihost 洛杉矶 4837 *** 香港 三网CMI回程](https://idc.wiki/lndex.php?productid=2236)
