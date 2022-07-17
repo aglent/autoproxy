@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: l+uEgVDfH3L7nRTvP8Gjug
+! Checksum: 641DEtpb9MH0iWYG5EelHw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 28 May 2022 00:50:06 -0400
+! Last Modified: Sat, 16 Jul 2022 21:18:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -278,6 +278,7 @@ share.dmhy.org
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
+||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
 ||youwin.com
@@ -1355,6 +1356,7 @@ blogspot.com
 .blogspot.hk
 .blogspot.jp
 .blogspot.tw
+||business.page
 !--||capitalg.com
 ||certificate-transparency.org
 ||chrome.com
@@ -2578,6 +2580,7 @@ boyangu.com
 ||bravotube.net
 .brazzers.com
 ||brazzers.com
+||breached.to
 .break.com
 ||break.com
 breakgfw.com
@@ -3659,6 +3662,7 @@ findmespot.com
 finler.net
 .firearmsworld.net
 |http://firearmsworld.net
+||relay.firefox.com
 .fireofliberty.org
 ||fireofliberty.org
 .firetweet.io
@@ -3798,6 +3802,7 @@ friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 friends-of-tibet.org
 .friendsoftibet.org
+||friendsoftibet.org
 freechina.net
 |http://www.zensur.freerk.com/
 freevpn.nl
@@ -6533,6 +6538,7 @@ seesmic.com
 ||seezone.net
 sejie.com
 .sendspace.com
+||sensortower.com
 |http://tweets.seraph.me/
 sesawe.net
 ||sesawe.net
