@@ -37,6 +37,7 @@ itunes.apple.com/us
 ||stackpath.bootstrapcdn.com
 ||mimir.vivaldi.com
 ||relay.nekoneko.cloud
+||hostloc.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
