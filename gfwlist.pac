@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 641DEtpb9MH0iWYG5EelHw
+! Checksum: jWsiTfseuK01rDgvDIzU3A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 16 Jul 2022 21:18:24 -0400
+! Last Modified: Tue, 16 Aug 2022 11:38:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -38,6 +38,7 @@ itunes.apple.com/us
 ||mimir.vivaldi.com
 ||relay.nekoneko.cloud
 ||hostloc.com
+||tinyurl.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
@@ -2212,7 +2213,6 @@ animecrazy.net
 aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
-anonymise.us
 .anonymitynetwork.com
 .anonymizer.com
 .anonymouse.org
@@ -3874,6 +3874,7 @@ gamejolt.com
 .gaoming.net
 ||gaoming.net
 ganges.com
+||ganjingworld.com
 .gaopi.net
 |http://gaopi.net
 .gaozhisheng.org
@@ -5977,6 +5978,7 @@ pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
+||patreon.com
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
@@ -6206,6 +6208,7 @@ privatetunnel.com
 ||privoxy.org
 ||procopytips.com
 ||project-syndicate.org
+||proton.me
 provideocoalition.com
 ||prosiben.de
 proxifier.com
