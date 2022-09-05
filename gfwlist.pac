@@ -39,6 +39,7 @@ itunes.apple.com/us
 ||relay.nekoneko.cloud
 ||hostloc.com
 ||tinyurl.com
+||portableapps.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
