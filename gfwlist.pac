@@ -40,6 +40,7 @@ itunes.apple.com/us
 ||hostloc.com
 ||tinyurl.com
 ||portableapps.com
+||simplenote.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
