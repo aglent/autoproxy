@@ -27,4 +27,10 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 # VPS aff
 [Dmit | 洛杉矶 Premium CN2-GIA | 洛杉矶 Lite 4837 | 香港&东京 Premium CN2-GIA | 香港&东京 Lite CMI回程](https://www.dmit.io/aff.php?aff=3539)
 <br>
+[RCP | 东京 三网9929](https://clients.rcp.net/aff.php?aff=2428)
+<br>
+[Saltyfish 咸鱼云 | 香港 三网CMI回程 电信去程CN2-PCCW](https://portal.saltyfish.io/aff.php?aff=324)
+<br>
+[V.PS | 香港 三网CMI回程 | 东京 软银](https://vps.hosting/?affid=484)
+<br>
 [Olink Cloud 洛杉矶&法兰克福 三网9929回程](https://www.olink.cloud/clients/aff.php?aff=308)
