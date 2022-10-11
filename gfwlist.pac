@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jWsiTfseuK01rDgvDIzU3A
+! Checksum: OUH82AudXxbNt8oKqrEVEw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 16 Aug 2022 11:38:52 -0400
+! Last Modified: Sun, 25 Sep 2022 21:40:14 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -36,11 +36,13 @@ itunes.apple.com/us
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
 ||mimir.vivaldi.com
+||vivaldi.net
 ||relay.nekoneko.cloud
 ||hostloc.com
 ||tinyurl.com
 ||portableapps.com
 ||simplenote.com
+||bulianglin.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
@@ -2505,6 +2507,7 @@ tor.blingblingsquad.net
 blinw.com
 .blip.tv
 ||blip.tv/
+||blockcast.it
 .blockcn.com
 ||blockcn.com
 ||blockedbyhk.com
@@ -3049,6 +3052,7 @@ creaders.net
 ||creaders.net
 .creadersnet.com
 ||cristyli.com
+||croxyproxy.com
 .crocotube.com
 |http://crocotube.com
 .crossthewall.net
@@ -3421,7 +3425,7 @@ bitc.bme.emory.edu/~lzhou/blogs
 ||encrypt.me
 ||enewstree.com
 .enfal.de
-chinese.engadget.com
+||chinese.engadget.com
 ||engagedaily.org
 englishforeveryone.org
 ||englishfromengland.co.uk
@@ -4794,6 +4798,7 @@ website.informer.com
 .inote.tw
 .insecam.org
 |http://insecam.org
+||inside.com.tw
 ||insidevoa.com
 .institut-tibetain.org
 |http://internet.org/
@@ -4927,6 +4932,7 @@ jeanyim.com
 .jiangweiping.com
 ||jiangweiping.com
 ||jiaoyou8.com
+||jichangtj.com
 .jiehua.cz
 ||hk.jiepang.com
 ||tw.jiepang.com
@@ -5183,7 +5189,7 @@ letscorp.net
 ||liberal.org.hk
 .libertytimes.com.tw
 blogs.libraryinformationtechnology.com/jxyz
-.lidecheng.com/blog/fucking-gfw
+||libredd.it
 .lighten.org.tw
 .lightnovel.cn
 @@|https://www.lightnovel.cn
@@ -5821,6 +5827,7 @@ nylonstockingsonline.com
 ||nzchinese.net.nz
 
 !--------------------OO-------------------------
+||oann.com
 observechina.net
 .obutu.com
 ocaspro.com
@@ -5845,7 +5852,7 @@ oizoblog.com
 ||ok.ru
 .okayfreedom.com
 ||okayfreedom.com
-okk.tw
+||okk.tw
 |http://filmy.olabloga.pl/player
 old-cat.net
 ||olevod.com
@@ -6030,10 +6037,9 @@ penisbot.com
 ||peopo.org
 .percy.in
 .perfectgirls.net
-perfectvpn.net
+||perfect-privacy.com
 .persecutionblog.com
 .persiankitty.com
-pfd.org.hk
 phapluan.org
 .phayul.com
 ||phayul.com
@@ -6902,6 +6908,7 @@ tw.streetvoice.com
 ||studentsforafreetibet.org
 ||stumbleupon.com
 stupidvideos.com
+||substack.com
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
@@ -7716,6 +7723,7 @@ vansky.com
 .venetianmacao.com
 ||venetianmacao.com
 veoh.com
+||vercel.app
 mysite.verizon.net
 vermonttibet.org
 .versavpn.com
@@ -7726,7 +7734,7 @@ vermonttibet.org
 ||viber.com
 .vica.info
 .victimsofcommunism.org
-|http://victimsofcommunism.org
+||victimsofcommunism.org
 ||vid.me
 ||vidble.com
 videobam.com
@@ -7754,6 +7762,7 @@ visibletweets.com
 .vital247.org
 ||viu.com
 .vivahentai4u.net
+||vivaldi.com
 .vivatube.com
 .vivthomas.com
 ||vivthomas.com
