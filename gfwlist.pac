@@ -32,6 +32,7 @@ itunes.apple.com/us
 ||fuckimm.com
 ||altas.cc
 ||waitu.asia
+||yuansu.app
 ||notion.so
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
