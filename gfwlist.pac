@@ -33,6 +33,7 @@ itunes.apple.com/us
 ||altas.cc
 ||waitu.asia
 ||yuansu.app
+||flowercloud.net
 ||notion.so
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
