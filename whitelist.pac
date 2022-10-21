@@ -650,6 +650,7 @@
 ||lanzoui.com
 ||lanzoul.com
 ||lanzous.com
+||lanzouv.com
 ||lanzoux.com
 ||laomoit.com
 ||laravel-china.org
