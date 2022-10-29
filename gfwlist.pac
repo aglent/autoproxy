@@ -45,7 +45,6 @@ itunes.apple.com/us
 ||portableapps.com
 ||simplenote.com
 ||simplenote.go-vip.co
-||api.simperium.com
 ||bulianglin.com
 
 !---------403/451/503/520 & URL Redirects---------
