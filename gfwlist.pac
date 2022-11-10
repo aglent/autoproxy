@@ -46,6 +46,7 @@ itunes.apple.com/us
 ||simplenote.com
 ||simplenote.go-vip.co
 ||bulianglin.com
+||hostevaluate.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
