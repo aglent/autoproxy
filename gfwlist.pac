@@ -34,6 +34,7 @@ itunes.apple.com/us
 ||waitu.asia
 ||yuansu.app
 ||flowercloud.net
+||ikuuu.co
 ||notion.so
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
