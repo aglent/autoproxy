@@ -24,12 +24,19 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>SwitchyOmega 扩展里新建 pac profile 模式（适用于Chrome），填写 PAC URL：https://git.io/chinaip 。
 <br>IP段会不定期更新。
 <br>
+# Airport aff
+[MESL | 公网隧道+IEPL+IPLC | 高质量落地](https://in.mesl.cloud/#/register?code=htxF4eoD)
+<br>
+[ETON | 公网隧道+IEPL+IPLC | 高质量落地](https://www.eton.club/#/register?code=y87BAhMs)
+<br>
+[飞鸟 | 高性价比专线](https://www.fyb-aff.com/auth/register?code=eAy2)
+<br>
 # VPS aff
 [Dmit | 洛杉矶 Premium CN2-GIA | 洛杉矶 Lite 4837 | 香港&东京 Premium CN2-GIA | 香港&东京 Lite CMI回程](https://www.dmit.io/aff.php?aff=3539)
 <br>
 [RCP | 东京 三网9929](https://clients.rcp.net/aff.php?aff=2428)
 <br>
-[Saltyfish 咸鱼云 | 香港 三网CMI回程 电信去程CN2-PCCW](https://portal.saltyfish.io/aff.php?aff=324)
+[Saltyfish 咸鱼云 | 香港 三网CMI回程](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
 [V.PS | 香港 三网CMI回程 | 东京 软银](https://vps.hosting/?affid=484)
 <br>
