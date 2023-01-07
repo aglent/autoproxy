@@ -40,7 +40,6 @@ itunes.apple.com/us
 ||stackpath.bootstrapcdn.com
 ||mimir.vivaldi.com
 ||vivaldi.net
-||relay.nekoneko.cloud
 ||hostloc.com
 ||tinyurl.com
 ||portableapps.com
@@ -48,6 +47,7 @@ itunes.apple.com/us
 ||simplenote.go-vip.co
 ||bulianglin.com
 ||hostevaluate.com
+||liyuans.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
