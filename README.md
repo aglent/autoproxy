@@ -25,6 +25,8 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>IP段会不定期更新。
 <br>
 # Airport aff
+[TAG | 专线+超多全球冷门节点 | 各地家宽 | 新风味 Emby](https://tagss.pro#/register?invite=SOJel0IY)
+<br>
 [MESL | 公网隧道+IEPL+IPLC | 高质量落地](https://in.mesl.cloud/#/register?code=htxF4eoD)
 <br>
 [ETON | 公网隧道+IEPL+IPLC | 高质量落地](https://www.eton.club/#/register?code=y87BAhMs)
@@ -40,6 +42,6 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>
 [Saltyfish 咸鱼云 | 香港 三网CMI回程](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
-[V.PS | 香港 三网CMI回程 | 东京 软银](https://vps.hosting/?affid=484)
+[V.PS | 香港 三网CMI回程 | 东京 软银 | 圣何塞 CN2-GIA & 9929 & CMI | 悉尼  9929 | 西雅图 AMD 5950x](https://vps.hosting/?affid=484)
 <br>
 [Olink Cloud 洛杉矶&法兰克福 三网9929回程](https://www.olink.cloud/clients/aff.php?aff=308)
