@@ -40,7 +40,7 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>
 [RCP | 东京 三网9929](https://clients.rcp.net/aff.php?aff=2428)
 <br>
-[Saltyfish 咸鱼云 | 香港 三网CMI回程](https://portal.saltyfish.io/aff.php?aff=324)
+[Saltyfish 咸鱼云 | 香港 三网CMI回程 | 美国德国GIA-9929-4837](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
 [V.PS | 香港 三网CMI回程 | 东京 软银 | 圣何塞 CN2-GIA & 9929 & CMI | 伦敦 法兰克福 悉尼 9929 | 西雅图 AMD 5950x](https://vps.hosting/?affid=484)
 <br>
