@@ -48,6 +48,8 @@ itunes.apple.com/us
 ||bulianglin.com
 ||hostevaluate.com
 ||liyuans.com
+||polocloud.xyz
+||kuaichedao.co
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
