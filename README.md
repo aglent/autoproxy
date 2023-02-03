@@ -27,8 +27,6 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 # Airport aff
 [TAG | 专线+超多全球冷门节点 | 各地家宽 | 新风味 Emby](https://tagss.pro#/register?invite=SOJel0IY)
 <br>
-[MESL | 公网隧道+IEPL+IPLC | 高质量落地](https://in.mesl.cloud/#/register?code=htxF4eoD)
-<br>
 [ETON | 公网隧道+IEPL+IPLC | 高质量落地](https://www.eton.club/#/register?code=y87BAhMs)
 <br>
 [飞鸟 | 高性价比专线](https://www.fyb-aff.com/auth/register?code=eAy2)
