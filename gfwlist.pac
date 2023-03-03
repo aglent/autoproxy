@@ -30,7 +30,6 @@ itunes.apple.com/us
 ||nexitally.com
 ||immtel.com
 ||fuckimm.com
-||tagss.pro
 ||altas.cc
 ||waitu.asia
 ||yuansu.app
