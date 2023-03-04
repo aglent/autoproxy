@@ -29,6 +29,8 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>
 [ETON | 公网隧道+IEPL+IPLC | 高质量落地](https://www.eton.club/#/register?code=y87BAhMs)
 <br>
+[MESL | 公网隧道+IEPL+IPLC | 高质量落地](https://in.mesl.cloud/#/register?code=htxF4eoD)
+<br>
 [飞鸟 | 高性价比专线](https://www.fyb-aff.com/auth/register?code=eAy2)
 <br>
 # VPS aff
@@ -36,9 +38,7 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>
 [Wikihost | 香港 韩国 美国 鸡总家的预售相当于理财 买到就是赚到](https://idc.wiki/lndex.php?productid=2755)
 <br>
-[RCP | 东京 三网9929](https://clients.rcp.net/aff.php?aff=2428)
-<br>
-[Saltyfish 咸鱼云 | 香港 三网CMI回程 | 美国德国GIA-9929-4837](https://portal.saltyfish.io/aff.php?aff=324)
+[Saltyfish 咸鱼云 | 香港日本CMI | 美国德国GIA-9929-4837](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
 [V.PS | 香港 三网CMI回程 | 东京 软银 | 圣何塞 CN2-GIA & 9929 & CMI | 伦敦 法兰克福 悉尼 9929 | 西雅图 AMD 5950x](https://vps.hosting/?affid=484)
 <br>
