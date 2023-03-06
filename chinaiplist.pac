@@ -1,7 +1,3 @@
-// http://www.ipdeny.com/ipblocks/data/aggregated/cn-aggregated.zone
-// https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt
-// https://ibugone.com/project/pac-generator/#
-
 function belongsToSubnet(host, list) {
   var ip = host.split(".");
   ip = 0x1000000 * Number(ip[0]) + 0x10000 * Number(ip[1]) +
