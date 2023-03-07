@@ -36,7 +36,7 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 # VPS aff
 [Dmit | 洛杉矶 Premium CN2-GIA | 洛杉矶 Lite 4837 | 香港&东京 Premium CN2-GIA | 香港&东京 Lite CMI回程](https://www.dmit.io/aff.php?aff=3539)
 <br>
-[Wikihost | 香港 韩国 美国 鸡总家的预售相当于理财 买到就是赚到](https://idc.wiki/lndex.php?productid=2755)
+[Wikihost | 香港-日本-韩国-美国 鸡总家的预售相当于理财 买到就是赚到](https://idc.wiki/lndex.php?productid=2755)
 <br>
 [Saltyfish 咸鱼云 | 香港日本CMI | 美国德国GIA-9929-4837](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
