@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OUH82AudXxbNt8oKqrEVEw
+! Checksum: m8EjIvfukxZjwL3rPNYs6Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 25 Sep 2022 21:40:14 -0400
+! Last Modified: Sun, 26 Mar 2023 09:35:48 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -129,7 +129,7 @@ share.dmhy.org
 ||getuploader.com
 ||ghidra-sre.org
 !--|https://github.com/programthink/zhao
-|https://raw.githubusercontent.com/programthink/zhao
+!--|https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -224,11 +224,13 @@ share.dmhy.org
 ||s1.nudezz.com
 ||nusatrip.com
 ||nuuvem.com
+||olehdtv.com
 ||omni7.jp
 ||onapp.com
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -529,6 +531,7 @@ share.dmhy.org
 ||gatecoin.com
 ||hbg.com
 ||hitbtc.com
+||hotcoin.com
 ||huobi.co
 ||huobi.com
 ||huobi.me
@@ -539,6 +542,7 @@ share.dmhy.org
 ||bx.in.th
 ||jex.com
 ||kex.com
+||kraken.com
 ||kspcoin.com
 ||kucoin.com
 ||lbank.info
@@ -1379,6 +1383,7 @@ blogspot.com
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
+||cloudfunctions.net
 ||com.google
 ||crbug.com
 ||creativelab5.com
@@ -1558,6 +1563,7 @@ blogspot.com
 ||waymo.com
 ||web.dev
 ||webmproject.org
+||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
 ||widevine.com
@@ -2078,8 +2084,10 @@ abclite.net
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
+||about.me
 .aboutgfw.com
 .abs.edu
+||acast.com
 .accim.org
 .aceros-de-hispania.com
 .acevpn.com
@@ -2108,6 +2116,7 @@ adultkeep.net/peepshow/members/main.htm
 ||advanscene.com
 ||advertfan.com
 .ae.org
+||aei.org
 ||aenhancers.com
 ||af.mil
 .afantibbs.com
@@ -2224,6 +2233,7 @@ animecrazy.net
 aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
+||anonfiles.com
 .anonymitynetwork.com
 .anonymizer.com
 .anonymouse.org
@@ -2378,9 +2388,10 @@ badoo.com
 |http://*2.bahamut.com.tw
 ||baidu.jp
 .baijie.org
-|http://baijie.org
+||baijie.org
 ||bailandaily.com
 ||baixing.me
+||baizhi.org
 ||bakgeekhome.tk
 .banana-vpn.com
 ||banana-vpn.com
@@ -2547,6 +2558,7 @@ blueangellive.com
 .bmfinn.com
 .bnews.co
 ||bnews.co
+||bnext.com.tw
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
@@ -2620,7 +2632,8 @@ brucewang.net
 ||bt95.com
 .btaia.com
 .btbtav.com
-|http://btdigg.org
+||btdig.com
+||btdigg.org
 .btku.me
 ||btku.me
 ||btku.org
@@ -2629,14 +2642,13 @@ brucewang.net
 .budaedu.org
 ||budaedu.org
 .buddhanet.com.tw/zfrop/tibet
-.buddhistchannel.tv
-.buffered.com
-|http://buffered.com
+||buffered.com
 ||bullguard.com
 .bullog.org
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+||bumingbai.net
 ||bunbunhk.com
 .busayari.com
 |http://busayari.com
@@ -2856,6 +2868,7 @@ chinachannel.hk
 ||chinaelections.org
 .chinaeweekly.com
 ||chinaeweekly.com
+||chinafile.com
 ||chinafreepress.org
 .chinagate.com
 chinageeks.org
@@ -3284,6 +3297,7 @@ dongtaiwang.com
 ||dotvpn.com
 .doub.io
 ||doub.io
+||doublethinklab.org
 ||dougscripts.com
 ||douhokanko.net
 ||doujincafe.com
@@ -3682,6 +3696,7 @@ finler.net
 .firetweet.io
 ||firetweet.io
 ||firstpost.com
+||firstrade.com
 !--||flagfox.net
 .flagsonline.it
 fleshbot.com
@@ -3887,6 +3902,7 @@ gamejolt.com
 .gaoming.net
 ||gaoming.net
 ganges.com
+||ganjing.com
 ||ganjingworld.com
 .gaopi.net
 |http://gaopi.net
@@ -4469,6 +4485,7 @@ app.heywire.com
 .hhdcb3office.org
 .hhthesakyatrizin.org
 hi-on.org.tw
+||hiccears.com
 hidden-advent.org
 ||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -4572,6 +4589,7 @@ hkptu.org
 hnjhj.com
 ||hnjhj.com
 .hnntube.com
+||hojemacau.com.mo
 ||hola.com
 ||hola.org
 holymountaincn.com
@@ -4596,6 +4614,7 @@ hongmeimei.com
 .hornytrip.com
 |http://hornytrip.com
 ||horrorporn.com
+||hostloc.com
 ||hotair.com
 .hotav.tv
 .hotels.cn
@@ -4655,6 +4674,7 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
+||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -4794,21 +4814,22 @@ in-disguise.com
 ||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
-info-graf.fr
+||info-graf.fr
 website.informer.com
 ||initiativesforchina.org
-.inkui.com
-.inmediahk.net
+||inkui.com
+||inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
 ||inoreader.com
-.inote.tw
-.insecam.org
+||inote.tw
+||insecam.org
 |http://insecam.org
 ||inside.com.tw
 ||insidevoa.com
-.institut-tibetain.org
-|http://internet.org/
+||institut-tibetain.org
+||interactivebrokers.com
+||internet.org
 internetdefenseleague.org
 internetfreedom.org
 !--||interpol.int
@@ -4874,8 +4895,8 @@ isuntv.com
 ||isupportuyghurs.org
 itaboo.info
 ||itaboo.info
-.italiatibet.org
-download.ithome.com.tw
+||italiatibet.org
+||itemfix.com
 ithelp.ithome.com.tw
 ||itshidden.com
 .itsky.it
@@ -4889,7 +4910,7 @@ ithelp.ithome.com.tw
 ||ivacy.com
 .iverycd.com
 .ivpn.net
-!--||ivpn.net
+||ivpn.net
 ||ixquick.com
 .ixxx.com
 .iyouport.com
@@ -4997,6 +5018,7 @@ jpopforum.net
 .juoaa.com
 |http://juoaa.com
 justfreevpn.com
+||justhost.ru
 .justicefortenzin.org
 justpaste.it
 ||justmysocks1.net
@@ -5162,6 +5184,7 @@ latelinenews.com
 ||le-vpn.com
 .leafyvpn.net
 ||leafyvpn.net
+||ledger.com
 leeao.com.cn/bbs/forum.php
 !--||leecheukyan.org
 lefora.com
@@ -5518,6 +5541,7 @@ molihua.org
 ||moonbbs.com
 ||moptt.tw
 ||monitorchina.org
+||monocloud.me
 bbs.morbell.com
 ||morningsun.org
 ||moroneta.com
@@ -5693,6 +5717,7 @@ newcenturynews.com
 ||newhighlandvision.com
 newipnow.com
 .newlandmagazine.com.au
+||newmitbbs.com
 .newnews.ca
 news100.com.tw
 newschinacomment.org
@@ -5725,7 +5750,7 @@ newyorktimes.com
 .nextmedia.com
 
 ||nexton-net.jp
-nexttv.com.tw
+||nexttv.com.tw
 .nfjtyd.com
 ||co.ng.mil
 ||nga.mil
@@ -5897,6 +5922,7 @@ openid.net
 ||openid.net
 .openleaks.org
 ||openleaks.org
+||openstreetmap.org
 ||opentech.fund
 openvpn.net
 ||openvpn.net
@@ -5995,6 +6021,7 @@ pastebin.com
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||pawoo.net
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
@@ -6416,17 +6443,18 @@ rfaweb.org
 ||rferl.org
 .rfi.fr
 ||rfi.fr
-|http://rfi.my/
+||rfi.my
 !--.rhcloud.com
 !--Edgecast
 |http://vds.rightster.com/
 .rigpa.org
 .rileyguide.com
-riku.me/
+||riku.me
 .ritouki.jp
 ||ritter.vg
 .rlwlw.com
 ||rlwlw.com
+||rmbl.ws
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
@@ -6466,6 +6494,7 @@ riku.me/
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
 ||rule34.xxx
+||rumble.com
 .runbtx.com
 .rushbee.com
 ||rusvpn.com
@@ -6503,8 +6532,8 @@ sacom.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
 .sambhota.org
-.cn.sandscotaicentral.com
-|http://cn.sandscotaicentral.com
+||cn.sandscotaicentral.com
+||sankakucomplex.com
 ||sankei.com
 .sanmin.com.tw
 sapikachu.net
@@ -6835,7 +6864,8 @@ spem.at
 .spotflux.com
 ||spotflux.com
 .spring4u.info
-|http://spring4u.info
+||spring4u.info
+||springwood.me
 ||sproutcore.com
 ||sproxy.info
 ||squirrelvpn.com
@@ -7119,6 +7149,7 @@ thehousenews.com
 ||theporndude.com
 ||theportalwiki.com
 ||theprint.in
+||threadreaderapp.com
 thereallove.kr
 therock.net.nz
 ||thesaturdaypaper.com.au
@@ -7368,7 +7399,7 @@ tsunagarumon.com
 ||tt1069.com
 .tttan.com
 ||tttan.com
-bb.ttv.com.tw/bb
+||ttv.com.tw
 tu8964.com
 .tubaholic.com
 .tube.com
@@ -8246,6 +8277,7 @@ yinlei.org/mt
 .yomiuri.co.jp
 yong.hu
 .yorkbbs.ca
+||you.com
 ||youxu.info
 .youjizz.com
 ||youjizz.com
@@ -8419,31 +8451,31 @@ ultrasurf
 @@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
 @@||storage.googleapis.com
-@@||translate.googleapis.com
+!--@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
@@ -8451,6 +8483,7 @@ ultrasurf
 @@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
+@@||ocsp.pki.goog
 @@||qq.com
 @@||sina.cn
 @@||sina.com.cn
