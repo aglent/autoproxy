@@ -38,8 +38,6 @@ SwitchyOmega 扩展里新建 switch profile 模式（适用于Firefox 57+和Chro
 <br>
 [RFCHost | 香港 HK2 4837直连 | 香港HK3 三网CMI 去程直连 | 美国 CN2-GIA](https://my.rfchost.com/aff.php?aff=897)
 <br>
-[Wikihost | 香港-日本-韩国-美国 鸡总家的预售相当于理财 买到就是赚到](https://idc.wiki/lndex.php?productid=2755)
-<br>
 [Saltyfish 咸鱼云 | 香港日本CMI | 美国德国GIA-9929-4837](https://portal.saltyfish.io/aff.php?aff=324)
 <br>
 [Olink Cloud 洛杉矶&法兰克福 三网9929回程](https://www.olink.cloud/clients/aff.php?aff=308)
