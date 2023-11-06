@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FzrwXOsUo2Kxse803GAd6A
+! Checksum: 3G9Dd6DUURMFhqmYuuC91Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 19 May 2023 23:42:18 -0400
+! Last Modified: Sun, 17 Sep 2023 12:59:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -296,6 +296,7 @@ share.dmhy.org
 ||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
+||xiaomi.eu
 ||youwin.com
 ||ytn.co.kr
 ||zattoo.com
@@ -801,7 +802,7 @@ bloomberg.de
 .zzux.com
 
 !!--Cloudflare--
-||pages.dev
+!--||pages.dev
 
 !!---CloudFront---
 d1b183sg0nvnuh.cloudfront.net
@@ -1556,7 +1557,6 @@ blogspot.com
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||translate.goog
-||translate.google
 ||tv.google
 ||urchin.com
 !--||www.google
@@ -1668,6 +1668,7 @@ cn.nytstyle.com
 ||hpa.gov.tw
 ||immigration.gov.tw
 ||itaiwan.gov.tw
+||li.taipei
 ||mjib.gov.tw
 ||moeaic.gov.tw
 ||mofa.gov.tw
@@ -2036,7 +2037,7 @@ taiwannation.50webs.com
 ||6parknews.com
 ||7capture.com
 .7cow.com
-||7-zip.org
+!--||7-zip.org
 .8-d.com
 |http://8-d.com
 85cc.net
@@ -2975,7 +2976,7 @@ civilhrfront.org
 .civilmedia.tw
 ||civilmedia.tw
 psiphon.civisec.org
-||vpn.cjb.net
+||civitai.com
 .ck101.com
 ||ck101.com
 .clarionproject.org/news/islamic-state-isis-isil-propaganda
@@ -4045,6 +4046,7 @@ go-pki.com
 ||goagent.biz
 ||goagentplus.com
 gobet.cc
+||godaddy.com
 godfootsteps.org
 ||godfootsteps.org
 godns.work
@@ -4112,6 +4114,7 @@ greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 .greenvpn.org
+||grindr.com
 ||grotty-monday.com
 gs-discuss.com
 ||gsearch.media
@@ -4773,8 +4776,7 @@ ifjc.org
 ||im.tv
 @@||myvlog.im.tv
 ||im88.tw
-.imgchili.net
-|http://imgchili.net
+||imgchili.net
 .imageab.com
 .imagefap.com
 ||imagefap.com
@@ -4793,6 +4795,7 @@ imageshack.us
 
 .img.ly
 ||img.ly
+||imgasd.com
 .imgur.com
 ||imgur.com
 .imkev.com
@@ -5541,6 +5544,7 @@ molihua.org
 .moonbbs.com
 ||moonbbs.com
 ||moptt.tw
+||monica.im
 ||monitorchina.org
 ||monocloud.me
 bbs.morbell.com
