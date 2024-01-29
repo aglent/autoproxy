@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3G9Dd6DUURMFhqmYuuC91Q
+! Checksum: 0LN0ip3+tfqg7VWpsYQAfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 17 Sep 2023 12:59:35 -0400
+! Last Modified: Sat, 30 Dec 2023 12:31:14 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -34,7 +34,7 @@ itunes.apple.com/us
 ||waitu.asia
 ||yuansu.app
 ||flowercloud.net
-||ikuuu.co
+||ikuuu.me
 ||notion.so
 ||shadowsocks.com
 ||stackpath.bootstrapcdn.com
@@ -50,6 +50,17 @@ itunes.apple.com/us
 ||liyuans.com
 ||polocloud.xyz
 ||kuaichedao.co
+||ai.com
+||cdn.auth0.com
+||sentry.io
+||challenges.cloudflare.com
+||identrust.com
+||oaistatic.com
+||openaicom.imgix.net
+||openaiapi-site.azureedge.net
+||production-openaicom-storage.azureedge.net
+||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+||openaicomproductionae4b.blob.core.windows.net
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
@@ -419,6 +430,7 @@ share.dmhy.org
 ||potato.im
 ||premproxy.com
 ||prism-break.org
+||proton.me
 ||protonvpn.com
 ||api.pureapk.com
 ||quora.com
@@ -552,6 +564,7 @@ share.dmhy.org
 ||localbitcoins.com
 ||mercatox.com
 ||oanda.com
+||obyte.org
 ||oex.com
 ||okex.com
 ||okx.com
@@ -882,6 +895,7 @@ cdninstagram.com
 @@||ip6.static.sl-reverse.com
 ||parse.com
 ||thefacebook.com
+||threads.net
 ||whatsapp.com
 ||whatsapp.net
 
@@ -1624,12 +1638,19 @@ cn.nytstyle.com
 
 !!---Telegram---
 !!!---Domain---
+||cdn-telegram.org
+||comments.app
+||graph.org
+||quiz.directory
 ||t.me
 ||updates.tdesktop.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
-.telegramdownload.com
+||telegram.space
+||telegram-cdn.org
+||telegramdownload.com
+||telegra.ph
 ||telesco.pe
 !!!---IP---
 
@@ -2383,6 +2404,7 @@ backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
 backtotiananmen.com
+||bad.news
 .badiucao.com
 ||badiucao.com
 .badjojo.com
@@ -2697,6 +2719,7 @@ bwsj.hk
 .caijinglengyan.com
 ||caijinglengyan.com
 .calameo.com/books
+||calendarz.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
@@ -3042,7 +3065,7 @@ commandarms.com
 .contactmagazine.net
 .convio.net
 .coobay.com
-|http://www.cool18.com/bbs*/
+||cool18.com
 .coolaler.com
 ||coolaler.com
 coolder.com
@@ -3946,6 +3969,7 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 |http://gekikame.com
 .gelbooru.com
 |http://gelbooru.com
+||generated.photos
 ||genius.com
 !--||genuitec.com
 .geocities.co.jp
@@ -4182,7 +4206,6 @@ echofon.com
 !-||govecn.org
 !-||gqueues.com
 !-||graphycalc.com
-||greasespot.net
 !-||blog.growlforwindows.com
 !-H
 !-||hcm.com.tw
@@ -4670,7 +4693,9 @@ huaxia-news.com
 huaxiabao.org
 huaxin.ph
 ||huayuworld.org
-.huffingtonpost.com/rebiya-kadeer
+||huffingtonpost.com
+||huffpost.com
+||huggingface.co
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
@@ -4821,6 +4846,7 @@ in-disguise.com
 ||info-graf.fr
 website.informer.com
 ||initiativesforchina.org
+||inkbunny.net
 ||inkui.com
 ||inmediahk.net
 ||inmediahk.net
@@ -5381,7 +5407,8 @@ maruta.be/forget
 ||mathiew-badimon.com
 ||matrix.org
 ||matsushimakaede.com
-|http://maturejp.com
+||matters.town
+||maturejp.com
 mayimayi.com
 .maxing.jp
 .mcaf.ee
@@ -6281,6 +6308,7 @@ psblog.name
 .psiphon3.com
 ||psiphon3.com
 .psiphontoday.com
+||pstatic.net
 ||pt.im
 .ptt.cc
 ||ptt.cc
@@ -7111,7 +7139,6 @@ teensinasia.com
 ||tehrantimes.com
 .telecomspace.com
 ||telegraph.co.uk
-||telegra.ph
 .tenacy.com
 ||tenzinpalmo.com
 .tew.org
@@ -7939,6 +7966,7 @@ washeng.net
 .watch8x.com
 ||watchmygf.net
 ||wav.tv
+||wd.bible
 .wdf5.com
 ||wealth.com.tw
 .wearehairy.com
@@ -8049,14 +8077,14 @@ winwhispers.info
 .witopia.net
 .wjbk.org
 ||wjbk.org
-|http://wn.com
+||wmflabs.org
+||wn.com
 .wnacg.com
 .wnacg.org
 .wo.tc
 ||woeser.com
-|http://woesermiddle-way.net/
 .wokar.org
-|http://wokar.org
+||wokar.org
 wolfax.com
 ||wolfax.com
 ||wombo.ai
@@ -8236,6 +8264,7 @@ xyy69.info
 ||yam.org.tw
 ||yande.re
 ||disk.yandex.com
+||disk.yandex.ru
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
@@ -8268,7 +8297,8 @@ yegle.net
 ||yidio.com
 ||yigeni.com
 yilubbs.com
-xa.yimg.com
+||s.yimg.com
+||xa.yimg.com
 .yingsuoss.com
 .yipub.com
 ||yipub.com
