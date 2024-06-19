@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 0LN0ip3+tfqg7VWpsYQAfg
+! Checksum: jYUuq1LbGZszOzTEKRfKiA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Dec 2023 12:31:14 -0500
+! Last Modified: Thu, 06 Jun 2024 23:48:34 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -51,16 +51,15 @@ itunes.apple.com/us
 ||polocloud.xyz
 ||kuaichedao.co
 ||ai.com
+||algolia.net
+||api.statsig.com
 ||cdn.auth0.com
+||client-api.arkoselabs.com
 ||sentry.io
-||challenges.cloudflare.com
+||intercom.io
 ||identrust.com
 ||oaistatic.com
-||openaicom.imgix.net
-||openaiapi-site.azureedge.net
-||production-openaicom-storage.azureedge.net
-||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-||openaicomproductionae4b.blob.core.windows.net
+||oaiusercontent.com
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
@@ -92,11 +91,13 @@ itunes.apple.com/us
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||ciciai.com
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
 ||costco.com
+||coze.com
 ||crossfire.co.kr
 ||crunchyroll.com
 ||d2pass.com
@@ -310,6 +311,7 @@ share.dmhy.org
 ||xiaomi.eu
 ||youwin.com
 ||ytn.co.kr
+||zamimg.com
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
@@ -534,10 +536,12 @@ share.dmhy.org
 ||dragonex.io
 ||ebtcbank.com
 ||etherdelta.com
+||ethermine.org
 ||etherscan.io
 ||exmo.com
 ||exrates.me
 ||exx.com
+||f2pool.com
 ||fatbtc.com
 ||ftx.com
 ||gate.io
@@ -1675,6 +1679,7 @@ cn.nytstyle.com
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||x.com
 
 !!---Taiwan---
 ||gov.taipei
@@ -1750,7 +1755,7 @@ cn.nytstyle.com
 @@||nmp.gov.tw
 @@||nmvttc.gov.tw
 @@||northguan-nsa.gov.tw
-@@||npm.gov.tw
+||npm.gov.tw
 @@||nstm.gov.tw
 @@||ntdmh.gov.tw
 @@||ntl.gov.tw
@@ -1971,7 +1976,7 @@ video.yahoo.com
 141hongkong.com/forum
 ||141jj.com
 .141tube.com
-.1688.com.au
+||1688.com.au
 .173ng.com
 ||173ng.com
 .177pic.info
@@ -2293,8 +2298,8 @@ video.ap.org
 .apkmonk.com/app
 ||apkmonk.com
 ||apkplz.com
-apkpure.com
 ||apkpure.com
+||apkpure.net
 .aplusvpn.com
 !--||appannie.com
 ||appbrain.com
@@ -2318,6 +2323,7 @@ appledaily.com.tw
 ||archive.is
 .archive.li
 ||archive.li
+||archive.md
 ||archive.org
 ||archive.ph
 archive.today
@@ -2708,6 +2714,7 @@ bwsj.hk
 ||c-spanvideo.org
 ||c-est-simple.com
 .c100tibet.org
+||cableav.tv
 ||cablegatesearch.net
 .cachinese.com
 .cacnw.com
@@ -2848,6 +2855,7 @@ cdpwu.org
 |http://changsa.net
 ||channelnewsasia.com
 .chapm25.com
+||chatgpt.com
 .chaturbate.com
 ||chaturbate.com
 .chuang-yen.org
@@ -3252,6 +3260,7 @@ delicious.com/GFWbookmark
 ||deviantart.net
 ||devio.us
 ||devpn.com
+||devv.ai
 ||dfas.mil
 dfn.org
 dharmakara.net
@@ -3422,6 +3431,7 @@ eastern-ark.com
 .easyca.ca
 .easypic.com
 ||fnc.ebc.net.tw
+||news.ebc.net.tw
 .ebony-beauty.com
 ebookbrowse.com
 ebookee.com
@@ -3549,8 +3559,8 @@ etvonline.hk
 ||euronews.com
 eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
 eeas.europa.eu/statements-eeas/2015/151022
-.evschool.net
-|http://evschool.net
+||apps.evozi.com
+||evschool.net
 ||exblog.jp
 ||blog.exblog.co.jp
 @@||www.exblog.jp
@@ -4666,6 +4676,7 @@ hqmovies.com
 .hrea.org
 .hrichina.org
 ||hrichina.org
+||hrntt.org
 .hrtsea.com
 .hrw.org
 ||hrw.org
@@ -4703,6 +4714,7 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
+||humanparty.me
 ||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
@@ -4744,7 +4756,7 @@ ibros.org
 .ibvpn.com
 ||ibvpn.com
 icams.com
-blogs.icerocket.com/tag
+||icedrive.net
 .icij.org
 ||icij.org
 ||icl-fi.org
@@ -5058,6 +5070,7 @@ juziyue.com
 ||juziyue.com
 ||jwmusic.org
 @@||music.jwmusic.org
+||cdn.jwplayer.com
 .jyxf.net
 
 !--------------------KK-------------------------
@@ -5247,12 +5260,12 @@ letscorp.net
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
-.libertytimes.com.tw
+||libertysculpturepark.com
+||libertytimes.com.tw
 blogs.libraryinformationtechnology.com/jxyz
 ||libredd.it
-.lighten.org.tw
-.lightnovel.cn
-@@|https://www.lightnovel.cn
+||lighten.org.tw
+||lightnovel.cn
 limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
@@ -5283,14 +5296,13 @@ listorious.com
 .liujianshu.com
 ||liujianshu.com
 .liuxiaobo.net
-|http://liuxiaobo.net
+||liuxiaobo.net
 liuxiaotong.com
 ||liuxiaotong.com
 .livedoor.jp
 .liveleak.com
 ||liveleak.com
 ||livemint.com
-.livestation.com
 livestream.com
 ||livestream.com
 ||livingonline.us
@@ -5300,7 +5312,7 @@ livestream.com
 .liwangyang.com
 lizhizhuangbi.com
 lkcn.net
-.llss.me/
+||chat.lmsys.org
 ||lncn.org
 .load.to
 .lobsangwangyal.com
@@ -6145,6 +6157,7 @@ picturesocial.com
 .piposay.com
 piraattilahti.org
 .piring.com
+||pixeldrain.com
 ||pixelqi.com
 ||css.pixnet.in
 ||pixnet.net
@@ -6229,6 +6242,7 @@ politicalconsultation.org
 postadult.com
 .postimg.org
 ||potvpn.com
+||pourquoi.tw
 ||powercx.com
 .powerphoto.org
 ||www.powerpointninja.com
@@ -6339,7 +6353,8 @@ ss.pythonic.life/
 !--------------------QQ-------------------------
 .qanote.com
 ||qanote.com
-.qgirl.com.tw
+||qbittorrent.org
+||qgirl.com.tw
 ||qianbai.tw
 ||qiandao.today
 ||qiangwaikan.com
@@ -6379,13 +6394,11 @@ qxbbs.org
 
 !--------------------RR-------------------------
 ||r0.ru
-.ra.gg
-|http://ra.gg/
-.radicalparty.org
+||radio-canada.ca
 ||rael.org
 radicalparty.org
 ||radio.garden
-radioaustralia.net.au
+||radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
 ||radioline.co
@@ -6508,6 +6521,7 @@ rfaweb.org
 .roodo.com
 .rosechina.net
 .rotten.com
+||rou.video
 .rsf.org
 ||rsf.org
 .rsf-chinese.org
@@ -7056,6 +7070,7 @@ tahr.org.tw
 .taipeisociety.org
 ||taipeisociety.org
 ||taipeitimes.com
+||taisounds.com
 .taiwanbible.com
 .taiwancon.com
 .taiwandaily.net
@@ -7140,6 +7155,7 @@ teensinasia.com
 .telecomspace.com
 ||telegraph.co.uk
 .tenacy.com
+||tenor.com
 ||tenzinpalmo.com
 .tew.org
 ||tew.org
@@ -7993,7 +8009,7 @@ webworkerdaily.com
 .wefong.com
 weiboleak.com
 .weihuo.org
-weijingsheng.org
+||weijingsheng.org
 .weiming.info
 ||weiming.info
 weiquanwang.org
@@ -8139,7 +8155,7 @@ woxinghuiguo.com
 ||wqyd.org
 wrchina.org
 wretch.cc
-!-cn.wsj.com/gb/20130215/tec113853.asp
+||writesonic.com
 .wsj.com
 ||wsj.com
 .wsj.net
@@ -8149,7 +8165,7 @@ wretch.cc
 .wtfpeople.com
 wuerkaixi.com
 ||wufafangwen.com
-wufi.org.tw
+||wufi.org.tw
 ||wuguoguang.com
 wujie.net
 wujieliulan.com
@@ -8303,8 +8319,8 @@ yilubbs.com
 .yipub.com
 ||yipub.com
 yinlei.org/mt
-||yiyechat.com
 .yizhihongxing.com
+||yizhihongxing.com
 .yobt.com
 .yobt.tv
 ||yobt.tv
@@ -8341,20 +8357,19 @@ topic.youthwant.com.tw
 .youporngay.com
 ||youporngay.com
 .yourlisten.com
-|http://yourlisten.com
+||yourlisten.com
 .yourlust.com
-|http://yourlust.com
+||yourlust.com
 youshun12.com
 .youtubecn.com
 youversion.com
 ||youversion.com
-blog.youxu.info/2010/03/14/west-chamber
 ytht.net
 yuanming.net
 .yuanzhengtang.org
 .yulghun.com
+||yulghun.com
 ||yunchao.net
-||yuntipub.com
 .yuvutu.com
 ||yvesgeleyn.com
 .ywpw.com/forums/history/post/A0/p0/html/227
@@ -8362,6 +8377,7 @@ yx51.net
 .yyii.org
 ||yyii.org
 ||yyjlymb.xyz
+||yysub.net
 .yzzk.com
 ||yzzk.com
 
