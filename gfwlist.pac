@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jYUuq1LbGZszOzTEKRfKiA
+! Checksum: zdzBqa1drIB9jEVG5pOdTw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 06 Jun 2024 23:48:34 -0400
+! Last Modified: Sat, 03 Aug 2024 21:26:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -71,6 +71,7 @@ itunes.apple.com/us
 ||altrec.com
 ||angela-merkel.de
 ||angola.org
+||anthropic.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -92,6 +93,7 @@ itunes.apple.com/us
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||claude.ai
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
@@ -512,6 +514,7 @@ share.dmhy.org
 ||bithumb.com
 ||bitinka.com.ar
 ||bitmex.com
+||bnbstatic.com
 ||btc98.com
 ||btcbank.bank
 ||btctrade.im
@@ -2397,6 +2400,7 @@ avaaz.org
 ||axureformac.com
 .azerbaycan.tv
 azerimix.com
+||azirevpn.com
 !--boxun.azurewebsites.net doesn't exist.
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
@@ -3022,7 +3026,8 @@ cloakpoint.com
 ||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
-cmi.org.tw
+||cmegroup.com
+||cmi.org.tw
 |http://www.cmoinc.org
 cmp.hku.hk
 hkupop.hku.hk
@@ -4818,7 +4823,8 @@ ifjc.org
 .imagefap.com
 ||imagefap.com
 ||imageflea.com
-imageshack.us
+||imageglass.org
+||imageshack.us
 ||imagevenue.com
 ||imagezilla.net
 .imb.org
@@ -4882,7 +4888,7 @@ inxian.com
 ||inxian.com
 ipalter.com
 !--||ipcf.org.tw
-.ipfire.org
+||ipfire.org
 ||iphone4hongkong.com
 ||iphonehacks.com
 ||iphonetaiwan.org
@@ -4953,6 +4959,7 @@ ithelp.ithome.com.tw
 .iverycd.com
 .ivpn.net
 ||ivpn.net
+||iwara.tv
 ||ixquick.com
 .ixxx.com
 .iyouport.com
@@ -6117,6 +6124,7 @@ penisbot.com
 .percy.in
 .perfectgirls.net
 ||perfect-privacy.com
+||perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 phapluan.org
@@ -7322,11 +7330,11 @@ tibetoffice.eu
 tibetonline.com
 ||tibetonline.com
 .tibetoffice.com.au
-|http://tibetoffice.com.au
+||tibetoffice.com.au
 ||tibetonline.tv
 .tibetonline.tv
 .tibetoralhistory.org
-|http://tibetoralhistory.org
+||tibetoralhistory.org
 .tibetpolicy.eu
 .tibetrelieffund.co.uk
 tibetsites.com
@@ -7334,10 +7342,11 @@ tibetsites.com
 ||tibetsociety.com
 .tibetsun.com
 .tibetsupportgroup.org
-|http://tibetsupportgroup.org
+||tibetsupportgroup.org
 .tibetswiss.ch
 .tibettelegraph.com
 tibettimes.net
+||tibettruth.com
 ||tibetwrites.org
 .ticket.com.tw
 .tigervpn.com
