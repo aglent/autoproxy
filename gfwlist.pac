@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zdzBqa1drIB9jEVG5pOdTw
+! Checksum: j9+lCGr2eTNyrwZCFg8ZzQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 03 Aug 2024 21:26:19 -0400
+! Last Modified: Mon, 07 Oct 2024 11:39:43 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -878,6 +878,7 @@ cdninstagram.com
 ||facebook.com
 !--/^https?:\/\/[^\/]+facebook\.com/
 @@||v6.facebook.com
+||facebook.de
 ||facebook.design
 ||connect.facebook.net
 ||facebook.hu
@@ -896,6 +897,7 @@ cdninstagram.com
 ||instagram.com
 ||m.me
 ||messenger.com
+||meta.com
 ||oculus.com
 ||oculuscdn.com
 ||rocksdb.org
@@ -1551,6 +1553,7 @@ blogspot.com
 ||on2.com
 ||opensource.google
 ||panoramio.com
+||passwords.google
 ||picasaweb.com
 ||pki.goog
 ||plus.codes
@@ -2706,6 +2709,7 @@ busytrade.com
 .buzzhand.net
 .buzzorange.com
 ||buzzorange.com
+||buzzsprout.com
 ||bvpn.com
 ||bwh1.net
 bwsj.hk
@@ -4957,6 +4961,7 @@ ithelp.ithome.com.tw
 .ivacy.com
 ||ivacy.com
 .iverycd.com
+||ivonblog.com
 .ivpn.net
 ||ivpn.net
 ||iwara.tv
@@ -4973,11 +4978,11 @@ ithelp.ithome.com.tw
 !--------------------JJ-------------------------
 ||j.mp
 ||jable.tv
-blog.jackjia.com
+||blog.jackjia.com
 jamaat.org
 ||jamestown.org
-.jamyangnorbu.com
-|http://jamyangnorbu.com
+||jamyangnorbu.com
+||jan.ai
 .jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
@@ -6110,12 +6115,9 @@ peacehall.com
 penchinese.com
 ||penchinese.net
 .penchinese.net
-pengyulong.com
-penisbot.com
 ||blog.pentalogic.net
 .penthouse.com
-.pentoy.hk/%E4%B8%AD%E5%9C%8B
-.pentoy.hk/%E6%99%82%E4%BA%8B
+||pentoy.hk
 .peoplebookcafe.com
 .peoplenews.tw
 ||peoplenews.tw
@@ -6131,7 +6133,6 @@ phapluan.org
 .phayul.com
 ||phayul.com
 philborges.com
-philly.com
 ||phncdn.com
 ||photodharma.net
 ||photofocus.com
@@ -6201,14 +6202,13 @@ pobieramy.top
 ||poe.com
 .pokerstars.com
 ||pokerstars.com
-.pokerstars.net
-zh.pokerstrategy.com
-politicalchina.org
-politicalconsultation.org
+||pokerstars.net
+||zh.pokerstrategy.com
+||politicalchina.org
+||politicalconsultation.org
 .politiscales.net
 ||poloniex.com
-.polymerhk.com
-|http://polymerhk.com
+||polymerhk.com
 .popo.tw
 !--||popularpages.net
 ||popvote.hk
@@ -6292,7 +6292,6 @@ heix.pp.ru
 ||premeforwindows7.com
 ||presentationzen.com
 ||prestige-av.com
-prisoner-state-secret-journal-premier
 .prisoneralert.com
 ||pritunl.com
 ||privacybox.de
@@ -6310,7 +6309,6 @@ privatetunnel.com
 provideocoalition.com
 ||prosiben.de
 proxifier.com
-api.proxlet.com
 ||proxomitron.info
 .proxpn.com
 ||proxpn.com
@@ -6354,9 +6352,9 @@ pwned.com
 ||pximg.net
 python.com
 .python.com.tw
-|http://python.com.tw
+||python.com.tw
 pythonhackers.com/p
-ss.pythonic.life/
+ss.pythonic.life
 
 !--------------------QQ-------------------------
 .qanote.com
@@ -6379,13 +6377,12 @@ bbs.qmzdd.com
 .qkshare.com
 qoos.com
 ||qoos.com
-blog.qooza.hk/dafengqixi
 ||efksoft.com
 ||qstatus.com
 ||qtweeter.com
 ||qtrac.eu
 .quannengshen.org
-|http://quannengshen.org
+||quannengshen.org
 quantumbooter.net
 ||quitccp.net
 .quitccp.net
@@ -6421,14 +6418,13 @@ opml.radiotime.com
 .raizoji.or.jp
 |http://raizoji.or.jp
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 |http://blog.ranxiang.com/
 ranyunfei.com
 ||ranyunfei.com
 .rapbull.net
-|http://rapidgator.net/
+!--|http://rapidgator.net/
 ||rapidmoviez.com
 rapidvpn.com
 ||rapidvpn.com
@@ -6982,6 +6978,7 @@ stickeraction.com/sesawe
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||storify.com
+||storj.io
 .stormmediagroup.com
 ||stoweboyd.com
 ||straitstimes.com
@@ -7257,12 +7254,12 @@ tibet.ca
 tibet.fr
 .tibet.net
 ||tibet.net
-tibet.nu
+||tibet.nu
 .tibet.org
 ||tibet.org
 .tibet.sk
-tibet.org.tw
-.tibet.to
+||tibet.org.tw
+||tibet.to
 .tibet-envoy.eu
 ||tibet-envoy.eu
 .tibet-foundation.org
@@ -7323,34 +7320,28 @@ tibetcharity.in
 .tibetkomite.dk
 ||tibetmuseum.org
 ||tibetnetwork.org
-.tibetoffice.ch
-|http://tibetoffice.ch
+||tibetoffice.ch
 tibetoffice.eu
 ||tibetoffice.org
-tibetonline.com
 ||tibetonline.com
-.tibetoffice.com.au
 ||tibetoffice.com.au
 ||tibetonline.tv
-.tibetonline.tv
-.tibetoralhistory.org
 ||tibetoralhistory.org
-.tibetpolicy.eu
-.tibetrelieffund.co.uk
-tibetsites.com
-.tibetsociety.com
+||tibetpolicy.eu
+||tibetrelieffund.co.uk
+||tibetsites.com
 ||tibetsociety.com
-.tibetsun.com
-.tibetsupportgroup.org
+||tibetsun.com
 ||tibetsupportgroup.org
-.tibetswiss.ch
-.tibettelegraph.com
-tibettimes.net
+||tibetswiss.ch
+||tibettelegraph.com
+||tibettimes.net
 ||tibettruth.com
 ||tibetwrites.org
 .ticket.com.tw
 .tigervpn.com
 ||tigervpn.com
+||tiktokv.com
 .timdir.com
 |http://timdir.com
 .time.com
@@ -7417,6 +7408,7 @@ torrentprivacy.com
 |http://torrentproject.se
 ||torrenty.org
 ||torrentz.eu
+||tortoisesvn.net
 ||torvpn.com
 ||totalvpn.com
 .toutiaoabc.com
@@ -7767,8 +7759,8 @@ us.to
 ||usacn.com
 .usaip.eu
 ||usaip.eu
-dalailama.usc.edu
 ||uscnpm.org
+||uscardforum.com
 ||usma.edu
 .usocctn.com
 ||ustibetcommittee.org
