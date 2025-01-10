@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: j9+lCGr2eTNyrwZCFg8ZzQ
+! Checksum: QZiCBuiVJrwVYDpxySTygQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Oct 2024 11:39:43 -0400
+! Last Modified: Sat, 04 Jan 2025 11:07:40 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -95,6 +95,7 @@ itunes.apple.com/us
 ||ciciai.com
 ||claude.ai
 ||clearsurance.com
+||cnbeta.com.tw
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
@@ -1421,6 +1422,7 @@ blogspot.com
 ||digisfera.com
 ||dns.google
 ||hub.docker.com
+||docs.new
 ||domains.google
 ||duck.com
 ||environment.google
@@ -1572,6 +1574,9 @@ blogspot.com
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
+||sheets.new
+||slides.new
+||snapseed.com
 ||stories.google
 ||sustainability.google
 ||synergyse.com
@@ -1591,6 +1596,7 @@ blogspot.com
 ||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
+||whats.new
 ||widevine.com
 ||withgoogle.com
 ||withyoutube.com
@@ -2665,7 +2671,8 @@ bbs.brockbbs.com
 brucewang.net
 .brutaltgp.com
 ||brutaltgp.com
-.bt2mag.com
+||bsky.app
+||bsky.social
 ||bt95.com
 .btaia.com
 .btbtav.com
@@ -3248,6 +3255,7 @@ dcmilitary.com
 ||de-sci.org
 .de-sci.org
 ||deadline.com
+||deepai.org
 ||decodet.co
 
 !--Origin:cdn-i30$_
@@ -4158,6 +4166,7 @@ greatzhonghua.org
 ||greenvpn.net
 .greenvpn.org
 ||grindr.com
+||ground.news
 ||grotty-monday.com
 gs-discuss.com
 ||gsearch.media
@@ -4432,21 +4441,12 @@ guruonline.hk
 .h-moe.com
 |http://h-moe.com
 h1n1china.org
-.hacg.club
-||hacg.club
-.hacg.in
-|http://hacg.in
-.hacg.li
-|http://hacg.li
-.hacg.me
-|http://hacg.me
-.hacg.red
-|http://hacg.red
 .hacken.cc/bbs
 .hacker.org
 ||hackmd.io
 ||hackthatphone.net
 hahlo.com
+||haijiao.com
 ||hakkatv.org.tw
 .handcraftedsoftware.org
 |http://bbs.hanminzu.org/
@@ -4514,8 +4514,8 @@ hentaitube.tv
 !--@@||f.cl.ly
 !--EC2 DNS Poisoned
 ||id.heroku.com
+||herokuapp.com
 
-heqinglian.net
 ||heqinglian.net
 ||heritage.org
 ||heungkongdiscuss.com
@@ -4676,6 +4676,7 @@ hotpot.hk
 ||hougaige.com
 ||howtoforge.com
 ||hoxx.com
+||hpjav.com
 .hqcdp.org
 ||hqcdp.org
 ||hqjapanesesex.com
@@ -4756,6 +4757,7 @@ iask.ca
 iask.bz
 ||iask.bz
 .iav19.com
+||iavian.net
 ibiblio.org/pub/packages/ccic
 ||ibit.am
 .iblist.com
@@ -6094,8 +6096,9 @@ pbwiki.com
 ||pbxes.com
 ||pbxes.org
 pcdvd.com.tw
+||pcgamestorrents.com
 .pchome.com.tw
-|http://pcij.org
+||pcij.org
 .pcstore.com.tw
 ||pct.org.tw
 pdetails.com
@@ -7937,6 +7940,7 @@ vpnjack.com
 .vpser.net
 @@||vpser.net
 vraiesagesse.net
+||vrchat.com
 .vrmtr.com
 ||vtunnel.com
 ||vuku.cc
