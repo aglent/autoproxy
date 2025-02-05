@@ -21,6 +21,10 @@ function belongsToSubnet(host, list) {
   return (masked >>> 0) == (list[x][0] >>> 0);
 }
 
+function isIpAddress(ip) {
+    return /^\d{1,3}(\.\d{1,3}){3}$/.test(ip);
+}
+
 function isChina(host) {
   return belongsToSubnet(host, CHINA);
 }
@@ -34,15 +38,19 @@ var direct = "DIRECT";
 
 
 function FindProxyForURL(url, host) {
-  if (!isResolvable(host)) {
-      return proxy;
+  if (cache[host] != undefined){
+      return cache[host]? proxy : direct;
   }
-  var remote = dnsResolve(host);
-  if (isChina(remote) || isLan(remote)) {
+  var ip = isIpAddress(host) ? host : dnsResolve(host);
+  if (isLan(ip) || isChina(ip)) {
+      cache[host] = false;
       return direct;
   }
+  cache[host] = true;
   return proxy;
 }
+
+var cache = {};
 
 var CHINA = [
   // Format: [Hex IP, mask]
