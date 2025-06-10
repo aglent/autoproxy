@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OB2KGMMsX2yNgYKy9ZfCrg
+! Checksum: Co2BWyY8lzrb2X7PPiXAKA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 05 Mar 2025 18:44:39 +0800
+! Last Modified: Fri, 06 Jun 2025 11:15:55 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -72,8 +72,12 @@ itunes.apple.com/us
 ||afreecatv.com
 ||agnesb.fr
 ||airitilibrary.com
+||abematv.akamaized.net
+||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
 ||akiba-web.com
 ||altrec.com
+||amazonvideo.com
 ||angela-merkel.de
 ||angola.org
 ||anthropic.com
@@ -81,6 +85,7 @@ itunes.apple.com/us
 ||apartments.com
 ||arena.taipei
 ||asianspiss.com
+||assets.bwbx.io
 ||assimp.org
 ||athenaeizou.com
 ||azubu.tv
@@ -98,6 +103,7 @@ itunes.apple.com/us
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||cici.com
 ||claude.ai
 ||clearsurance.com
 ||cnbeta.com.tw
@@ -198,6 +204,8 @@ itunes.apple.com/us
 ||lih.kg
 ||longtoes.com
 ||lovetvshow.com
+||lpsg.com
+||lrfz.com
 |http://www.m-sport.co.uk
 ||macgamestore.com
 ||madonna-av.com
@@ -217,6 +225,8 @@ itunes.apple.com/us
 ||moodyz.com
 ||moonbingo.com
 ||mos.ru
+||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
+||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||msha.gov
 ||www.msn.com
 ||muzu.tv
@@ -263,6 +273,8 @@ itunes.apple.com/us
 |http://*.pimg.tw/
 ||podcast.co
 ||popai.pro
+||primevideo.com
+||proyectoclubes.com
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -375,14 +387,14 @@ itunes.apple.com/us
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
+@@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
+||xn--ngstr-lra8j.com
 
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 !-||cdn-images.mailchimp.com
 ||abebooks.com
 |https://*.s3.amazonaws.com
-||s3-ap-southeast-1.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
 ||9cache.com
@@ -414,7 +426,6 @@ itunes.apple.com/us
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||feedly.comfastgpt.run
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -489,6 +500,7 @@ itunes.apple.com/us
 ||redd.it
 ||redditspace.com
 ||reddit.com
+||reddithelp.com
 .redditlist.com
 |http://redditlist.com
 ||redditmedia.com
@@ -667,6 +679,14 @@ china-mmm.sa.com
 ||payments-jp.amazon.com
 ||amazon.co.jp
 ||s3-ap-*.amazonaws.com
+||s3.eu-central-1.amazonaws.com
+||s3-eu-central-1.amazonaws.com
+||s3.us-east-1.amazonaws.com
+||s3-ap-northeast-2.amazonaws.com
+||s3.ap-northeast-2.amazonaws.com
+||s3-ap-northeast-1.amazonaws.com
+||s3-ap-southeast-1.amazonaws.com
+||s3-ap-southeast-2.amazonaws.com
 
 !!---AOL---
 ||aolchannels.aol.com
@@ -882,6 +902,8 @@ bloomberg.de
 
 !!--Cloudflare--
 !--||pages.dev
+||workers.dev
+||one.one.one.one
 
 !!---CloudFront---
 ||cloudfront.net
@@ -969,6 +991,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||*.google
 ||doc.new
 ||form.new
 ||forms.new
@@ -981,19 +1004,16 @@ bloomberg.de
 ||slides.new
 ||deck.new
 ||presentation.new
-||translate.googleapis.com
-||maps.googleapis.com
+||googleapis.com
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
 ||1e100.net
 ||466453.com
 ||abc.xyz
-||about.google
 ||admob.com
 ||adsense.com
 ||advertisercommunity.com
 ||agoogleaday.com
-||ai.google
 ||ampproject.org
 @@|https://www.ampproject.org
 @@|https://cdn.ampproject.org
@@ -1005,7 +1025,6 @@ bloomberg.de
 .appspot.com
 ||appspot.com
 ||autodraw.com
-||blog.google
 ||blogblog.com
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
@@ -1017,29 +1036,22 @@ blogspot.com
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
-||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
 ||cloudfunctions.net
-||com.google
 ||crbug.com
 ||creativelab5.com
-||crisisresponse.google
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
 ||deepmind.com
 ||deja.com
-||design.google
 ||digisfera.com
-||dns.google
 ||docker.com
 ||docs.new
-||domains.google
 ||duck.com
-||environment.google
 ||feedburner.com
 ||firebaseio.com
 ||g.co
@@ -1147,7 +1159,6 @@ blogspot.com
 ||googleweblight.com
 ||googlezip.net
 ||groups.google.cn
-||grow.google
 ||gstatic.com
 !--||gv.com
 ||gvt0.com
@@ -1159,29 +1170,21 @@ blogspot.com
 ||iam.soy
 ||igoogle.com
 ||itasoftware.com
-||lers.google
 ||like.com
 ||madewithcode.com
 ||material.io
-||nic.google
 ||on2.com
-||opensource.google
 ||panoramio.com
-||passwords.google
 ||picasaweb.com
 ||pki.goog
 ||plus.codes
 ||polymer-project.org
-||pride.google
 ||questvisual.com
 ||admin.recaptcha.net
 ||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||redhotlabs.com
-||registry.google
-||research.google
-||safety.google
 ||savethedate.foo
 ||schema.org
 ||shattered.io
@@ -1189,8 +1192,6 @@ blogspot.com
 ||sheets.new
 ||slides.new
 ||snapseed.com
-||stories.google
-||sustainability.google
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
@@ -1198,7 +1199,6 @@ blogspot.com
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||translate.goog
-||tv.google
 ||ua5v.com
 ||urchin.com
 ||usercontent.goog
@@ -1273,6 +1273,9 @@ cn.nytstyle.com
 ||steamstatic.com
 !!---Telegram---
 !!!---Domain---
+||tx.me
+||tg.dev
+||telega.one
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
@@ -1295,6 +1298,8 @@ cn.nytstyle.com
 ||tiktokv.com
 ||tiktokv.us
 ||tiktokcdn-us.com
+||tiktokcdn.com
+||tiktokcdn-eu.com
 
 !!---Twitch---
 ||jtvnw.net
@@ -1555,6 +1560,11 @@ wikinews.org
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
+||91dasai.com
+||i.111666.best
+||1lib.sk
+||2047.one
+||69shuba.cx
 ||2049bbs.xyz
 ||611study.com
 ||18comic.org
@@ -1705,6 +1715,8 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||cdn.arstechnica.net
+||aomedia.org
 ||aljazeera.com
 ||akinator.com
 ||annas-archive.org
@@ -1789,11 +1801,6 @@ a248.e.akamai.net
 
 rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
-
-!!--403
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
 
 |https://fbcdn*.akamaihd.net/
 !--||fbexternal-a.akamaihd.net
@@ -2022,6 +2029,8 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||blackmagicdesign.com
+||bearteach.com
 ||btbtt.me
 ||btbtt.co
 ||btbit.net
@@ -2210,9 +2219,6 @@ blogtd.net
 |http://blogtd.org
 ||bloodshed.net
 ||bootstrapcdn.com
-!--403
-||assets.bwbx.io
-
 ||bloomfortune.com
 blueangellive.com
 ||blubrry.com
@@ -2346,6 +2352,11 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||coffeemanga.to
+||ctinews.com
+||cachefly.com
+||cachefly.net
+||cutout.pro
 ||cixiaoya.club
 ||campaign-archive.com
 ||chinauncensored.tv
@@ -2810,6 +2821,8 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||docker.io
+||disneyplus.com
 ||ddex.io
 ||d.cash
 ||doubiyunbackup.com
@@ -3022,8 +3035,6 @@ drsunacademy.com
 ||dtic.mil
 .dtwang.org
 .duanzhihu.com
-.duckdns.org
-|http://duckdns.org
 .duckduckgo.com
 ||duckduckgo.com
 .duckload.com/download
@@ -3207,7 +3218,7 @@ etaiwannews.com
 ||etizer.org
 ||etokki.com
 ||etsy.com
-||*.ettoday.net
+.ettoday.net
 etvonline.hk
 .eucasino.com
 .eulam.com
@@ -3243,11 +3254,13 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||fast.com
+||factchecklab.org
+||ft.com
 ||fuchsia.dev
 ||freess.org
 ||fril.jp
 ||free.com.tw
-||fastgpt.run
 ||froth.zone
 ||fanbox.cc
 ||free.bg
@@ -3327,8 +3340,8 @@ fangeming.com
 !--Fastly
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
-||*.global.ssl.fastly.net
-||*.freetls.fastly.net
+.global.ssl.fastly.net
+||freetls.fastly.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
@@ -3587,6 +3600,9 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+|http://gmp4.com
+||getsession.org
+||gdaily.org
 ||gfwatch.org
 ||go-to-zlibrary.se
 ||gitbook.io
@@ -3730,6 +3746,7 @@ gigporno.ru
 .github.io
 ||github.io
 ||githubusercontent.com
+||githubassets.com
 
 .gizlen.net
 ||gizlen.net
@@ -3798,6 +3815,7 @@ good.news
 ||gopetition.com
 .goproxing.net
 ||goreforum.com
+||gotquestions.org
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
@@ -4093,6 +4111,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hanime1.me
 ||halktv.com.tr
 ||haiwaikan.com
 ||home.saxo
@@ -4457,6 +4476,7 @@ idemocracy.asia
 ||identi.ca
 ||idiomconnection.com
 |http://www.idlcoyote.com
+||idope.se
 .idouga.com
 .idreamx.com
 forum.idsam.com
@@ -4882,6 +4902,8 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||ldplayer.tw
+||ldplayer.net
 ||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
@@ -5035,9 +5057,6 @@ longmusic.com
 .lotuslight.org.hk
 .lotuslight.org.tw
 hkreporter.loved.hk
-!--403?
-||lpsg.com
-||lrfz.com
 .lrip.org
 ||lrip.org
 .lsd.org.hk
@@ -5070,6 +5089,9 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||missav.ws
+||news.mt.co.kr
+||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
@@ -5078,8 +5100,6 @@ lvhai.org
 ||mirror.xyz
 ||mywife.cc
 ||c.mi.com
-||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
-||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||missav.com
 ||madou.club
 ||mahjongsoul.com
@@ -5396,6 +5416,13 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||bbs.naixi.net
+||nikke.hotcool.tw
+||nikke-kr.com
+||nikke-jp.com
+||nikke-en.com
+||www.nodeloc.com
+||netlify.app
 ||nightswatch.top
 ||nbyy.tv
 ||newthuhole.com
@@ -5745,6 +5772,8 @@ bbs.ozchinese.com
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||puredns.org
+||polymarket.com
 ||pandafan.pub
 ||proxz.com
 ||potatso.com
@@ -5997,13 +6026,13 @@ powerapple.com
 ||abc.pp.ru
 heix.pp.ru
 ||prayforchina.net
-||premeforwindows7.com
+||prcleader.org
 ||presentationzen.com
 ||prestige-av.com
 .prisoneralert.com
 ||pritunl.com
 ||privacybox.de
-.private.com/home
+||private.com
 ||privateinternetaccess.com
 privatepaste.com
 ||privatepaste.com
@@ -6026,8 +6055,6 @@ proxifier.com
 ||proxypy.net
 proxyroad.com
 .proxytunnel.net
-!--403 maybe
-||proyectoclubes.com
 prozz.net
 psblog.name
 ||psblog.name
@@ -6065,6 +6092,7 @@ pythonhackers.com/p
 ss.pythonic.life
 
 !--------------------QQ-------------------------
+|http://qmp4.com
 ||qianmo.tw
 .qanote.com
 ||qanote.com
@@ -6108,6 +6136,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rule34video.com
 ||r10s.jp
 ||rakuten.co.jp
 ||r0.ru
@@ -6264,12 +6293,16 @@ rukor.org
 .ruten.com.tw
 ||ruten.com.tw
 ||rutracker.net
+||rutracker.org
 rutube.ru
 .ruyiseek.com
 .rxhj.net
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sagernet.org
+||simplex.chat
+||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
 ||secure.shadowsocks.nu
@@ -6728,6 +6761,7 @@ tw.streetvoice.com
 ||stumbleupon.com
 stupidvideos.com
 ||substack.com
+||subhd.tv
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
@@ -6781,6 +6815,11 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||rtm.tnt-ea.com
+||tellapart.com
+||threads.com
+||tg-me.com
+||twkan.com
 ||tunein.streamguys1.com
 ||tou.tv
 ||tinyurl.com
@@ -6938,7 +6977,6 @@ thefrontier.hk/tf
 ||thehun.net
 .theinitium.com
 ||theinitium.com
-||themoviedb.org
 .thenewslens.com
 ||thenewslens.com
 .thepiratebay.org
@@ -7830,7 +7868,6 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
 .wikiwand.com
 ||wikiwand.com
-||wikiwiki.jp
 ||casino.williamhill.com
 ||sports.williamhill.com
 ||vegas.williamhill.com
@@ -7869,7 +7906,6 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||workatruna.com
 ||workerdemo.org.hk
 ||workerempowerment.org
-||workers.dev
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
@@ -7936,6 +7972,7 @@ wukangrui.net
 wzyboy.im/post/160
 
 !--------------------XX-------------------------
+||x.ai
 ||xt.com
 ||xt.pub
 ||x.co
@@ -8143,6 +8180,12 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-library.sk
+||z-lib.fm
+||z-lib.gd
+||z-lib.gl
+||z-lib.fo
+||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
 ||z-lib.io
@@ -8240,6 +8283,8 @@ zyzc9.com
 !#############Supplemental List End#############
 
 !################Whitelist Start################
+@@||www.ettoday.net
+
 @@||aliyun.com
 @@||baidu.com
 @@||chinaso.com
