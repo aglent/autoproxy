@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Bt5F9Mz64sVCNP/emSOH/g
+! Checksum: CheWtaDPKqOChbt73v8ErA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 21 Sep 2026 01:30:46 +0000
+! Last Modified: Thu, 01 Oct 2026 02:10:03 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1650,6 +1650,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
@@ -2098,6 +2099,7 @@ iipdigital.usembassy.gov
 ||eyevio.jp
 ||eyny.com
 !--------------------FF-------------------------
+||fuyin116.com
 ||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
@@ -2251,6 +2253,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
 ||guangming.com.my
@@ -2841,6 +2844,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||muse.ai
 ||historylines.net
 ||kiwix.org
 ||mceindex.com
@@ -3381,6 +3385,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
 ||qianmo.tw
@@ -4115,6 +4120,7 @@ iipdigital.usembassy.gov
 ||uyghurtribunal.com
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vava8.com
 ||v.recipes
 ||vox.com
 ||vimeocdn.com
@@ -4194,6 +4200,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wallhaven.cc
 ||wtfpass.com
 ||write.as
 ||windy.com
